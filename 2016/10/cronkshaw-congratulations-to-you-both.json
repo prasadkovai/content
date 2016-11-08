@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@cronkshaw Congratulations to you both!"
+    ],
+    "published": [
+      "2016-10-23T19:20:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@cronkshaw Congratulations to you both!"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/790154109898919936"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/790271660972609536"
+    ],
+    "slug": [
+      "cronkshaw-congratulations-to-you-both"
+    ]
+  }
+}

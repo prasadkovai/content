@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> A full-featured markdown parser and compiler, written in JavaScript. Built for speed."
+    ],
+    "published": [
+      "2016-11-06T14:07:27Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "marked"
+    ],
+    "bookmark-of": [
+      "https://github.com/chjj/marked"
+    ],
+    "category": [
+      "markdown",
+      "javascript"
+    ],
+    "slug": [
+      "marked"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Images and Sketch files for popular devices"
+    ],
+    "published": [
+      "2016-11-05T18:26:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Devices | Facebook Design"
+    ],
+    "bookmark-of": [
+      "http://facebook.design/devices"
+    ],
+    "category": [
+      "image",
+      "wireframe",
+      "device",
+      "sketch",
+      "stock"
+    ],
+    "slug": [
+      "devices-facebook-design"
+    ]
+  }
+}

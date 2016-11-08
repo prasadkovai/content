@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-11-05T18:28:47Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Adding code highlight to your Sinatra app with Rouge"
+    ],
+    "bookmark-of": [
+      "http://yhara.jp/2016/10/25/sinatra-rouge"
+    ],
+    "category": [
+      "sinatra",
+      "ruby",
+      "highlight",
+      "blog"
+    ],
+    "slug": [
+      "adding-code-highlight-to-your-sinatra"
+    ]
+  }
+}

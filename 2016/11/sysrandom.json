@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> Secure random number generation for Ruby using system RNG facilities"
+    ],
+    "published": [
+      "2016-11-06T14:13:22Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "sysrandom"
+    ],
+    "bookmark-of": [
+      "https://github.com/cryptosphere/sysrandom"
+    ],
+    "category": [
+      "ruby",
+      "random",
+      "security"
+    ],
+    "slug": [
+      "sysrandom"
+    ]
+  }
+}

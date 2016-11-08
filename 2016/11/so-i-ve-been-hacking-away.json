@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "So I've been hacking away for a couple of months but I think I'm almost there with my new personal website/engine.\r\n\r\nMy aim has been to rebuild to support the latest [Micropub draft specification](http://micropub.net/draft/), including full edits and deletes/undeletes via JSON, and pass the Micropub.rocks and Webmention.rocks test suites. \r\n\r\nI'm now at 100% for both and I suppose all that's left is to refactor a tiny bit, import my content, write it up and then push it live. It's tempting to keep tinkering but I think I'll learn more from selfdogfooding and getting it out in the wild. \r\n"
+    ],
+    "published": [
+      "2016-11-07T11:49:37Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "category": [
+      "indieweb",
+      "transformative"
+    ],
+    "slug": [
+      "so-i-ve-been-hacking-away"
+    ]
+  }
+}

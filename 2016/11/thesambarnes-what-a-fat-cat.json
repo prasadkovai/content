@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes What a fat cat..."
+    ],
+    "published": [
+      "2016-11-06T17:49:20Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@thesambarnes What a fat cat..."
+    ],
+    "in-reply-to": [
+      "https://twitter.com/thesambarnes/status/795322037082460160"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/795322196088524801"
+    ],
+    "slug": [
+      "thesambarnes-what-a-fat-cat"
+    ]
+  }
+}

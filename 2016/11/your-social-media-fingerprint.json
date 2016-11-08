@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Shows which sites you're logged in to via a simple browser technique."
+    ],
+    "published": [
+      "2016-11-05T18:23:18Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Your Social Media Fingerprint"
+    ],
+    "bookmark-of": [
+      "https://robinlinus.github.io/socialmedia-leak/"
+    ],
+    "category": [
+      "socialmedia",
+      "login",
+      "hack"
+    ],
+    "slug": [
+      "your-social-media-fingerprint"
+    ]
+  }
+}

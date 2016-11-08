@@ -1,0 +1,31 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "> A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+    ],
+    "published": [
+      "2016-11-05T18:29:26Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "awesome-remote-job"
+    ],
+    "bookmark-of": [
+      "https://github.com/lukasz-madon/awesome-remote-job"
+    ],
+    "category": [
+      "remote",
+      "job",
+      "career",
+      "work"
+    ],
+    "slug": [
+      "awesome-remote-job"
+    ]
+  }
+}

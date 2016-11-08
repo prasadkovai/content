@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "A friend looking for a project mgmt job for 4 months asked for help from friends on Facebook. Within a week has 3 job offers. _Recruitment_."
+    ],
+    "published": [
+      "2016-11-04T10:13:02Z"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "summary": [
+      "A friend looking for a project mgmt job for 4 months asked for help from friends on Facebook. Within a week has 3 job offers. _Recruitment_\r\n"
+    ],
+    "category": [
+      "job",
+      "recruitment",
+      "socialmedia"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/794482602920947712"
+    ],
+    "slug": [
+      "a-friend-looking-for-a-project"
+    ]
+  }
+}

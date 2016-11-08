@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-11-06T14:05:05Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Netflix Original Series, Ranked (Again)"
+    ],
+    "bookmark-of": [
+      "http://www.vulture.com/2016/09/netflix-original-series-ranked-again.html"
+    ],
+    "category": [
+      "netflix",
+      "tv"
+    ],
+    "slug": [
+      "netflix-original-series-ranked-again"
+    ]
+  }
+}

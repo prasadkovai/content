@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Small CSS framework with forms and grids"
+    ],
+    "published": [
+      "2016-11-06T14:14:50Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Pure"
+    ],
+    "bookmark-of": [
+      "http://purecss.io/"
+    ],
+    "category": [
+      "css",
+      "framework"
+    ],
+    "slug": [
+      "pure"
+    ]
+  }
+}

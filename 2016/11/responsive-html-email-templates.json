@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2016-11-06T14:06:08Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "name": [
+      "Responsive HTML Email Templates"
+    ],
+    "bookmark-of": [
+      "https://htmlemail.io/"
+    ],
+    "category": [
+      "email",
+      "responsive",
+      "template"
+    ],
+    "slug": [
+      "responsive-html-email-templates"
+    ]
+  }
+}

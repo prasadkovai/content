@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "@thesambarnes Do you actually live in the Royal Albert Hall these days?"
+    ],
+    "published": [
+      "2016-11-06T15:23:53Z"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "summary": [
+      "@thesambarnes Do you actually live in the Royal Albert Hall these days?"
+    ],
+    "in-reply-to": [
+      "https://twitter.com/thesambarnes/status/795278690737266688"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/795285589734072320"
+    ],
+    "slug": [
+      "thesambarnes-do-you-actually-live-in"
+    ]
+  }
+}
