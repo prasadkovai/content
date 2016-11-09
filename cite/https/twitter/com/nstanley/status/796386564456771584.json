@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/nstanley/status/796386564456771584"
     ],
-    "content": [
-      "@barryf annoying to have a watch PIN though isn't it? That's why I stopped"
-    ],
-    "author": [
-      "https://twitter.com/nstanley"
+    "name": [
+      "annoying to have a watch PIN though isn't it? That's why I stopped"
     ],
     "published": [
-      "2016-11-09 16:18:47 UTC"
+      "2016-11-09T16:18:47Z"
+    ],
+    "author": [
+      "http://soshowseo.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/11/success-rate-of-my-apple-watch"
+    ],
+    "content": [
+      {
+        "html": "annoying to have a watch PIN though isn't it? That's why I stopped"
+      }
     ]
   }
 }
