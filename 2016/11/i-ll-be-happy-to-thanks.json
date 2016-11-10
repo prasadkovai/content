@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'll be happy to! Thanks for the webmention."
+    ],
+    "in-reply-to": [
+      "https://calumryan.com/note/382"
+    ],
+    "published": [
+      "2016-11-10T19:32:22Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
