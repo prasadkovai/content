@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/RikMende/status/796791719966732288"
+    ],
+    "name": [
+      "Test Webmention : Transformative is a microblogging engine that powers barryfrost.com. It's… rmendes.net/2016/barryf-te…"
+    ],
+    "published": [
+      "2016-11-10T19:08:44Z"
+    ],
+    "author": [
+      "https://www.rmendes.net/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/11/transformative"
+    ],
+    "content": [
+      {
+        "html": "Test Webmention : Transformative is a microblogging engine that powers <a href=\"http://barryfrost.com\">barryfrost.com</a>. It's… <a href=\"https://rmendes.net/2016/barryf-test-webmention-transformative-is-a-microblogging-engine-that-powers\">rmendes.net/2016/barryf-te…</a>"
+      }
+    ]
+  }
+}
