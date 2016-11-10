@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/mr_mcd/status/796674975973408768"
+    ],
+    "syndication": [
+      "http://twitter.com/mr_mcd/status/796674975973408768"
+    ],
+    "published": [
+      "2016-11-10T11:41:13Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
