@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "logo": [
+      "https://rmendes.net/file/6945f4ae3039923a5ceb20d7e01d184d/thumb.jpg"
+    ],
+    "photo": [
+      "https://rmendes.net/file/6945f4ae3039923a5ceb20d7e01d184d/thumb.jpg"
+    ],
+    "name": [
+      "Rick Mendes"
+    ],
+    "url": [
+      "https://rmendes.net/profile/rick",
+      "https://rmendes.net/profile/rick"
+    ]
+  }
+}
