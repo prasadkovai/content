@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://rmendes.net/2016/liked-barry-frosts-post-on-barryfrostcom-5e4ee71d0c"
+    ],
+    "name": [
+      "Rick Mendes Liked Barry Frost's post on barryfrost.com Rick Mendespublished this 10 Nov 2016 0 stars 0 comments $(document).ready(function () { setTimeout(function() { $('#extrafield').html('<input type=\"hidden\" name=\"validator\" value=\"https://rmendes.net/2016/liked-barry-frosts-post-on-barryfrostcom-5e4ee71d0c\">'); //$('#comment-form').prepend('<form action=\"https://rmendes.net/comments/post\" method=\"post\">'); //$('#comment-form').append('</form>'); $('#comment-form').html('<form action=\"https://rmendes.net/comments/post\" method=\"post\">' + $('#comment-form').html() + '</form>'); $('#comment-submit').append('<input type=\"hidden\" name=\"object\" value=\"https://rmendes.net/2016/liked-barry-frosts-post-on-barryfrostcom-5e4ee71d0c\"><input type=\"hidden\" name=\"type\" value=\"reply\"><input type=\"submit\" class=\"btn btn-save\" value=\"Leave Comment\">'); },4000); })"
+    ],
+    "published": [
+      "2016-11-10T19:11:10Z"
+    ],
+    "author": [
+      "https://rmendes.net/profile/rick"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/11/transformative"
+    ],
+    "content": [
+      {
+        "html": "<i class=\"fa fa-star-o\"></i>\nLiked\n<a class=\"u-like-of\" href=\"https://barryfrost.com/2016/11/transformative\">\n  Barry Frost's post on barryfrost.com</a>"
+      }
+    ],
+    "photo": [
+      "https://rmendes.net/gfx/users/default-00.png"
+    ]
+  }
+}
