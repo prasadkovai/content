@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/barryf"
+    ],
     "name": [
       "Barry Frost"
     ],
     "photo": [
-      "https://twitter.com/barryf/profile_image?size=original"
-    ],
-    "url": [
-      "https://twitter.com/barryf"
+      "http://pbs.twimg.com/profile_images/1315177813/2010a_normal.jpg"
     ]
   }
 }
