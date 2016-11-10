@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/RikMende/status/796792725387509760"
+    ],
+    "name": [
+      "there you go some sweet webmention love :) (rmendes.net/s/4of4E)"
+    ],
+    "published": [
+      "2016-11-10T19:12:44Z"
+    ],
+    "author": [
+      "https://www.rmendes.net/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2016/11/transformative"
+    ],
+    "content": [
+      {
+        "html": "there you go some sweet webmention love :) (<a href=\"https://rmendes.net/s/4of4E\">rmendes.net/s/4of4E</a>)"
+      }
+    ]
+  }
+}
