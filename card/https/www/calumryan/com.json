@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://calumryan.com/images/profile.jpg"
+    ],
+    "name": [
+      "Calum Ryan"
+    ],
+    "url": [
+      "https://www.calumryan.com/"
+    ],
+    "email": [
+      "hello@calumryan.com"
+    ]
+  }
+}
