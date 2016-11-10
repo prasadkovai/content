@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://calumryan.com/note/381"
+    ],
+    "name": [
+      "Liked https://barryfrost.com/2016/11/transformative"
+    ],
+    "published": [
+      "2016-11-10T19:20:31Z"
+    ],
+    "author": [
+      "https://www.calumryan.com/"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/11/transformative"
+    ],
+    "content": [
+      {
+        "html": "Liked <a href=\"https://barryfrost.com/2016/11/transformative\">https://barryfrost.com/2016/11/transformative</a>"
+      }
+    ]
+  }
+}
