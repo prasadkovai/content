@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Thanks Rick. Appreciated! \r\n\r\nYes, Micropublish now needs some love. It's no longer compatible with the latest Micropub drafts."
+    ],
+    "in-reply-to": [
+      "https://rmendes.net/2016/barryf-there-you-go-some-sweet-webmention-love"
+    ],
+    "published": [
+      "2016-11-10T19:31:15Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
