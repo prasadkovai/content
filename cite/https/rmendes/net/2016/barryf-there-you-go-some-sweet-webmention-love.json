@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://rmendes.net/2016/barryf-there-you-go-some-sweet-webmention-love"
+    ],
+    "name": [
+      "@barryf there you go some sweet webmention love :) by the way: this https://micropublish.net/ returns \"internal server error\" when I log in with my domain."
+    ],
+    "published": [
+      "2016-11-10T19:12:43Z"
+    ],
+    "content": [
+      {
+        "html": "<div class=\"\">\n    <p class=\"p-name\"><a href=\"https://twitter.com/barryf\">@barryf</a> there you go some sweet webmention love :)<br>\r\n<br>\r\nby the way: this <a href=\"https://micropublish.net/\">https:/<wbr></wbr>/<wbr></wbr>micropublish.net/<wbr></wbr></a> returns \"internal server error\" when I log in with my domain.</p>\n</div>"
+      }
+    ],
+    "author": [
+      "https://rmendes.net/profile/rick"
+    ],
+    "photo": [
+      "https://rmendes.net/gfx/users/default-00.png"
+    ]
+  }
+}
