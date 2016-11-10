@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/barryf/status/796780455425179648"
+    ],
+    "syndication": [
+      "http://twitter.com/barryf/status/796780455425179648"
+    ],
+    "published": [
+      "2016-11-10T22:41:03Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
