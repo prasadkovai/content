@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "transformative,indieweb,micropub,webmention"
+    ],
+    "name": [
+      "Transformative"
+    ],
+    "content": [
+      "I'm happy to say this site is now running my new [IndieWeb][] microblogging software, [Transformative][], which I've [open-sourced][transformative] on GitHub.\r\n\r\nThe main reason behind the rewrite was to support the latest [Micropub][] specification. Sometimes it's easier (and more fun) to try a different approach than battle legacy decisions, especially when it's your own site. Content is now [Microformats2][] end-to-end and stored in a [GitHub repo][content].\r\n\r\nTransformative [passes all Micropub tests][mp-ir] in the very handy [Micropub.rocks][mprocks] test suite. I've also contributed a few updates to the [Ruby webmention gem][gem] and this site now also meets a healthy level of compliance with the [Webmention][] spec, including updates and deletes.\r\n\r\nUnderneath, I've used Ruby and [Sinatra][] again, but I've switched hosting back to [Heroku][] from a VPS, mainly because I didn't want to have to install and configure Postgres or do regular sysadmin chores. Doing so was interesting for a while.\r\n\r\n[Cloudflare][] sits in front of Heroku and maintains a free full SSL connection for pages, while S3 serves media securely.\r\n\r\nThe new site should hopefully have kept 100% of older posts at the same URLs by maintaining the previous URL scheme, or via redirects if needed. No [link rot][cooluris] here.\r\n\r\nNext, I want (and need) to update my Micropub client, [Micropublish][], to bring it up-to-date and support editing and deleting of posts.\r\n\r\nSend me a webmention (or tweet) and let me know what you think.\r\n\r\n[indieweb]: https://indieweb.org\r\n[transformative]: https://github.com/barryf/transformative\r\n[micropub]: https://micropub.net\r\n[webmention]: https://webmention.net\r\n[sinatra]: http://www.sinatrarb.com\r\n[heroku]: https://www.heroku.com\r\n[cloudflare]: https://www.cloudflare.com\r\n[cooluris]: https://www.w3.org/Provider/Style/URI\r\n[micropublish]: https://micropublish.net\r\n[mp-ir]: https://micropub.rocks/implementation-report/server/30/Qr4kVp0CSxFGY9Zfpsfh\r\n[mprocks]: https://micropub.rocks\r\n[gem]: https://github.com/indieweb/mention-client-ruby\r\n[microformats2]: http://microformats.org/wiki/microformats2\r\n[content]: https://github.com/barryf/content\r\n"
+    ],
+    "published": [
+      "2016-11-10T18:08:35Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
