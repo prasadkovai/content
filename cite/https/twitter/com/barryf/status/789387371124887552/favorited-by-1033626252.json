@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/789387371124887552#favorited-by-1033626252"
+    ],
+    "name": [
+      "tag:twitter.com,2013:789387371124887552_favorited_by_1033626252 Francisco Navarro https://twitter.com/barryf/status/789387371124887552#favorited-by-1033626252"
+    ],
+    "published": [
+      "2016-11-11T13:18:20Z"
+    ],
+    "author": [
+      "https://twitter.com/navarrofrank11"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/10/the-first-venntrodev-devops-friday-has"
+    ]
+  }
+}
