@@ -4,10 +4,10 @@
   ],
   "properties": {
     "category": [
-      "apple,touchid"
+      "apple","touchid"
     ],
     "content": [
-      "My MacBook Pro is almost always closed and plugged in to a display. I'd love to buy a wireless keyboard with TouchID for 1Password/Apple Pay"
+      "My MacBook Pro is almost always closed and plugged in to a display. I'd love to buy a wireless keyboard with TouchID for 1Password/Apple Pay."
     ],
     "published": [
       "2016-11-11T12:48:13Z"
