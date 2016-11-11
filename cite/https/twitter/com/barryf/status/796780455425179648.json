@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/796780455425179648"
+    ],
+    "name": [
+      "Transformative: my new #indieweb software: barryfrost.com/2016/11/transf…"
+    ],
+    "published": [
+      "2016-11-10T18:23:58Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2016/11/10-224103"
+    ],
+    "content": [
+      {
+        "html": "Transformative: my new <a href=\"https://twitter.com/search?q=%23indieweb\">#indieweb</a> software: <a href=\"https://barryfrost.com/2016/11/transformative\">barryfrost.com/2016/11/transf…</a>"
+      }
+    ]
+  }
+}
