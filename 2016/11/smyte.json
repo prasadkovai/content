@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "fraud,spam,scam,scammer"
+    ],
+    "name": [
+      "Smyte"
+    ],
+    "content": [
+      "Fraud/spam prevention tools that originate from Facebook/Instagram teams"
+    ],
+    "bookmark": [
+      "https://www.smyte.com/"
+    ],
+    "published": [
+      "2016-11-14T13:51:31Z"
+    ],
+    "entry-type": [
+      "article"
+    ]
+  }
+}
