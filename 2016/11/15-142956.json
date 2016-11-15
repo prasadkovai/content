@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://tantek.com/2016/320/t1/supermoon-sf"
+    ],
+    "published": [
+      "2016-11-15T14:29:56Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
