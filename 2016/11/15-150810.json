@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/dnsimple/status/798541585063575553"
+    ],
+    "syndication": [
+      "http://twitter.com/dnsimple/status/798541585063575553"
+    ],
+    "published": [
+      "2016-11-15T15:08:10Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
