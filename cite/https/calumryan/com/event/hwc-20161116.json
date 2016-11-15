@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://calumryan.com/event/hwc-20161116/"
+    ],
+    "name": [
+      "Homebrew Website Club (London)"
+    ],
+    "published": [
+      "2016-11-13T20:28:50Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Join us for an evening of quiet writing, wiki editing, IndieWeb demos and discussions. RSVP here and or <a href=\"https://indieweb.org/events/2016-11-16-homebrew-website-club\">IndieWeb.org</a>. </p>"
+      }
+    ],
+    "author": [
+      "https://www.calumryan.com/"
+    ]
+  }
+}
