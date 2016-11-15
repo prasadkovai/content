@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm going."
+    ],
+    "published": [
+      "2016-11-15T17:53:00Z"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "rsvp": [
+      true
+    ],
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20161116/"
+    ],
+    "category": [
+      "indieweb",
+      "hwc",
+      "hwclondon"
+    ]
+  }
+}
