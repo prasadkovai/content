@@ -1,0 +1,280 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "author": [
+      {
+        "value": "Barry Frost",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "https://barryf.s3.amazonaws.com/barryfrost.jpg"
+          ],
+          "url": [
+            "https://barryfrost.com/"
+          ],
+          "name": [
+            "Barry Frost"
+          ]
+        }
+      }
+    ],
+    "name": [
+      "Barry Frost",
+      "London #indieweb people: join us at Homebrew Website Club tonight at 6pm in Covent Garden. https://calumryan.com/event/hwc-20161116/ cc @timblair @hobbsy",
+      "My MacBook Pro is almost always closed and plugged in to a display. I’d love to buy a wireless keyboard with TouchID for 1Password/Apple Pay.",
+      "Transformative",
+      "Colophon",
+      "Success rate of my Apple Watch unlocking my MacBook Pro is now in the 90s% 👍",
+      "So I’ve been hacking away for a couple of months but I think I’m almost there with my new personal website/engine. My aim has been to rebuild to support the latest Micropub draft specification, including full edits and deletes/undeletes via JSON, and pass the Micropub.rocks and Webmention.rocks test suites. I’m now at 100% for both and I suppose all that’s left is to refactor a tiny bit, import my content, write it up and then push it live. It’s tempting to keep tinkering but I think I’ll learn more from selfdogfooding and getting it out in the wild.",
+      "A friend looking for a project mgmt job for 4 months asked for help from friends on Facebook. Within a week has 3 job offers. Recruitment.",
+      "The first @venntrodev “DevOps Friday” has begun: a day of improving the @wld platform. I’m learning about #golang to fix a broken tool.",
+      "This post has bold and italic text.",
+      "Micropub test of creating an h-entry with categories. This post should have two categories, test1 and test2",
+      "Micropub test of creating a basic h-entry",
+      "Enjoyed and learned something from each of the sessions at #mtpcon today, with ideas to take back to @venntrodev",
+      "North Norfolk Notes",
+      "Micropub is now a @W3C CR. Congratulations to @aaronpk and all the #indieweb contributors. With this news I’m excited to see further clients and servers start to emerge. I’ve been using Micropub as the only method of posting to this site since January 2015 but I’ve yet to add in full update/delete capabilities. Time to get hacking.",
+      "When your house is on fire you don’t wait to see if it goes out by itself, you call 999 straight away. – @arseblog on Arsenal’s inaction over Centre Back injuries. Clearly negligent to start the season so unprepared.",
+      "England v Pakistan Test Match. Day 2. ☀️",
+      "Prompted by Calum publishing an indie event page for the next Homebrew Website Club meeting in London, I’ve modified this site to support sending RSVPs. Nice way of prioritising features: wait until you have a use-case before building.",
+      "Introducing Webhook Mentions",
+      "Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for “internal” apps."
+    ],
+    "url": [
+      "https://barryfrost.com/2016/11/",
+      "https://barryfrost.com/2016/11/london-indieweb-people-join-us-at",
+      "https://barryfrost.com/2016/11/my-macbook-pro-is-almost-always",
+      "https://barryfrost.com/2016/11/transformative",
+      "https://barryfrost.com/2016/11/colophon",
+      "https://barryfrost.com/2016/11/success-rate-of-my-apple-watch",
+      "https://barryfrost.com/2016/11/so-i-ve-been-hacking-away",
+      "https://barryfrost.com/2016/11/a-friend-looking-for-a-project",
+      "https://barryfrost.com/2016/10/the-first-venntrodev-devops-friday-has",
+      "https://barryfrost.com/2016/10/p-this-post-has-b-bold",
+      "https://barryfrost.com/2016/10/micropub-test-of-creating-an-h",
+      "https://barryfrost.com/2016/10/micropub-test-of-creating-a-basic",
+      "https://barryfrost.com/2016/09/enjoyed-and-learned-something-from-each",
+      "https://barryfrost.com/2016/09/north-norfolk-notes",
+      "https://barryfrost.com/2016/08/micropub-is-now-a-w3c-cr",
+      "https://barryfrost.com/2016/08/when-your-house-is-on-fire",
+      "https://barryfrost.com/2016/08/england-v-pakistan-test-match-day",
+      "https://barryfrost.com/2016/08/prompted-by-calum-https-calumryan-com",
+      "https://barryfrost.com/2016/07/introducing-webhook-mentions",
+      "https://barryfrost.com/2016/07/slick-sms-email-mail-tool-by"
+    ],
+    "published": [
+      "2016-11-16T18:33:20Z",
+      "2016-11-16T14:07:09Z",
+      "2016-11-11T12:48:13Z",
+      "2016-11-10T18:08:35Z",
+      "2016-11-09T20:36:29Z",
+      "2016-11-09T14:49:55Z",
+      "2016-11-07T11:49:37Z",
+      "2016-11-04T10:13:02Z",
+      "2016-10-21T08:46:28Z",
+      "2016-10-03T19:39:00Z",
+      "2016-10-03T19:25:52Z",
+      "2016-10-03T19:08:25Z",
+      "2016-09-30T21:58:54Z",
+      "2016-09-23T13:01:03Z",
+      "2016-08-24T10:55:59Z",
+      "2016-08-15T12:09:58Z",
+      "2016-08-12T11:54:12Z",
+      "2016-08-10T21:18:52Z",
+      "2016-07-28T20:54:34Z",
+      "2016-07-26T14:48:44Z"
+    ],
+    "content": [
+      "<p>London  <a href=\"/tag/indieweb\">#<span class=\"p-category\">indieweb</span></a>  people: join us at Homebrew Website Club tonight at 6pm in Covent Garden. </p>\n\n<p><a href=\"https://calumryan.com/event/hwc-20161116/\">https://calumryan.com/event/hwc-20161116/</a></p>\n\n<p>cc <a href=\"https://twitter.com/timblair\">@timblair</a> <a href=\"https://twitter.com/hobbsy\">@hobbsy</a> </p>",
+      "<p>My MacBook Pro is almost always closed and plugged in to a display. I’d love to buy a wireless keyboard with TouchID for 1Password/Apple Pay.</p>",
+      "<p>I’m happy to say this site is now running my new <a href=\"https://indieweb.org\">IndieWeb</a> microblogging software, <a href=\"https://github.com/barryf/transformative\">Transformative</a>, which I’ve <a href=\"https://github.com/barryf/transformative\">open-sourced</a> on GitHub.</p> <a href=\"https://barryfrost.com/2016/11/transformative\">Read full post…</a>",
+      "<p>Transformative is a microblogging engine that powers my personal website <a href=\"https://barryfrost.com\">barryfrost.com</a>. It’s written in Ruby and supports several key <a href=\"https://indieweb.org\">IndieWeb</a> technologies as detailed below.</p> <a href=\"https://barryfrost.com/2016/11/colophon\">Read full post…</a>",
+      "<p>Success rate of my Apple Watch unlocking my MacBook Pro is now in the 90s% 👍</p>",
+      "<p>So I’ve been hacking away for a couple of months but I think I’m almost there with my new personal website/engine.</p>\n\n<p>My aim has been to rebuild to support the latest <a href=\"http://micropub.net/draft/\">Micropub draft specification</a>, including full edits and deletes/undeletes via JSON, and pass the Micropub.rocks and Webmention.rocks test suites. </p>\n\n<p>I’m now at 100% for both and I suppose all that’s left is to refactor a tiny bit, import my content, write it up and then push it live. It’s tempting to keep tinkering but I think I’ll learn more from selfdogfooding and getting it out in the wild. </p>",
+      "<p>A friend looking for a project mgmt job for 4 months asked for help from friends on Facebook. Within a week has 3 job offers. <em>Recruitment</em>.</p>",
+      "<p>The first <a href=\"https://twitter.com/venntrodev\">@venntrodev</a> “DevOps Friday” has begun: a day of improving the <a href=\"https://twitter.com/wld\">@wld</a> platform. I’m learning about  <a href=\"/tag/golang\">#<span class=\"p-category\">golang</span></a>  to fix a broken tool.</p>",
+      "<p>This post has <b>bold</b> and <i>italic</i> text.</p>",
+      "<p>Micropub test of creating an h-entry with categories. This post should have two categories, test1 and test2</p>",
+      "<p>Micropub test of creating a basic h-entry</p>",
+      "<p>Enjoyed and learned something from each of the sessions at  <a href=\"/tag/mtpcon\">#<span class=\"p-category\">mtpcon</span></a>  today, with ideas to take back to <a href=\"https://twitter.com/venntrodev\">@venntrodev</a></p>",
+      "<p>Earlier this week I returned from a very enjoyable holiday in a surprisingly sunny North Norfolk with Laura and 10-month old Henry. For posterity and in case it’s useful for those with a similarly-aged baby/toddler, here are a few of my highlights.</p> <a href=\"https://barryfrost.com/2016/09/north-norfolk-notes\">Read full post…</a>",
+      "<p>Micropub is now a <a href=\"https://twitter.com/W3C\">@W3C</a> CR. Congratulations to <a href=\"https://twitter.com/aaronpk\">@aaronpk</a> and all the  <a href=\"/tag/indieweb\">#<span class=\"p-category\">indieweb</span></a>  contributors. </p>\n\n<p>With this news I’m excited to see further clients and servers start to emerge. I’ve been using Micropub as the only method of posting to this site since January 2015 but I’ve yet to add in full update/delete capabilities. Time to get hacking.</p>",
+      "<blockquote>\n<p>When your house is on fire you don’t wait to see if it goes out by itself, you call 999 straight away.</p>\n</blockquote>\n\n<p>– <a href=\"https://twitter.com/arseblog\">@arseblog</a> on Arsenal’s inaction over Centre Back injuries. Clearly negligent to start the season so unprepared.</p>",
+      "<p>England v Pakistan Test Match. Day 2. ☀️</p>\n\n      \n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg\">\n      </a>\n    \n  </figure>",
+      "<p>Prompted by <a href=\"https://calumryan.com\">Calum</a> publishing an <a href=\"https://calumryan.com/event/hwc-20160824/\">indie event page</a> for the next Homebrew Website Club meeting in London, I’ve modified this site to support sending <a href=\"https://indieweb.org/rsvp\">RSVP</a>s. </p>\n\n<p>Nice way of prioritising features: wait until you have a use-case before building. </p>",
+      "<p>Webhook Mentions is a very simple Ruby app I’ve built that sends <a href=\"http://webmention.net\">Webmentions</a> to any links in new/updated posts in a <a href=\"https://jekyllrb.com\">Jekyll</a>-powered <a href=\"https://pages.github.com\">GitHub Pages</a> site marked up with <a href=\"http://microformats.org/wiki/microformats2#h-entry\">Microformats 2 h-entry markup</a>.</p> <a href=\"https://barryfrost.com/2016/07/introducing-webhook-mentions\">Read full post…</a>",
+      "<p>Slick SMS/email/mail tool by <a href=\"https://twitter.com/gdsteam\">@gdsteam</a>, showing that UX is still important for “internal” apps.</p>"
+    ],
+    "category": [
+      "indieweb",
+      "indieweb",
+      "hwc",
+      "hwclondon",
+      "indieweb",
+      "apple",
+      "touchid",
+      "transformative",
+      "indieweb",
+      "micropub",
+      "webmention",
+      "colophon",
+      "transformative",
+      "indieweb",
+      "transformative",
+      "job",
+      "recruitment",
+      "socialmedia",
+      "golang",
+      "golang",
+      "venntrodev",
+      "devops",
+      "test1",
+      "test2",
+      "mtpcon",
+      "mtpcon",
+      "mtpcon",
+      "holiday",
+      "norfolk",
+      "travel",
+      "uk",
+      "indieweb",
+      "indieweb",
+      "micropub",
+      "indieweb",
+      "w3c",
+      "arsenal",
+      "afc",
+      "football",
+      "indieweb",
+      "event",
+      "rsvp",
+      "indieweb",
+      "webmention",
+      "github",
+      "jekyll",
+      "gds",
+      "sms",
+      "admin"
+    ],
+    "syndication": [
+      "https://twitter.com/barryfdata/status/798890161094262784",
+      "https://twitter.com/barryfdata/status/797058357022466049",
+      "https://twitter.com/barryf/status/796780455425179648",
+      "https://twitter.com/barryf/status/796369985417269248",
+      "https://twitter.com/barryf/status/794482602920947712",
+      "https://twitter.com/barryf/status/789387371124887552",
+      "https://twitter.com/barryf/status/781976657301151745",
+      "https://twitter.com/barryf/status/768401483448496128",
+      "https://twitter.com/barryf/status/765158620241682433",
+      "https://twitter.com/barryf/status/764076548164956160",
+      "https://twitter.com/barryf/status/758767801523904513",
+      "https://twitter.com/barryf/status/757952947766583296"
+    ],
+    "repost_of": [
+      {
+        "value": "Reposted Aaron Parecki‘s post on aaronparecki.com I'm excited to announce that Micropub is now a W3C Candidate Recommendation! Three Years of Incubation and Selfdogfooding Micropub began in 2013 when I outlined a simple API to create blog posts and short notes for my website, and then imp…",
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "author": [
+            {
+              "value": "Aaron Parecki‘s",
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://aaronparecki.com/images/aaronpk.png"
+                ],
+                "url": [
+                  "https://aaronparecki.com/"
+                ],
+                "name": [
+                  "Aaron Parecki"
+                ]
+              }
+            }
+          ],
+          "url": [
+            "https://aaronparecki.com/2016/08/23/2/micropub-cr"
+          ],
+          "content": [
+            "I'm excited to announce that Micropub is now a W3C Candidate Recommendation! \n\n  \n\n Three Years of Incubation and Selfdogfooding\n \n\n Micropub began in 2013 when I outlined a simple API to create blog posts and short notes for my website, and then imp…"
+          ],
+          "name": [
+            "Reposted Aaron Parecki‘s post on aaronparecki.com I'm excited to announce that Micropub is now a W3C Candidate Recommendation! Three Years of Incubation and Selfdogfooding Micropub began in 2013 when I outlined a simple API to create blog posts and short notes for my website, and then imp…"
+          ]
+        }
+      },
+      "https://aaronparecki.com/2016/08/23/2/micropub-cr",
+      {
+        "value": "Reposted GDS (@gdsteam)‘s post on Twitter And here's a behind the scenes video of how GOV.UK Notify works. https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429",
+        "type": [
+          "h-cite"
+        ],
+        "properties": {
+          "author": [
+            {
+              "value": "GDS (@gdsteam)‘s",
+              "type": [
+                "h-card"
+              ],
+              "properties": {
+                "photo": [
+                  "https://pbs.twimg.com/profile_images/698985722636857345/SjnnAc-Z_normal.png"
+                ],
+                "url": [
+                  "https://twitter.com/gdsteam"
+                ],
+                "name": [
+                  "GDS (@gdsteam)"
+                ]
+              }
+            }
+          ],
+          "url": [
+            "https://twitter.com/gdsteam/status/757935993336926208"
+          ],
+          "content": [
+            "And here's a behind the scenes video of how GOV.UK Notify works.\n<a href=\"https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429\">https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429</a>"
+          ],
+          "name": [
+            "Reposted GDS (@gdsteam)‘s post on Twitter And here's a behind the scenes video of how GOV.UK Notify works. https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429"
+          ]
+        }
+      },
+      "https://twitter.com/gdsteam/status/757935993336926208"
+    ],
+    "photo": [
+      "https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg"
+    ],
+    "location": [
+      {
+        "value": "The Oval",
+        "type": [
+          "h-geo"
+        ],
+        "properties": {
+          "latitude": [
+            "51.483719444444"
+          ],
+          "longitude": [
+            "-0.11498055555556"
+          ],
+          "name": [
+            "The Oval"
+          ],
+          "url": [
+            "https://maps.google.com/maps?q=51.483719444444,-0.11498055555556"
+          ]
+        }
+      }
+    ]
+  }
+}
