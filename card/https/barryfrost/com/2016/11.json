@@ -41,11 +41,11 @@
       "When your house is on fire you don’t wait to see if it goes out by itself, you call 999 straight away. – @arseblog on Arsenal’s inaction over Centre Back injuries. Clearly negligent to start the season so unprepared.",
       "England v Pakistan Test Match. Day 2. ☀️",
       "Prompted by Calum publishing an indie event page for the next Homebrew Website Club meeting in London, I’ve modified this site to support sending RSVPs. Nice way of prioritising features: wait until you have a use-case before building.",
-      "Introducing Webhook Mentions",
-      "Slick SMS/email/mail tool by @gdsteam, showing that UX is still important for “internal” apps."
+      "Introducing Webhook Mentions"
     ],
     "url": [
       "https://barryfrost.com/2016/11/",
+      "https://barryfrost.com/2016/11/hwc-20161116-photo",
       "https://barryfrost.com/2016/11/london-indieweb-people-join-us-at",
       "https://barryfrost.com/2016/11/my-macbook-pro-is-almost-always",
       "https://barryfrost.com/2016/11/transformative",
@@ -63,10 +63,10 @@
       "https://barryfrost.com/2016/08/when-your-house-is-on-fire",
       "https://barryfrost.com/2016/08/england-v-pakistan-test-match-day",
       "https://barryfrost.com/2016/08/prompted-by-calum-https-calumryan-com",
-      "https://barryfrost.com/2016/07/introducing-webhook-mentions",
-      "https://barryfrost.com/2016/07/slick-sms-email-mail-tool-by"
+      "https://barryfrost.com/2016/07/introducing-webhook-mentions"
     ],
     "published": [
+      "2016-11-16T18:33:20Z",
       "2016-11-16T18:33:20Z",
       "2016-11-16T14:07:09Z",
       "2016-11-11T12:48:13Z",
@@ -85,8 +85,7 @@
       "2016-08-15T12:09:58Z",
       "2016-08-12T11:54:12Z",
       "2016-08-10T21:18:52Z",
-      "2016-07-28T20:54:34Z",
-      "2016-07-26T14:48:44Z"
+      "2016-07-28T20:54:34Z"
     ],
     "content": [
       "<p>London  <a href=\"/tag/indieweb\">#<span class=\"p-category\">indieweb</span></a>  people: join us at Homebrew Website Club tonight at 6pm in Covent Garden. </p>\n\n<p><a href=\"https://calumryan.com/event/hwc-20161116/\">https://calumryan.com/event/hwc-20161116/</a></p>\n\n<p>cc <a href=\"https://twitter.com/timblair\">@timblair</a> <a href=\"https://twitter.com/hobbsy\">@hobbsy</a> </p>",
@@ -106,8 +105,7 @@
       "<blockquote>\n<p>When your house is on fire you don’t wait to see if it goes out by itself, you call 999 straight away.</p>\n</blockquote>\n\n<p>– <a href=\"https://twitter.com/arseblog\">@arseblog</a> on Arsenal’s inaction over Centre Back injuries. Clearly negligent to start the season so unprepared.</p>",
       "<p>England v Pakistan Test Match. Day 2. ☀️</p>\n\n      \n  <figure>\n    \n      <a href=\"https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg\">\n        <img class=\"u-photo\" src=\"https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg\">\n      </a>\n    \n  </figure>",
       "<p>Prompted by <a href=\"https://calumryan.com\">Calum</a> publishing an <a href=\"https://calumryan.com/event/hwc-20160824/\">indie event page</a> for the next Homebrew Website Club meeting in London, I’ve modified this site to support sending <a href=\"https://indieweb.org/rsvp\">RSVP</a>s. </p>\n\n<p>Nice way of prioritising features: wait until you have a use-case before building. </p>",
-      "<p>Webhook Mentions is a very simple Ruby app I’ve built that sends <a href=\"http://webmention.net\">Webmentions</a> to any links in new/updated posts in a <a href=\"https://jekyllrb.com\">Jekyll</a>-powered <a href=\"https://pages.github.com\">GitHub Pages</a> site marked up with <a href=\"http://microformats.org/wiki/microformats2#h-entry\">Microformats 2 h-entry markup</a>.</p> <a href=\"https://barryfrost.com/2016/07/introducing-webhook-mentions\">Read full post…</a>",
-      "<p>Slick SMS/email/mail tool by <a href=\"https://twitter.com/gdsteam\">@gdsteam</a>, showing that UX is still important for “internal” apps.</p>"
+      "<p>Webhook Mentions is a very simple Ruby app I’ve built that sends <a href=\"http://webmention.net\">Webmentions</a> to any links in new/updated posts in a <a href=\"https://jekyllrb.com\">Jekyll</a>-powered <a href=\"https://pages.github.com\">GitHub Pages</a> site marked up with <a href=\"http://microformats.org/wiki/microformats2#h-entry\">Microformats 2 h-entry markup</a>.</p> <a href=\"https://barryfrost.com/2016/07/introducing-webhook-mentions\">Read full post…</a>"
     ],
     "category": [
       "indieweb",
@@ -155,10 +153,7 @@
       "indieweb",
       "webmention",
       "github",
-      "jekyll",
-      "gds",
-      "sms",
-      "admin"
+      "jekyll"
     ],
     "syndication": [
       "https://twitter.com/barryfdata/status/798890161094262784",
@@ -171,8 +166,7 @@
       "https://twitter.com/barryf/status/768401483448496128",
       "https://twitter.com/barryf/status/765158620241682433",
       "https://twitter.com/barryf/status/764076548164956160",
-      "https://twitter.com/barryf/status/758767801523904513",
-      "https://twitter.com/barryf/status/757952947766583296"
+      "https://twitter.com/barryf/status/758767801523904513"
     ],
     "repost_of": [
       {
@@ -211,44 +205,7 @@
           ]
         }
       },
-      "https://aaronparecki.com/2016/08/23/2/micropub-cr",
-      {
-        "value": "Reposted GDS (@gdsteam)‘s post on Twitter And here's a behind the scenes video of how GOV.UK Notify works. https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429",
-        "type": [
-          "h-cite"
-        ],
-        "properties": {
-          "author": [
-            {
-              "value": "GDS (@gdsteam)‘s",
-              "type": [
-                "h-card"
-              ],
-              "properties": {
-                "photo": [
-                  "https://pbs.twimg.com/profile_images/698985722636857345/SjnnAc-Z_normal.png"
-                ],
-                "url": [
-                  "https://twitter.com/gdsteam"
-                ],
-                "name": [
-                  "GDS (@gdsteam)"
-                ]
-              }
-            }
-          ],
-          "url": [
-            "https://twitter.com/gdsteam/status/757935993336926208"
-          ],
-          "content": [
-            "And here's a behind the scenes video of how GOV.UK Notify works.\n<a href=\"https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429\">https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429</a>"
-          ],
-          "name": [
-            "Reposted GDS (@gdsteam)‘s post on Twitter And here's a behind the scenes video of how GOV.UK Notify works. https://amp.twimg.com/v/cedcc6dc-aaf9-4e1b-8a21-c78a6dadd429"
-          ]
-        }
-      },
-      "https://twitter.com/gdsteam/status/757935993336926208"
+      "https://aaronparecki.com/2016/08/23/2/micropub-cr"
     ],
     "photo": [
       "https://barryfrost-media.s3.amazonaws.com/file/20160812-igoqYftv.jpg",
