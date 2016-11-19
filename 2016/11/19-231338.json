@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/t/status/800098055764709376"
+    ],
+    "syndication": [
+      "http://twitter.com/t/status/800098055764709376"
+    ],
+    "published": [
+      "2016-11-19T23:13:38Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
