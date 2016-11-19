@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/t"
+    ],
     "name": [
-      "⚡️ (@t)"
+      "⚡️"
     ],
     "photo": [
       "http://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_normal.jpeg"
-    ],
-    "url": [
-      "https://twitter.com/t"
     ]
   }
 }
