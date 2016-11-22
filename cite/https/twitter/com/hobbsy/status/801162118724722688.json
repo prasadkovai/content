@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/hobbsy/status/801162118724722688"
+    ],
+    "name": [
+      "Transformative: my new #indieweb software: barryfrost.com/2016/11/transf…"
+    ],
+    "published": [
+      "2016-11-22T20:35:08Z"
+    ],
+    "author": [
+      "http://hobbsy.com/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2016/11/transformative"
+    ],
+    "content": [
+      {
+        "html": "Transformative: my new #indieweb software: barryfrost.com/2016/11/transf…"
+      }
+    ]
+  }
+}
