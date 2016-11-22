@@ -6,11 +6,12 @@
     "name": [
       "hobbsy"
     ],
+    "url": [
+      "http://hobbsy.com/",
+      "https://twitter.com/hobbsy"
+    ],
     "photo": [
       "https://pbs.twimg.com/profile_images/431782859339075585/NTLU2SUk.jpeg"
-    ],
-    "url": [
-      "http://hobbsy.com"
     ]
   }
 }
