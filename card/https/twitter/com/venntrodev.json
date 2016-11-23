@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/venntrodev"
+    ],
     "name": [
-      "Venntro Development (@venntrodev)"
+      "Venntro Development"
     ],
     "photo": [
       "http://pbs.twimg.com/profile_images/623483024764727298/tZWQNMbZ_normal.png"
-    ],
-    "url": [
-      "https://twitter.com/venntrodev"
     ]
   }
 }
