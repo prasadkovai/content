@@ -4,7 +4,7 @@
   ],
   "properties": {
     "category": [
-      "microformats,javascript"
+      "microformats","javascript"
     ],
     "name": [
       "microformat-shiv"
@@ -12,14 +12,14 @@
     "content": [
       "> a lightweight cross browser JavaScript microformats parser"
     ],
-    "bookmark": [
+    "bookmark-of": [
       "https://github.com/glennjones/microformat-shiv"
     ],
     "published": [
       "2016-11-25T09:42:41Z"
     ],
     "entry-type": [
-      "article"
+      "bookmark"
     ]
   }
 }
