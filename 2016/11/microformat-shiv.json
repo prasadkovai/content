@@ -4,7 +4,8 @@
   ],
   "properties": {
     "category": [
-      "microformats","javascript"
+      "microformats",
+      "javascript"
     ],
     "name": [
       "microformat-shiv"
@@ -20,6 +21,9 @@
     ],
     "entry-type": [
       "bookmark"
+    ],
+    "updated": [
+      "2016-11-25T09:55:31Z"
     ]
   }
 }
