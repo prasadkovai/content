@@ -4,7 +4,10 @@
   ],
   "properties": {
     "category": [
-      "serialize","json","jquery","javascript"
+      "serialize",
+      "json",
+      "jquery",
+      "javascript"
     ],
     "name": [
       "jquery-serialize-object"
@@ -20,6 +23,9 @@
     ],
     "entry-type": [
       "bookmark"
+    ],
+    "updated": [
+      "2016-11-25T09:55:51Z"
     ]
   }
 }
