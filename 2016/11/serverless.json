@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "aws",
+      "lambda",
+      "serverless"
+    ],
+    "name": [
+      "Serverless"
+    ],
+    "content": [
+      "> Build auto-scaling, pay-per-execution, event-driven apps on AWS Lambda"
+    ],
+    "bookmark-of": [
+      "https://serverless.com"
+    ],
+    "published": [
+      "2016-11-25T11:27:13Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
