@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20161214/"
+    ],
+    "published": [
+      "2016-11-30T22:52:17Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
