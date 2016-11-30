@@ -17,6 +17,7 @@
     "entry-type": [
       "rsvp"
     ],
-    "rsvp": ["yes"]
+    "rsvp": ["yes"],
+    "content": ["I'm going."]
   }
 }
