@@ -1,0 +1,44 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://calumryan.com/event/hwc-20161214/"
+    ],
+    "name": [
+      "Homebrew Website Club (London)"
+    ],
+    "published": [
+      "2016-11-30T11:38:32Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Join us for an evening of quiet writing, wiki editing, IndieWeb demos and discussions. </p>"
+      }
+    ],
+    "author": [
+      "https://www.calumryan.com/"
+    ],
+    "start": [
+      "2016-12-14 18:00:00 +0000"
+    ],
+    "end": [
+      "2016-12-14 20:00:00 +0000"
+    ],
+    "location": [
+      "Show location on map (external link) 110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England",
+      {
+        "value": "110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England"
+          ]
+        }
+      }
+    ]
+  }
+}
