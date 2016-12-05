@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/benjilanyado/status/805723601710284801"
+    ],
+    "syndication": [
+      "http://twitter.com/benjilanyado/status/805723601710284801"
+    ],
+    "published": [
+      "2016-12-05T12:08:10Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
