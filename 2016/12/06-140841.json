@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/alandavies1/status/806134284964818944"
+    ],
+    "syndication": [
+      "http://twitter.com/alandavies1/status/806134284964818944"
+    ],
+    "published": [
+      "2016-12-06T14:08:41Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
