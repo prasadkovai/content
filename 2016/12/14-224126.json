@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/calum_ryan/status/809120348654419968"
+    ],
+    "syndication": [
+      "http://twitter.com/calum_ryan/status/809120348654419968"
+    ],
+    "published": [
+      "2016-12-14T22:41:26Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
