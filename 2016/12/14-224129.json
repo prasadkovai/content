@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/loopdouble/status/809137662233866240"
+    ],
+    "syndication": [
+      "http://twitter.com/loopdouble/status/809137662233866240"
+    ],
+    "published": [
+      "2016-12-14T22:41:29Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
