@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Neil M"
+    ],
+    "url": [
+      "http://doubleloop.net/",
+      "https://twitter.com/loopdouble"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/791358134463987712/RUGlKdUr.jpg"
+    ]
+  }
+}
