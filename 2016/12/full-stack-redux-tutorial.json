@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "react",
+      "redux",
+      "javascript",
+      "tutorial"
+    ],
+    "name": [
+      "Full-Stack Redux Tutorial"
+    ],
+    "bookmark-of": [
+      "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html"
+    ],
+    "published": [
+      "2016-12-21T11:43:53Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
