@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "category": [
+      "bootstrap",
+      "tag",
+      "form",
+      "jquery"
+    ],
+    "name": [
+      "Tokenfield for Bootstrap"
+    ],
+    "content": [
+      "> Advanced tagging/tokenizing plugin for jQuery and Twitter Bootstrap with a focus on keyboard and copy-paste support."
+    ],
+    "bookmark-of": [
+      "http://sliptree.github.io/bootstrap-tokenfield/"
+    ],
+    "published": [
+      "2016-12-21T11:44:35Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
