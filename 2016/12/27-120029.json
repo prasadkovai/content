@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/viticci/status/813543105916006400"
+    ],
+    "syndication": [
+      "http://twitter.com/viticci/status/813543105916006400"
+    ],
+    "published": [
+      "2016-12-27T12:00:29Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
