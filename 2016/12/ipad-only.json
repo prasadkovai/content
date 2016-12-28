@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.macstories.net/stories/one-year-of-ipad-pro/"
+    ],
+    "name": [
+      "A Computer for Everything: One Year of iPad Pro"
+    ],
+    "category": [
+      "ipad",
+      "ios"
+    ],
+    "slug": [
+      "ipad-only"
+    ],
+    "published": [
+      "2016-12-28T14:30:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
