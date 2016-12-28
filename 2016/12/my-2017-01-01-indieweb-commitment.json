@@ -6,7 +6,8 @@
     "category": [
       "indieweb",
       "micropub",
-      "commitment"
+      "commitment",
+      "micropublish"
     ],
     "content": [
       "My [2017-01-01 IndieWeb commitment](https://indieweb.org/2017-01-01-commitments) is to complete my rewrite of [Micropublish](https://micropublish.net) to support Micropub updates, deletes and undeletes. My site's Micropub endpoint supports these methods so I now need to bring my client up to date."
@@ -18,7 +19,7 @@
       "note"
     ],
     "updated": [
-      "2016-12-28T14:24:42Z"
+      "2016-12-28T14:26:34Z"
     ]
   }
 }
