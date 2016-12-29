@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/KMitchellM/status/814413599980535808"
+    ],
+    "syndication": [
+      "http://twitter.com/KMitchellM/status/814413599980535808"
+    ],
+    "published": [
+      "2016-12-29T10:48:16Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
