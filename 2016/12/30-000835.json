@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/chrisapplegate/status/814574666882969600"
+    ],
+    "syndication": [
+      "http://twitter.com/chrisapplegate/status/814574666882969600"
+    ],
+    "published": [
+      "2016-12-30T00:08:35Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
