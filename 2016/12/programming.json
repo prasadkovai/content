@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/tomstuart/status/815187112790257664"
+    ],
+    "category": [
+      "programming"
+    ],
+    "mp-syndicate-to": [
+      "https://twitter.com/barryf"
+    ],
+    "slug": [
+      "programming"
+    ],
+    "published": [
+      "2016-12-31T13:45:27Z"
+    ],
+    "entry-type": [
+      "repost"
+    ]
+  }
+}
