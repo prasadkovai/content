@@ -4,13 +4,13 @@
   ],
   "properties": {
     "name": [
-      "Ross"
-    ],
-    "photo": [
-      "https://twitter.com/rosswilliams/profile_image?size=original"
+      "Ross Williams"
     ],
     "url": [
       "https://twitter.com/rosswilliams"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/803647888622518272/8vqZVQqi.jpg"
     ]
   }
 }
