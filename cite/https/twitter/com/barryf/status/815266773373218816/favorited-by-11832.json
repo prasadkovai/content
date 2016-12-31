@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/815266773373218816#favorited-by-11832"
+    ],
+    "name": [
+      "tag:twitter.com,2013:815266773373218816_favorited_by_11832 Ross Williams https://twitter.com/barryf/status/815266773373218816#favorited-by-11832"
+    ],
+    "published": [
+      "2016-12-31T23:38:41Z"
+    ],
+    "author": [
+      "https://twitter.com/rosswilliams"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/12/pushed-my-micropub-client-live-micropublish"
+    ]
+  }
+}
