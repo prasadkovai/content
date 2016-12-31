@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/815266773373218816#favorited-by-77453936"
+    ],
+    "name": [
+      "tag:twitter.com,2013:815266773373218816_favorited_by_77453936 Calum Ryan 🇪🇺 https://twitter.com/barryf/status/815266773373218816#favorited-by-77453936"
+    ],
+    "published": [
+      "2016-12-31T21:20:27Z"
+    ],
+    "author": [
+      "https://twitter.com/calum_ryan"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/12/pushed-my-micropub-client-live-micropublish"
+    ]
+  }
+}
