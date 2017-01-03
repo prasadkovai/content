@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/hobbsy/status/816339042145017856"
+    ],
+    "syndication": [
+      "http://twitter.com/hobbsy/status/816339042145017856"
+    ],
+    "published": [
+      "2017-01-03T20:04:12Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
