@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/815266773373218816#favorited-by-754966"
+    ],
+    "name": [
+      "tag:twitter.com,2013:815266773373218816_favorited_by_754966 hobbsy https://twitter.com/barryf/status/815266773373218816#favorited-by-754966"
+    ],
+    "published": [
+      "2017-01-03T20:48:47Z"
+    ],
+    "author": [
+      "https://twitter.com/hobbsy"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/12/pushed-my-micropub-client-live-micropublish"
+    ]
+  }
+}
