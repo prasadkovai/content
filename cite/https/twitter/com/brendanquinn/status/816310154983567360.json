@@ -6,14 +6,25 @@
     "url": [
       "https://twitter.com/brendanquinn/status/816310154983567360"
     ],
-    "content": [
-      "I had missed the whole micropub movement, this looks really good for fast prototyping and simple content sites/serv… https://twitter.com/i/web/status/816310154983567360"
-    ],
-    "author": [
-      "https://twitter.com/brendanquinn"
+    "name": [
+      "I had missed the whole micropub movement, this looks really good for fast prototyping and simple content sites/services! twitter.com/barryf/status/…"
     ],
     "published": [
-      "2017-01-03 15:48:01 UTC"
+      "2017-01-03T15:48:01Z"
+    ],
+    "author": [
+      "http://blog.clueful.com.au/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/01/brendanquinn-thanks-micropublish-is-my-small"
+    ],
+    "content": [
+      {
+        "html": "I had missed the whole micropub movement, this looks really good for fast prototyping and simple content sites/services!\n<p>\n<a class=\"link\" href=\"https://twitter.com/barryf/status/815266773373218816\">\n<span class=\"name\">twitter.com/barryf/status/…</span>\n</a>\n</p>\n<a class=\"u-mention\" href=\"https://barryfrost.com/2016/12/pushed-my-micropub-client-live-micropublish\"></a>"
+      }
+    ],
+    "photo": [
+      "http://pbs.twimg.com/tweet_video_thumb/C1BoxeSXgAAjZwN.jpg"
     ]
   }
 }
