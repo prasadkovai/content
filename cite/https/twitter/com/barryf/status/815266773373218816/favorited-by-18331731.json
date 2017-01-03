@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/815266773373218816#favorited-by-18331731"
+    ],
+    "name": [
+      "tag:twitter.com,2013:815266773373218816_favorited_by_18331731 Pelle Wessman https://twitter.com/barryf/status/815266773373218816#favorited-by-18331731"
+    ],
+    "published": [
+      "2017-01-03T18:55:42Z"
+    ],
+    "author": [
+      "https://twitter.com/voxpelli"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2016/12/pushed-my-micropub-client-live-micropublish"
+    ]
+  }
+}
