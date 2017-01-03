@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Brendan Quinn"
+    ],
+    "url": [
+      "http://blog.clueful.com.au/",
+      "https://twitter.com/brendanquinn"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/700353066252509184/GA7kyfVt.jpg"
+    ]
+  }
+}
