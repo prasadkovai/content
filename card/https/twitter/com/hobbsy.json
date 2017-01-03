@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/hobbsy"
-    ],
     "name": [
       "hobbsy"
     ],
+    "url": [
+      "https://twitter.com/hobbsy"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/431782859339075585/NTLU2SUk_normal.jpeg"
+      "https://pbs.twimg.com/profile_images/431782859339075585/NTLU2SUk.jpeg"
     ]
   }
 }
