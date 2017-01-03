@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/brendanquinn/status/816310154983567360"
+    ],
+    "content": [
+      "@brendanquinn Thanks! Micropublish is my small Micropub client but check out https://indieweb.org for more on the IndieWeb community."
+    ],
+    "published": [
+      "2017-01-03T17:13:01Z"
+    ],
+    "entry-type": [
+      "reply"
+    ]
+  }
+}
