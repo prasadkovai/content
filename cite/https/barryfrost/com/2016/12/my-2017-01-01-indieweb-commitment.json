@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2016/12/my-2017-01-01-indieweb-commitment"
+    ],
+    "name": [
+      "My 2017-01-01 IndieWeb commitment is to complete my rewrite of Micropublish to support Micropub updates, deletes and undeletes. My site’s Micropub endpoint supports these methods so I now need to bring my client up to date."
+    ],
+    "published": [
+      "2016-12-14T20:07:14Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2016/12/micropublish-2"
+    ],
+    "content": [
+      {
+        "html": "<p>My <a href=\"https://indieweb.org/2017-01-01-commitments#Barry_Frost\">2017-01-01 IndieWeb commitment</a> is to complete my rewrite of <a href=\"https://micropublish.net\">Micropublish</a> to support Micropub updates, deletes and undeletes. My site’s Micropub endpoint supports these methods so I now need to bring my client up to date.</p>"
+      }
+    ]
+  }
+}
