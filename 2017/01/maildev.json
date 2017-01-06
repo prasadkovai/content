@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://danfarrelly.nyc/MailDev/"
+    ],
+    "name": [
+      "MailDev"
+    ],
+    "content": [
+      "> SMTP server and web interface for viewing and testing emails during development"
+    ],
+    "category": [
+      "smtp",
+      "qa",
+      "testing"
+    ],
+    "published": [
+      "2017-01-06T08:40:46Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
