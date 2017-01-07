@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://calumryan.com/note/435"
+    ],
+    "published": [
+      "2017-01-07T21:14:15Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
