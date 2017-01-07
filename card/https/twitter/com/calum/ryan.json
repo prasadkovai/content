@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Calum Ryan 🇪🇺"
-    ],
     "url": [
       "https://twitter.com/calum_ryan"
     ],
+    "name": [
+      "Calum Ryan 🇪🇺"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/785138082559516673/9atwmjuy.jpg"
+      "http://pbs.twimg.com/profile_images/785138082559516673/9atwmjuy_normal.jpg"
     ]
   }
 }
