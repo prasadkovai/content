@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20170125/"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "I'm coming."
+    ],
+    "slug": [
+      "hwc-20170125"
+    ],
+    "published": [
+      "2017-01-09T17:24:21Z"
+    ],
+    "entry-type": [
+      "rsvp"
+    ]
+  }
+}
