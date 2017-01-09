@@ -20,6 +20,14 @@
     ],
     "entry-type": [
       "rsvp"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "updated": [
+      "2017-01-09T17:24:49Z"
     ]
   }
 }
