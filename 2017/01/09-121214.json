@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/BenHobson/status/818404474955894787"
+    ],
+    "syndication": [
+      "http://twitter.com/BenHobson/status/818404474955894787"
+    ],
+    "published": [
+      "2017-01-09T12:12:14Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
