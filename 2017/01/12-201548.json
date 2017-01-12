@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://twitter.com/aaronpk/status/819631854810562561"
+    ],
+    "syndication": [
+      "http://twitter.com/aaronpk/status/819631854810562561"
+    ],
+    "published": [
+      "2017-01-12T20:15:48Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
