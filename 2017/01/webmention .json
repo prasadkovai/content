@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://mobile.twitter.com/aaronpk/status/819631854810562561"
+    ],
+    "category": [
+      "webmention",
+      "indieweb"
+    ],
+    "slug": [
+      "webmention "
+    ],
+    "published": [
+      "2017-01-12T20:05:13Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
