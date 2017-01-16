@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://resilientwebdesign.com/"
+    ],
+    "name": [
+      "Resilient Web Design"
+    ],
+    "content": [
+      "Jeremy Keith's free online (/offline) book about modern web design. "
+    ],
+    "category": [
+      "design",
+      "offline",
+      "book"
+    ],
+    "mp-syndicate-to": [
+      "https://pinboard.in/barryf"
+    ],
+    "published": [
+      "2017-01-16T15:42:04Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
