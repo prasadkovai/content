@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Really happy to see that #webmention is now a W3C recommendation. 👏 @aaronpk and all @indiewebcamp implementers.\r\n\r\nhttps://twitter.com/w3c/status/819624363645353985"
+    ],
+    "category": [
+      "webmention",
+      "indieweb"
+    ],
+    "mp-syndicate-to": [
+      "https://twitter.com/barryf"
+    ],
+    "slug": [
+      "webmention-rec"
+    ],
+    "published": [
+      "2017-01-16T15:17:40Z"
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
