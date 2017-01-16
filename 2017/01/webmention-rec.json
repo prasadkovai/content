@@ -10,9 +10,6 @@
       "webmention",
       "indieweb"
     ],
-    "mp-syndicate-to": [
-      "https://twitter.com/barryf"
-    ],
     "slug": [
       "webmention-rec"
     ],
@@ -21,6 +18,9 @@
     ],
     "entry-type": [
       "note"
+    ],
+    "updated": [
+      "2017-01-16T15:18:46Z"
     ]
   }
 }
