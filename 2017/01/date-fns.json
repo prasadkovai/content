@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://date-fns.org/"
+    ],
+    "name": [
+      "date-fns"
+    ],
+    "content": [
+      "> Modern JavaScript date utility library\r\n"
+    ],
+    "category": [
+      "date",
+      "javascript"
+    ],
+    "mp-syndicate-to": [
+      "https://pinboard.in/barryf"
+    ],
+    "published": [
+      "2017-01-17T13:12:24Z"
+    ],
+    "entry-type": [
+      "bookmark"
+    ]
+  }
+}
