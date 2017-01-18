@@ -10,9 +10,6 @@
       "business",
       "inspiration"
     ],
-    "mp-syndicate-to": [
-      "https://twitter.com/barryf"
-    ],
     "slug": [
       "moo"
     ],
@@ -21,6 +18,9 @@
     ],
     "entry-type": [
       "like"
+    ],
+    "updated": [
+      "2017-01-18T09:22:36Z"
     ]
   }
 }
