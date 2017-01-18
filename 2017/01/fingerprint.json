@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/jdub/status/821531160694009857"
+    ],
+    "category": [
+      "security",
+      "fingerprint"
+    ],
+    "mp-syndicate-to": [
+      "https://twitter.com/barryf"
+    ],
+    "slug": [
+      "fingerprint"
+    ],
+    "published": [
+      "2017-01-18T09:19:57Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
