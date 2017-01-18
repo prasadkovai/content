@@ -10,9 +10,6 @@
       "security",
       "fingerprint"
     ],
-    "mp-syndicate-to": [
-      "https://twitter.com/barryf"
-    ],
     "slug": [
       "fingerprint"
     ],
@@ -21,6 +18,9 @@
     ],
     "entry-type": [
       "like"
+    ],
+    "updated": [
+      "2017-01-18T09:22:14Z"
     ]
   }
 }
