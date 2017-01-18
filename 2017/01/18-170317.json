@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/davemccourt/status/820237985010634753"
+    ],
+    "category": [
+      "ux",
+      "uxfail"
+    ],
+    "published": [
+      "2017-01-18T17:03:17Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
