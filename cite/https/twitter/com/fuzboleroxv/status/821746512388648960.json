@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/FuzboleroXV/status/821746512388648960"
+    ],
+    "name": [
+      "Really happy to see that #webmention is now a W3C recommendation. 👏 @aaronpk and all @indiewebcamp implementers. twitter.com/w3c/status/819…"
+    ],
+    "published": [
+      "2017-01-18T15:50:10Z"
+    ],
+    "author": [
+      "http://fuzbolero.com/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2017/01/webmention-rec"
+    ],
+    "content": [
+      {
+        "html": "Really happy to see that #webmention is now a W3C recommendation. 👏 @aaronpk and all @indiewebcamp implementers.<br>\n<br>\ntwitter.com/w3c/status/819…"
+      }
+    ]
+  }
+}
