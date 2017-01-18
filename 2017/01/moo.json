@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/natekontny/status/821503110824738816"
+    ],
+    "category": [
+      "business",
+      "inspiration"
+    ],
+    "mp-syndicate-to": [
+      "https://twitter.com/barryf"
+    ],
+    "slug": [
+      "moo"
+    ],
+    "published": [
+      "2017-01-18T09:16:45Z"
+    ],
+    "entry-type": [
+      "like"
+    ]
+  }
+}
