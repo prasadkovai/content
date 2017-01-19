@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/localForage/localForage"
+    ],
+    "name": [
+      "localForage"
+    ],
+    "content": [
+      "> Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API"
+    ],
+    "category": [
+      "javascript",
+      "indexeddb",
+      "websql",
+      "localstorage",
+      "offline"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-01-19T17:34:15Z"
+    ]
+  }
+}
