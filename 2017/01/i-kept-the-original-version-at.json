@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://unrelenting.technology/replies/2017-01-16-09-38-28"
+    ],
+    "content": [
+      "I kept the original version at https://micropublish.herokuapp.com for backwards compatibility for you. Does the new version work well for Sweetroll?"
+    ],
+    "category": [
+      "micropublish"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-01-20T09:54:56Z"
+    ]
+  }
+}
