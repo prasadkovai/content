@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://aaronparecki.com/2017/01/15/3/day26-quill"
+    ],
+    "category": [
+      "micropublish",
+      "ui"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-01-20T08:50:43Z"
+    ]
+  }
+}
