@@ -3,14 +3,97 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://aaronparecki.com/"
+    ],
+    "photo": [
+      "/images/profile.jpg",
+      "/images/profile.jpg"
+    ],
+    "uid": [
+      "/"
+    ],
+    "note": [
+      "Hi, I'm Aaron Parecki, co-founder of IndieWebCamp. I maintain oauth.net, write about OAuth, and am the editor of the W3C Webmention and Micropub specifications, and co-editor of WebSub. I've been tracking my location since 2008, and write down everything I eat and drink. I've spoken at conferences around the world about owning your data, OAuth, quantified self, and explained why R is a vowel."
+    ],
     "name": [
       "Aaron Parecki"
     ],
-    "photo": [
-      "https://aaronparecki.com/images/aaronpk.png"
+    "org": [
+      {
+        "value": "IndieWebCamp",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "IndieWebCamp"
+          ],
+          "url": [
+            "https://indieweb.org/"
+          ]
+        }
+      },
+      {
+        "value": "oauth.net",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "oauth.net"
+          ],
+          "url": [
+            "https://oauth.net/"
+          ]
+        }
+      },
+      {
+        "value": "IndieWebCamp Founder",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/images/indiewebcamp.png"
+          ],
+          "url": [
+            "https://indieweb.org/"
+          ],
+          "name": [
+            "IndieWebCamp"
+          ],
+          "role": [
+            "Founder"
+          ]
+        }
+      },
+      {
+        "value": "W3C Editor",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "/images/w3c.png"
+          ],
+          "url": [
+            "https://www.w3.org/"
+          ],
+          "name": [
+            "W3C"
+          ],
+          "role": [
+            "Editor"
+          ]
+        }
+      }
     ],
-    "url": [
-      "https://aaronparecki.com/"
+    "bday": [
+      "--12-28"
+    ],
+    "callsign": [
+      "W7APK"
     ]
   }
 }

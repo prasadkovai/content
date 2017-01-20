@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2017/01/15/3/day26-quill"
+    ],
+    "name": [
+      "Day 26: Tag tokens and publish date for Quill #100DaysOfIndieWeb"
+    ],
+    "published": [
+      "2017-01-15T19:22:13Z"
+    ],
+    "content": [
+      {
+        "html": "<p class=\"\">Last week, <a href=\"https://barryfrost.com/\">Barry Frost</a> released <a href=\"https://micropublish.net/\">Micropublish</a>, a Micropub client written in Ruby. It's a very slick interface for posting a few kinds of posts. I noticed that his \"category\" field looked really nice, and discovered that he was using a Bootstrap plugin called \"Token Field\". Today I added this plugin to Quill, so now everywhere that you previously had to enter tags as comma-separated values, it's now using this \"token field\" UI.<br></p>\n<div class=\"medium-insert-images ui-sortable\"><figure>\n    <img src=\"https://aaronparecki.com/2017/01/15/3/image-1.png\" alt=\"\" class=\"ui-sortable-handle\">\n        \n</figure></div>\n<p class=\"\">I also added a new field to the editor to set the published date of posts. </p>\n<div class=\"medium-insert-images ui-sortable\"><figure>\n    <img src=\"https://aaronparecki.com/2017/01/15/3/image-2.png\" alt=\"\" class=\"ui-sortable-handle\">\n        \n</figure></div>\n<p class=\"\">All this does is include the date you enter as the published date in the Micropub request. It's up to your site to decide what to do with that. For example if you enter a date in the future, your site can decide to not show future-dated posts in feeds, so you can use this for <a href=\"https://indieweb.org/scheduled-posts\">scheduling posts</a>. Of course if you enter a date in the past you can backdate posts such as when importing posts from an old blog.</p>"
+      }
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ],
+    "location": [
+      {
+        "value": "Portland, Oregon",
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "locality": [
+            "Portland"
+          ],
+          "region": [
+            "Oregon"
+          ],
+          "latitude": [
+            "45.535520234482"
+          ],
+          "longitude": [
+            "-122.62136538061"
+          ],
+          "name": [
+            "Portland, Oregon"
+          ]
+        }
+      }
+    ]
+  }
+}
