@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/823970313893511169#favorited-by-57752397"
+    ],
+    "name": [
+      "tag:twitter.com,2013:823970313893511169_favorited_by_57752397 Manton Reece https://twitter.com/barryf/status/823970313893511169#favorited-by-57752397"
+    ],
+    "published": [
+      "2017-01-24T20:44:35Z"
+    ],
+    "author": [
+      "https://twitter.com/manton2"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/01/indie-microblogging"
+    ]
+  }
+}
