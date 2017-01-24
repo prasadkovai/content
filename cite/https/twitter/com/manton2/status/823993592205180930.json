@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/manton2/status/823993592205180930"
+    ],
+    "name": [
+      "Thanks for the support!"
+    ],
+    "published": [
+      "2017-01-24T20:39:16Z"
+    ],
+    "author": [
+      "http://www.manton.org/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/01/indie-microblogging"
+    ],
+    "content": [
+      {
+        "html": "Thanks for the support!"
+      }
+    ]
+  }
+}
