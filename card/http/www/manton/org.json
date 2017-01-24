@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Manton Reece"
+    ],
+    "url": [
+      "http://www.manton.org/",
+      "https://twitter.com/manton2"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/687029425922113536/tsUrVZlh.jpg"
+    ]
+  }
+}
