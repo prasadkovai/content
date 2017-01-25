@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/ysugimoto/aws-lambda-image"
+    ],
+    "name": [
+      "aws-lambda-image"
+    ],
+    "content": [
+      "Automatic image resize/reduce on AWS Lambda"
+    ],
+    "category": [
+      "aws",
+      "lambda",
+      "image",
+      "resize"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-01-25T17:25:40Z"
+    ]
+  }
+}
