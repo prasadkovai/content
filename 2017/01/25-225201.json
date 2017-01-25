@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/calum_ryan/status/824342039181586432"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-01-25T22:52:01Z"
+    ]
+  }
+}
