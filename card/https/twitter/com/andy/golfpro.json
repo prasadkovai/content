@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Andy Goodland"
+    ],
+    "url": [
+      "https://twitter.com/andy_golfpro"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/821407480961966082/_t3jMyoE.jpg"
+    ]
+  }
+}
