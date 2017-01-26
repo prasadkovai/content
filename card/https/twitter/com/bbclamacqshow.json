@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Steve Lamacq Show"
+    ],
+    "url": [
+      "https://twitter.com/BBClamacqshow"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/2965431239/9964878c41d00ce73659e3250db9bd49.jpeg"
+    ]
+  }
+}
