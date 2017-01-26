@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/823970313893511169#favorited-by-235193328"
+    ],
+    "name": [
+      "tag:twitter.com,2013:823970313893511169_favorited_by_235193328 IndieWebCamp https://twitter.com/barryf/status/823970313893511169#favorited-by-235193328"
+    ],
+    "published": [
+      "2017-01-26T03:07:39Z"
+    ],
+    "author": [
+      "https://twitter.com/indiewebcamp"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/01/indie-microblogging"
+    ]
+  }
+}
