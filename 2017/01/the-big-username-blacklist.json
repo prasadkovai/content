@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/marteinn/The-Big-Username-Blacklist"
+    ],
+    "name": [
+      "The-Big-Username-Blacklist"
+    ],
+    "content": [
+      "> This is a opinionated blacklist of words that you might not like to see used as usernames in your service.\r\n\r\ne.g. \"admin\" or \"help\"."
+    ],
+    "category": [
+      "saas",
+      "user",
+      "security"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-01-26T15:54:07Z"
+    ]
+  }
+}
