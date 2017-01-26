@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "PaulCole"
+    ],
+    "url": [
+      "https://twitter.com/PaulCole"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/720336438278144001/vcPtuyIk.jpg"
+    ]
+  }
+}
