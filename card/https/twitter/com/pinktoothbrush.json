@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "The Pink Toothbrush"
+    ],
+    "url": [
+      "https://twitter.com/PinkToothbrush_"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/819457314881228800/IK66KXsl.jpg"
+    ]
+  }
+}
