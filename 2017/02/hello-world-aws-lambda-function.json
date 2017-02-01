@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://claudiajs.com/tutorials/hello-world-lambda.html"
+    ],
+    "name": [
+      "Hello World AWS Lambda function"
+    ],
+    "category": [
+      "aws",
+      "lambda"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-01T10:25:22Z"
+    ]
+  }
+}
