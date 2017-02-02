@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/ChrisAldrich"
-    ],
     "name": [
       "ChrisAldrich"
     ],
+    "url": [
+      "https://twitter.com/ChrisAldrich"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/378800000823803940/e500bc8cba99417f27ac3392e7503aa0_normal.jpeg"
+      "https://pbs.twimg.com/profile_images/378800000823803940/e500bc8cba99417f27ac3392e7503aa0.jpeg"
     ]
   }
 }
