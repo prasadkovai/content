@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/chrisaldrich/status/827206319551700993"
+    ],
+    "content": [
+      "@chrisaldrich I'm excited to hear how you get on too. Let me know if there are any rough edges for you."
+    ],
+    "category": [
+      "micropublish"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-02-02T21:58:14Z"
+    ]
+  }
+}
