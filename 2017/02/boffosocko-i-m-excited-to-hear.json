@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "http://boffosocko.com/2017/02/02/i-cant-wait-to-try-out-micropublish-with-wordpress/",
+      "http://www.twitter.com/chrisaldrich/status/827206319551700993"
+    ],
+    "content": [
+      "@boffosocko I'm excited to hear how you get on too. Let me know if there are any rough edges for you."
+    ],
+    "category": [
+      "micropublish"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-02-02T21:36:13Z"
+    ]
+  }
+}
