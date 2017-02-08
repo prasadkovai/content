@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/829280606949347328#favorited-by-144812959"
+    ],
+    "name": [
+      "tag:twitter.com,2013:829280606949347328_favorited_by_144812959 Andrew Rudd https://twitter.com/barryf/status/829280606949347328#favorited-by-144812959"
+    ],
+    "published": [
+      "2017-02-08T17:00:35Z"
+    ],
+    "author": [
+      "https://twitter.com/andrewjohnrudd"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/02/mature"
+    ]
+  }
+}
