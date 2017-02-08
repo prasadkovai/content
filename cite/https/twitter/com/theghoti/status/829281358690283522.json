@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/TheGhoti/status/829281358690283522"
     ],
-    "content": [
-      "@barryf I’ve been preparing for that dark day for a while. Caught me on the hop when the threshold changed! &gt;:o/ #ScrewedOver"
+    "name": [
+      "I’ve been preparing for that dark day for a while. Caught me on the hop when the threshold changed! >:o/ #ScrewedOver"
+    ],
+    "published": [
+      "2017-02-08T10:50:57Z"
     ],
     "author": [
       "https://twitter.com/TheGhoti"
     ],
-    "published": [
-      "2017-02-08 10:50:57 UTC"
+    "in-reply-to": [
+      "https://barryfrost.com/2017/02/mature"
+    ],
+    "content": [
+      {
+        "html": "I’ve been preparing for that dark day for a while. Caught me on the hop when the threshold changed! &gt;:o/ <a href=\"https://twitter.com/search?q=%23ScrewedOver\">#ScrewedOver</a>"
+      }
     ]
   }
 }
