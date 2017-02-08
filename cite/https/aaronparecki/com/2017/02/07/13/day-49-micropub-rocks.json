@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2017/02/07/13/day-49-micropub-rocks"
+    ],
+    "name": [
+      "Day 49: Beginning the Micropub.rocks Client Tests #100DaysOfIndieWeb"
+    ],
+    "published": [
+      "2017-02-08T03:52:53Z"
+    ],
+    "content": [
+      {
+        "html": "<p><a href=\"https://micropub.rocks/\">Micropub.rocks</a> is the test suite and debugging tool for the <a href=\"https://www.w3.org/TR/micropub/\">Micropub</a> spec. Currently it only has tools for testing your Micropub servers. Today I began the process of adding tools for testing your Micropub clients.</p>\n<p>What I've got so far is an interface for registering a new client to test, which sets up a unique Micropub server and authorization server that your client can use.</p>\n<img src=\"https://aaronparecki.com/2017/02/07/13/image-1.png\" alt=\"\">\n<p>You will be able to use this unique client URL to sign in to your Micropub client using IndieAuth, or you can generate an access token manually to copy and paste into your client if you haven't added support for signing in yet.</p>\n<img src=\"https://aaronparecki.com/2017/02/07/13/image-2.png\" alt=\"\">\n<p>I haven't actually deployed this to the website yet, since it doesn't do anything except create the records on the backend yet. I was debating whether this should count for the #100DaysOfIndieWeb and decided ultimately that it should count, since it's still visible progress, the project is open source, and it's a significant step in finishing this tool. Expect to see some more progress on this in the coming days!</p>"
+      }
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ],
+    "location": [
+      {
+        "value": "Portland, Oregon",
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "locality": [
+            "Portland"
+          ],
+          "region": [
+            "Oregon"
+          ],
+          "latitude": [
+            "45.535564511125"
+          ],
+          "longitude": [
+            "-122.62101799261"
+          ],
+          "name": [
+            "Portland, Oregon"
+          ]
+        }
+      }
+    ]
+  }
+}
