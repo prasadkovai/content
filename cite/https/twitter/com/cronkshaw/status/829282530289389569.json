@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/cronkshaw/status/829282530289389569"
     ],
-    "content": [
-      "@barryf Hanged my boots up there and then!"
+    "name": [
+      "Hanged my boots up there and then!"
+    ],
+    "published": [
+      "2017-02-08T10:55:37Z"
     ],
     "author": [
       "https://twitter.com/cronkshaw"
     ],
-    "published": [
-      "2017-02-08 10:55:37 UTC"
+    "in-reply-to": [
+      "https://barryfrost.com/2017/02/cronkshaw-ooh-that-s-worse-you"
+    ],
+    "content": [
+      {
+        "html": "Hanged my boots up there and then!"
+      }
     ]
   }
 }
