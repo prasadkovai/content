@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/TheGhoti"
-    ],
     "name": [
       "Matt Harman"
     ],
+    "url": [
+      "https://twitter.com/TheGhoti"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/1252500053/MeBigSquare_normal.jpg"
+      "https://pbs.twimg.com/profile_images/1252500053/MeBigSquare.jpg"
     ]
   }
 }
