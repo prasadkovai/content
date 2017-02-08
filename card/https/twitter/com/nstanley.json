@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Neil Stanley"
-    ],
     "url": [
       "https://twitter.com/nstanley"
     ],
+    "name": [
+      "Neil Stanley"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/788397286502129664/kvqu0NPr.jpg"
+      "http://pbs.twimg.com/profile_images/788397286502129664/kvqu0NPr_normal.jpg"
     ]
   }
 }
