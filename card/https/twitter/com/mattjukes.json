@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/mattjukes"
+    ],
     "name": [
-      "mattjukes (@mattjukes)"
+      "Matt Jukes"
     ],
     "photo": [
       "http://pbs.twimg.com/profile_images/1369512539/mattjukes_normal.jpeg"
-    ],
-    "url": [
-      "https://twitter.com/mattjukes"
     ]
   }
 }
