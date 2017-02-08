@@ -3,14 +3,15 @@
     "h-card"
   ],
   "properties": {
-    "photo": [
-      "https://barryf.s3.amazonaws.com/barryfrost.jpg"
-    ],
-    "url": [
-      "https://barryfrost.com/"
-    ],
     "name": [
       "Barry Frost"
+    ],
+    "url": [
+      "https://barryfrost.com/",
+      "https://twitter.com/barryf"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1315177813/2010a.jpg"
     ]
   }
 }
