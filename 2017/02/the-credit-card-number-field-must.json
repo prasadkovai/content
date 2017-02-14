@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://baymard.com/blog/credit-card-field-auto-format-spaces"
+    ],
+    "name": [
+      "The 'Credit Card Number' Field Must Allow and Auto-Format Spaces"
+    ],
+    "category": [
+      "creditcard",
+      "card",
+      "ux",
+      "form",
+      "conversion",
+      "payment"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-14T17:42:13Z"
+    ]
+  }
+}
