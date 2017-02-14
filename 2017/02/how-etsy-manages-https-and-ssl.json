@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://codeascraft.com/2017/01/31/how-etsy-manages-https-and-ssl-certificates-for-custom-domains-on-pattern/"
+    ],
+    "name": [
+      "How Etsy Manages HTTPS and SSL Certificates for Custom Domains on Pattern"
+    ],
+    "category": [
+      "https",
+      "ssl"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-14T17:41:40Z"
+    ]
+  }
+}
