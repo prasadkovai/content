@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/open-guides/og-aws/blob/master/README.md"
+    ],
+    "name": [
+      "The Open Guide to Amazon Web Services"
+    ],
+    "category": [
+      "aws",
+      "amazon",
+      "guide"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-14T17:43:22Z"
+    ]
+  }
+}
