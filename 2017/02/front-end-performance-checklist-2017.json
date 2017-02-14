@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://provide.smashingmagazine.com/performance-checklist/performance-checklist.pdf"
+    ],
+    "name": [
+      "Front-End Performance Checklist 2017"
+    ],
+    "category": [
+      "frontend",
+      "performance",
+      "browser"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-14T17:42:50Z"
+    ]
+  }
+}
