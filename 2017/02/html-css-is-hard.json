@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://internetingishard.com/html-and-css/"
+    ],
+    "name": [
+      "HTML & CSS Is Hard"
+    ],
+    "content": [
+      "Great beginners (and beyond) tutorial for web development"
+    ],
+    "category": [
+      "html",
+      "css",
+      "tutorial",
+      "beginner"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-02-14T17:45:28Z"
+    ]
+  }
+}
