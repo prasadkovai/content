@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/834394528215859200#favorited-by-4672"
+    ],
+    "name": [
+      "tag:twitter.com,2013:834394528215859200_favorited_by_4672 Tim Blair https://twitter.com/barryf/status/834394528215859200#favorited-by-4672"
+    ],
+    "published": [
+      "2017-02-22T15:59:27Z"
+    ],
+    "author": [
+      "https://twitter.com/timblair"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/02/timblair-coming-soon-to-a-bookshop"
+    ]
+  }
+}
