@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/timblair/status/834377441028296704"
+    ],
+    "content": [
+      "@timblair Coming soon to a bookshop near you: \"Harry Potter and the Cache of Arguments\"."
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-02-22T13:28:50Z"
+    ]
+  }
+}
