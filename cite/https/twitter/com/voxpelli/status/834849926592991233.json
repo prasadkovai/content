@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/voxpelli/status/834849926592991233"
+    ],
+    "content": [
+      "@barryf Seen https://aaronparecki.com/2017/02/23/6/day-65-micropub-implementation-reports ? Would be great with an implementation report for http://micropublish.net :)"
+    ],
+    "author": [
+      "https://twitter.com/voxpelli"
+    ],
+    "published": [
+      "2017-02-23 19:38:27 UTC"
+    ]
+  }
+}
