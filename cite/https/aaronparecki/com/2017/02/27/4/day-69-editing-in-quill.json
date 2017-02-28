@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2017/02/27/4/day-69-editing-in-quill"
+    ],
+    "name": [
+      "Day 69: Initial Editing Support for Quill #100DaysOfIndieWeb"
+    ],
+    "published": [
+      "2017-02-27T20:52:27Z"
+    ],
+    "content": [
+      {
+        "html": "<p>Today in Things I Should Have Done Ages Ago... I finally started adding support to Quill for editing posts. I'm going to have to build this out one by one for each post interface Quill supports, so I started with the easiest one, favorites.</p>\n<p>Eventually I will add an \"edit\" button to my bookmarklets, which is currently how I access most of Quill for writing posts, replies, bookmarks, etc. </p>\n<figure>\n  <img src=\"https://aaronparecki.com/2017/02/27/4/image-1.png\" alt=\"\">\n</figure>\n<p>(I used to have cute icons there, but they disappeared long ago during some syncing process in Chrome.)</p>\n<p>The bookmarklet will have code like the below:</p>\n<pre>javascript:(function()%7B window.location = \"https://quill.p3k.io/edit?url=\" + encodeURIComponent(window.location.href)\n%7D)();</pre>\n<p>The \"/edit?url=\" route in Quill does a Micropub <a href=\"https://www.w3.org/TR/micropub/#source-content\">query for all source properties</a>, and inspects which properties come back. Depending on which properties are present, Quill then redirects to the appropriate editing interface based on the type of post it detects. For example, if it sees a \"like-of\" property in the post, then it redirects to \"/favorite\" with the post's URL in the query string. </p>\n<figure>\n  <img src=\"https://aaronparecki.com/2017/02/27/4/image-2.png\" alt=\"\">\n</figure>\n<p>The \"/favorite\" page then does a Micropub query for the specific properties it will edit (in this case, only the \"like-of\" property), and fills the URL in the form. When you click \"Save\", it makes a Micropub edit request to replace the value of the \"like-of\" property.</p>\n<p>I'll be making more (slow) progress on adding editing support to the rest of the interfaces!</p>"
+      }
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ],
+    "location": [
+      {
+        "value": "Portland, Oregon",
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "locality": [
+            "Portland"
+          ],
+          "region": [
+            "Oregon"
+          ],
+          "latitude": [
+            "45.535483367669"
+          ],
+          "longitude": [
+            "-122.62143904318"
+          ],
+          "name": [
+            "Portland, Oregon"
+          ]
+        }
+      }
+    ]
+  }
+}
