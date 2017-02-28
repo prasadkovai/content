@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://aaronparecki.com/"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-02-28T17:21:55Z"
+    ]
+  }
+}
