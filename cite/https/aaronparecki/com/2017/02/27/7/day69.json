@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2017/02/27/7/day69"
+    ],
+    "name": [
+      "Day 69 - Timeless"
+    ],
+    "published": [
+      "2017-02-28T00:23:01Z"
+    ],
+    "content": [
+      {
+        "html": "Day 69. Today's song is basically in no time signature, and features the electric cello again. It's a simple theme that I developed by flipping the notes and playing through it in a few different chords. There's a faint harp sound that helps provide context, and there's a soft droning soundscape under everything."
+      }
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ],
+    "photo": [
+      "/2017/02/27/7/photo.jpg"
+    ],
+    "location": [
+      {
+        "value": "Portland, Oregon",
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "locality": [
+            "Portland"
+          ],
+          "region": [
+            "Oregon"
+          ],
+          "latitude": [
+            "45.535584402434"
+          ],
+          "longitude": [
+            "-122.62123961796"
+          ],
+          "name": [
+            "Portland, Oregon"
+          ]
+        }
+      }
+    ]
+  }
+}
