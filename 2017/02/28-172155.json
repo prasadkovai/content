@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "like-of": "https://aaronparecki.com/2017/02/27/4/day-69-editing-in-quill",
+    "like-of": ["https://aaronparecki.com"],
     "entry-type": [
       "like"
     ],
