@@ -10,7 +10,7 @@
       "HTML & CSS Is Hard"
     ],
     "content": [
-      "Great beginners (and beyond) tutorial for web development"
+      "Great beginners (and beyond) tutorial for web development."
     ],
     "category": [
       "html",
@@ -23,6 +23,9 @@
     ],
     "published": [
       "2017-02-14T17:45:28Z"
+    ],
+    "updated": [
+      "2017-03-01T21:29:27Z"
     ]
   }
 }
