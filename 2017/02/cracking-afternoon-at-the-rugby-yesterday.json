@@ -7,7 +7,9 @@
       "Cracking afternoon at the rugby yesterday. #6nations #engfra"
     ],
     "category": [
-      "6nations","engfra"
+      "6nations",
+      "engfra",
+      "rugby"
     ],
     "place_name": [
       "Twickenham Stadium"
@@ -26,6 +28,9 @@
     ],
     "entry-type": [
       "photo"
+    ],
+    "updated": [
+      "2017-03-01T21:30:29Z"
     ]
   }
 }
