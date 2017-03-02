@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "/avatar.jpg"
+    ],
+    "name": [
+      ""
+    ],
+    "url": [
+      "/"
+    ]
+  }
+}
