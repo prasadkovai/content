@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://voxpelli.com/avatar.jpg"
+    ],
+    "name": [
+      "https://voxpelli.com/"
+    ],
+    "url": [
+      "https://voxpelli.com/"
+    ]
+  }
+}
