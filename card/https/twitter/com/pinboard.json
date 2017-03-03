@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/Pinboard"
+    ],
     "name": [
-      "Pinboard (@Pinboard)"
+      "Pinboard"
     ],
     "photo": [
       "http://pbs.twimg.com/profile_images/494414965/logo_normal.png"
-    ],
-    "url": [
-      "https://twitter.com/Pinboard"
     ]
   }
 }
