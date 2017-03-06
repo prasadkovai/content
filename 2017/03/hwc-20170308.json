@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20170308/"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "I'm going"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-03-06T09:00:13Z"
+    ]
+  }
+}
