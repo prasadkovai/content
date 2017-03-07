@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://24ways.org/2016/http2-server-push-and-service-workers/"
+    ],
+    "name": [
+      "HTTP/2 Server Push and Service Workers: The Perfect Partnership"
+    ],
+    "category": [
+      "https",
+      "push",
+      "serviceworkers",
+      "http2"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:25:42Z"
+    ]
+  }
+}
