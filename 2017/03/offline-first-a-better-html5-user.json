@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/"
+    ],
+    "name": [
+      "Offline First – A better HTML5 User Experience"
+    ],
+    "category": [
+      "offline"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:42:45Z"
+    ]
+  }
+}
