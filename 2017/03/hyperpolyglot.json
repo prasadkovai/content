@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://hyperpolyglot.org/"
+    ],
+    "name": [
+      "Hyperpolyglot"
+    ],
+    "content": [
+      "> Commonly used features in a side-by-side format"
+    ],
+    "category": [
+      "dev",
+      "languages",
+      "guide"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:24:41Z"
+    ]
+  }
+}
