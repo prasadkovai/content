@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://adactio.com/journal/11730?skin=default"
+    ],
+    "name": [
+      "Making Resilient Web Design work offline"
+    ],
+    "content": [
+      "How Jeremy made his clever new book an offline PWA "
+    ],
+    "category": [
+      "pwa",
+      "offline",
+      "book"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:34:44Z"
+    ]
+  }
+}
