@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.l54l1kdnf"
+    ],
+    "name": [
+      "10 things I learned making the fastest site in the world"
+    ],
+    "category": [
+      "performance",
+      "optimisation",
+      "speed"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:45:58Z"
+    ]
+  }
+}
