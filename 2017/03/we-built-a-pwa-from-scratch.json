@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://14islands.com/blog/2017/01/19/progressive-web-app-from-scratch/"
+    ],
+    "name": [
+      "We built a PWA from scratch [and] this is what we learned"
+    ],
+    "content": [
+      "An agency's learnings from creating a PWA"
+    ],
+    "category": [
+      "pwa",
+      "guide"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:35:54Z"
+    ]
+  }
+}
