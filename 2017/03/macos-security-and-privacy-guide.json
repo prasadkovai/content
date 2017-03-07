@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md"
+    ],
+    "name": [
+      "macOS-Security-and-Privacy-Guide"
+    ],
+    "content": [
+      "> This is a collection of thoughts on securing a modern Apple Mac computer using macOS (formerly OS X) 10.12 \"Sierra\", as well as steps to improving online privacy."
+    ],
+    "category": [
+      "mac",
+      "macos",
+      "security"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:40:59Z"
+    ]
+  }
+}
