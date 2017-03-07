@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://cloudfour.com/thinks/hey-hey-cloud-four-is-a-pwa/"
+    ],
+    "name": [
+      "Hey, Hey, Cloud Four is a PWA!"
+    ],
+    "content": [
+      "Notes and useful tips on how an agency converted their website to a progressive web app."
+    ],
+    "category": [
+      "pwa",
+      "agency"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:34:01Z"
+    ]
+  }
+}
