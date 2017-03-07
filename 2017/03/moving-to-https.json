@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://movingtohttps.com/"
+    ],
+    "name": [
+      "Moving to HTTPS"
+    ],
+    "content": [
+      "Guide to how to move your site from HTTP to HTTPs"
+    ],
+    "category": [
+      "https",
+      "ssl",
+      "security"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:20:05Z"
+    ]
+  }
+}
