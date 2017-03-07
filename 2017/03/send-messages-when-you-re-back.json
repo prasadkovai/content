@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html"
+    ],
+    "name": [
+      "Send messages when you’re back online with Service Workers and Background Sync"
+    ],
+    "category": [
+      "serviceworkers",
+      "offline",
+      "sync",
+      "nodejs"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-07T12:37:27Z"
+    ]
+  }
+}
