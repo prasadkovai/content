@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/hgoebl/mobile-detect.js/"
+    ],
+    "name": [
+      "mobile-detect.js"
+    ],
+    "content": [
+      "Device detection (phone, tablet, desktop, mobile grade, os, versions)"
+    ],
+    "category": [
+      "javascript",
+      "device",
+      "mobile",
+      "detect"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-08T14:19:25Z"
+    ]
+  }
+}
