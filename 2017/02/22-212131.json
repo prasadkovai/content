@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "like-of": "https://calumryan.com/learning/getting-started-with-micropub/",
+    "like-of": ["https://calumryan.com/learning/getting-started-with-micropub/"],
     "entry-type": [
       "like"
     ],
