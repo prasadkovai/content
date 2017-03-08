@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://tantek.com/2017/066/t2/runner-tantek",
+      "https://twitter.com/t/status/839174311554519040"
+    ],
+    "category": [
+      "running",
+      "fitness"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-03-08T14:02:34Z"
+    ]
+  }
+}
