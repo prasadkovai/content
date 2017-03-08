@@ -18,6 +18,9 @@
     ],
     "category": [
       "micropub"
+    ],
+    "syndication": [
+      "https://twitter.com/100daysindieweb/status/836318262061215745"
     ]
   }
 }
