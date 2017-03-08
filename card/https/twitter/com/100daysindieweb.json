@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/100daysindieweb"
+    ],
+    "name": [
+      "100 Days of IndieWeb"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/812399791556526080/LMpNouj0_normal.jpg"
+    ]
+  }
+}
