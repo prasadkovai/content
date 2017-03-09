@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://techblog.badoo.com/blog/2017/03/08/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation/"
+    ],
+    "name": [
+      "How to teach a web app to speak 100 languages - the specifics of localisation"
+    ],
+    "content": [
+      "How Badoo localises dates, content and more"
+    ],
+    "category": [
+      "badoo",
+      "localisation",
+      "internationalisation"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-09T09:23:39Z"
+    ]
+  }
+}
