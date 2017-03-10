@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://minio.io/"
+    ],
+    "name": [
+      "Minio"
+    ],
+    "content": [
+      "> Store photos, videos, VMs, containers, log files, or any blob of data as objects.\r\n\r\nSelf-hosted, S3-compatible storage."
+    ],
+    "category": [
+      "storage",
+      "s3"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-10T09:01:52Z"
+    ]
+  }
+}
