@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/beep"
+    ],
+    "name": [
+      "Ethan Marcotte"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/653657521559896065/VWzlUwPL_normal.png"
+    ]
+  }
+}
