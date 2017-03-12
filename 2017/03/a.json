@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/beep/status/792023506678607873"
+    ],
+    "category": [
+      "accessibility",
+      "design",
+      "ux"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-03-12T13:33:42Z"
+    ]
+  }
+}
