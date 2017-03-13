@@ -9,7 +9,8 @@
     "category": [
       "accessibility",
       "design",
-      "ux"
+      "ux",
+      "form"
     ],
     "entry-type": [
       "repost"
@@ -19,6 +20,9 @@
     ],
     "syndication": [
       "https://twitter.com/barryf/status/840918730850865153"
+    ],
+    "updated": [
+      "2017-03-13T17:19:40Z"
     ]
   }
 }
