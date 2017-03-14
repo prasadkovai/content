@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.drift.com/"
+    ],
+    "name": [
+      "Drift"
+    ],
+    "content": [
+      "Intercom-like marketing chat system"
+    ],
+    "category": [
+      "chat",
+      "marketing"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-14T14:51:46Z"
+    ]
+  }
+}
