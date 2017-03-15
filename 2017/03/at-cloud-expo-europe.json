@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "temp": [
+    "location": [
       {
         "type": [
           "h-card"
@@ -25,7 +25,7 @@
       "At Cloud Expo Europe."
     ],
     "entry-type": [
-      "note"
+      "checkin"
     ],
     "published": [
       "2017-03-15T13:14:16Z"
