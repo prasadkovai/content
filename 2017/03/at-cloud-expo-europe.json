@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "_location": [
+    "temp": [
       {
         "type": [
           "h-card"
