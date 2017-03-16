@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/martymcguire/screech"
+    ],
+    "name": [
+      "screech"
+    ],
+    "content": [
+      "> Micropub client for posting audio files (mostly podcasts) to your site."
+    ],
+    "category": [
+      "micropub",
+      "podcast"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-16T11:11:52Z"
+    ]
+  }
+}
