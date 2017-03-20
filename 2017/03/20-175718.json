@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-03-20T17:56:46+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58d017def2299575d8c954f7"
+    ],
+    "photo": [
+
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bill's Restaurant"
+          ],
+          "url": [
+            "https://foursquare.com/v/52ef71a4498eb2e6c1e20065",
+            "http://bills-website.co.uk/restaurants/windsor/",
+            "https://twitter.com/billsrestaurant"
+          ],
+          "tel": [
+            "01753 864586"
+          ],
+          "latitude": [
+            51.482898712158
+          ],
+          "longitude": [
+            -0.61012208461761
+          ],
+          "street-address": [
+            "64-67 Windsor Royal Station Concourse"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
