@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "location": [
+    "checkin": [
       {
         "type": [
           "h-card"
