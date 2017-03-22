@@ -1,0 +1,60 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-03-22T18:07:26+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58d2bd5e0e0a1e1a8277a5ef"
+    ],
+    "content": [
+      "At Homebrew Website Club London"
+    ],
+    "photo": [
+
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "hub by Premier Inn London Covent Garden"
+          ],
+          "url": [
+            "https://foursquare.com/v/54514efd498e59da3cda9ea8",
+            "https://www.hubhotels.co.uk/london/covent-garden.html",
+            "https://twitter.com/hubhotels"
+          ],
+          "tel": [
+            "0333 321 3104"
+          ],
+          "latitude": [
+            51.510036220828
+          ],
+          "longitude": [
+            -0.12711122632027
+          ],
+          "street-address": [
+            "110 St Martin's Ln"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
