@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://wtfforms.com/"
+    ],
+    "name": [
+      "WTF, forms?"
+    ],
+    "content": [
+      "> Friendlier HTML form controls with a little CSS magic. Designed for IE9+, as well as the latest Chrome, Safari, and Firefox.\r\n"
+    ],
+    "category": [
+      "form",
+      "ux"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-22T11:44:35Z"
+    ]
+  }
+}
