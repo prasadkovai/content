@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.smashingmagazine.com/2017/03/improve-billing-form-ux/"
+    ],
+    "name": [
+      "Improve Your Billing Form’s UX In One Day"
+    ],
+    "content": [
+      "Tips on autocomplete and input masking"
+    ],
+    "category": [
+      "autocomplete",
+      "form",
+      "ux",
+      "payment",
+      "checkout"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-22T11:42:38Z"
+    ]
+  }
+}
