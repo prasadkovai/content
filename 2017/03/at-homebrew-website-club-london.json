@@ -13,7 +13,7 @@
       "At Homebrew Website Club London"
     ],
     "photo": [
-
+      "https://calumryan.com/uploads/images/hwc-220317.jpg"
     ],
     "checkin": [
       {
@@ -55,6 +55,7 @@
     ],
     "entry-type": [
       "checkin"
-    ]
+    ],
+    "category": ["hwc", "hwclondon", "indieweb"]
   }
 }
