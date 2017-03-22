@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm in Covent Garden, London, not far from [today's attack](http://www.bbc.co.uk/news/uk-39359158) and marking myself safe."
+    ],
+    "category": [
+      "safetycheck",
+      "safetystatus",
+      "london",
+      "safe"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-03-22T18:51:32Z"
+    ]
+  }
+}
