@@ -1,0 +1,60 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-03-23T09:59:29+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58d39c81f697e008db3eea50"
+    ],
+    "content": [
+      "At WXG 2017 conference."
+    ],
+    "photo": [
+
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Guildford Harbour Hotel"
+          ],
+          "url": [
+            "https://foursquare.com/v/4e8c1ea6722e0db23003326f",
+            "http://www.radissonedwardian.com",
+            "https://twitter.com/gharbour_hotel"
+          ],
+          "tel": [
+            "01483 667113"
+          ],
+          "latitude": [
+            51.238329707209
+          ],
+          "longitude": [
+            -0.5673129400585
+          ],
+          "street-address": [
+            "3 Alexandra Tce"
+          ],
+          "locality": [
+            "Guildford"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
