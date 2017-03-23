@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "WXG Conference"
+    ],
+    "url": [
+      "http://wxg.co.uk/",
+      "https://twitter.com/wxg"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/819926034434899970/IOWJND4m.jpg"
+    ]
+  }
+}
