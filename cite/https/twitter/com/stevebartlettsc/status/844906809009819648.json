@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/SteveBartlettSC/status/844906809009819648"
+    ],
+    "name": [
+      "Thanks Barry 🙏🏽"
+    ],
+    "published": [
+      "2017-03-23T13:40:55Z"
+    ],
+    "author": [
+      "https://m.youtube.com/channel/UC_LOoFtney1PI4La_edqz0w"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/03/wxg"
+    ],
+    "content": [
+      {
+        "html": "Thanks Barry 🙏🏽\n<a class=\"u-mention\" href=\"https://barryfrost.com/2017/03/wxg\"></a>"
+      }
+    ]
+  }
+}
