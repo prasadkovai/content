@@ -6,11 +6,12 @@
     "name": [
       "Sam Barnes"
     ],
-    "photo": [
-      "https://twitter.com/thesambarnes/profile_image?size=original"
-    ],
     "url": [
-      "http://www.thesambarnes.com"
+      "http://www.thesambarnes.com/",
+      "https://twitter.com/thesambarnes"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/528981025582374912/8h9wwIM1.jpeg"
     ]
   }
 }
