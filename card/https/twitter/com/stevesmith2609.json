@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/stevesmith2609"
-    ],
     "name": [
       "Steve Smith"
     ],
+    "url": [
+      "https://twitter.com/stevesmith2609"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/454261890466590720/hr2_3aZ1_normal.jpeg"
+      "https://pbs.twimg.com/profile_images/454261890466590720/hr2_3aZ1.jpeg"
     ]
   }
 }
