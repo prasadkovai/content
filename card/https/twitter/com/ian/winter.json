@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/ian_winter"
+    ],
     "name": [
       "Ian Winter"
     ],
     "photo": [
-      "https://twitter.com/ian_winter/profile_image?size=original"
-    ],
-    "url": [
-      "https://twitter.com/ian_winter"
+      "http://pbs.twimg.com/profile_images/629398010007433217/YTSibiaU_normal.jpg"
     ]
   }
 }
