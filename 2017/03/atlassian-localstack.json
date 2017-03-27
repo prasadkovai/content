@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/atlassian/localstack"
+    ],
+    "name": [
+      "atlassian/localstack"
+    ],
+    "content": [
+      "A fully functional local AWS cloud stack. Develop and test your cloud apps offline"
+    ],
+    "category": [
+      "aws",
+      "dev",
+      "localhost",
+      "cloud"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-27T10:16:20Z"
+    ]
+  }
+}
