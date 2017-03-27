@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://echosim.io/welcome?next=%2F"
+    ],
+    "name": [
+      "Echosim"
+    ],
+    "content": [
+      "Alexa Skill testing tool"
+    ],
+    "category": [
+      "alexa",
+      "dev"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-27T10:53:06Z"
+    ]
+  }
+}
