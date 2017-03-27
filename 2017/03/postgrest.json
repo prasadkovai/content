@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://postgrest.com/en/v0.4/"
+    ],
+    "name": [
+      "PostgREST"
+    ],
+    "content": [
+      "Serve a RESTful API directly from a Postgres database."
+    ],
+    "category": [
+      "postgres",
+      "api",
+      "rest"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-27T17:04:11Z"
+    ]
+  }
+}
