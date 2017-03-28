@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2017/03/o"
+    ],
+    "name": [
+      "iOS 10.3 brings wifi and 4G calling for O2 (UK). NB: you need to disable their TU Go service (my request is pending) http://www.o2.co.uk/help/network-coverage-and-international/wifi-and-4g-calling"
+    ],
+    "published": [
+      "2017-03-28T14:46:47Z"
+    ],
+    "content": [
+      {
+        "html": "<p>iOS 10.3 brings wifi and 4G calling for O2 (UK). NB: you need to disable their TU Go service (my request is pending) <a href=\"http://www.o2.co.uk/help/network-coverage-and-international/wifi-and-4g-calling\">http://www.o2.co.uk/help/network-coverage-and-international/wifi-and-4g-calling</a></p>"
+      }
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ]
+  }
+}
