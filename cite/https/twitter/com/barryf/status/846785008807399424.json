@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/846785008807399424"
+    ],
+    "name": [
+      "A few hours later and I'm up-and-running. At home, where signal is patchy, I now get \"O2 WiFiCall\" in the top bar of my iPhone 7."
+    ],
+    "published": [
+      "2017-03-28T18:04:13Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/03/o"
+    ],
+    "content": [
+      {
+        "html": "A few hours later and I'm up-and-running. At home, where signal is patchy, I now get \"O2 WiFiCall\" in the top bar of my iPhone 7.\n<a class=\"u-mention\" href=\"http://www.o2.co.uk/help/network-coverage-and-international/wifi-and-4g-calling\"></a>"
+      }
+    ]
+  }
+}
