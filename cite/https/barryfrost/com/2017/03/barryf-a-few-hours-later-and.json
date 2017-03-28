@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2017/03/barryf-a-few-hours-later-and"
+    ],
+    "name": [
+      "@barryf A few hours later and I’m up-and-running. At home, where signal is patchy, I now get “O2 WiFiCall” in the top bar of my iPhone 7."
+    ],
+    "published": [
+      "2017-03-28T17:54:53Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/03/o"
+    ],
+    "content": [
+      {
+        "html": "<p><a href=\"https://twitter.com/barryf\">@barryf</a> A few hours later and I’m up-and-running. At home, where signal is patchy, I now get “O2 WiFiCall” in the top bar of my iPhone 7.</p>"
+      }
+    ]
+  }
+}
