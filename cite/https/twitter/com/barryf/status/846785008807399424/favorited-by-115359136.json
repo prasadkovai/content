@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/846785008807399424#favorited-by-115359136"
+    ],
+    "name": [
+      "tag:twitter.com,2013:846785008807399424_favorited_by_115359136 Andrew Losowsky https://twitter.com/barryf/status/846785008807399424#favorited-by-115359136"
+    ],
+    "published": [
+      "2017-03-28T18:21:36Z"
+    ],
+    "author": [
+      "https://twitter.com/losowsky"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/03/barryf-a-few-hours-later-and"
+    ]
+  }
+}
