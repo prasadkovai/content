@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.honomobo.com/"
+    ],
+    "name": [
+      "Honomobo"
+    ],
+    "content": [
+      "Homes made from shipping containers (US)."
+    ],
+    "category": [
+      "house",
+      "home",
+      "inspiration"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-03-28T12:49:18Z"
+    ]
+  }
+}
