@@ -4,7 +4,8 @@
   ],
   "properties": {
     "in-reply-to": [
-      "https://twitter.com/barryf/status/846735322532773888"
+      "https://twitter.com/barryf/status/846735322532773888",
+      "https://barryfrost.com/2017/03/o"
     ],
     "content": [
       "@barryf A few hours later and I'm up-and-running. At home, where signal is patchy, I now get \"O2 WiFiCall\" in the top bar of my iPhone 7."
@@ -14,6 +15,9 @@
     ],
     "published": [
       "2017-03-28T17:54:53Z"
+    ],
+    "updated": [
+      "2017-03-28T18:03:10Z"
     ]
   }
 }
