@@ -4,10 +4,14 @@
   ],
   "properties": {
     "name": [
-      "mattjukes"
+      "Matt Jukes"
     ],
     "url": [
-      "http://mattjukes.com"
+      "http://mattjukes.com/",
+      "https://twitter.com/mattjukes"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1369512539/mattjukes.jpeg"
     ]
   }
 }
