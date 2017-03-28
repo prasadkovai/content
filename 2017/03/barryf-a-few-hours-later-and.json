@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/barryf/status/846735322532773888"
+    ],
+    "content": [
+      "@barryf A few hours later and I'm up-and-running. At home, where signal is patchy, I now get \"O2 WiFiCall\" in the top bar of my iPhone 7."
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-03-28T17:54:53Z"
+    ]
+  }
+}
