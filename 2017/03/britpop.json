@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "\"The 50 Best Britpop Albums\". Not sure all are /Britpop/, but god, I own and still listen to almost all of these: http://pitchfork.com/features/lists-and-guides/10045-the-50-best-britpop-albums/"
+      "\"The 50 Best Britpop Albums\". Not sure all are /Britpop/, but god, I own and still listen to almost all of these.\r\n\r\nhttp://pitchfork.com/features/lists-and-guides/10045-the-50-best-britpop-albums/"
     ],
     "category": [
       "music",
@@ -20,6 +20,9 @@
     ],
     "published": [
       "2017-03-29T12:53:46Z"
+    ],
+    "updated": [
+      "2017-03-29T12:54:41Z"
     ]
   }
 }
