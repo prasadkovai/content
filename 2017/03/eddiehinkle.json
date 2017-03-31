@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "http://eddiehinkle.com/article/2017/03/viewing-webmentions.html"
+    ],
+    "content": [
+      "👍"
+    ],
+    "category": [
+      "reacji",
+      "indieweb"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-03-31T09:24:38Z"
+    ]
+  }
+}
