@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://eddiehinkle.com/article/2017/03/viewing-webmentions.html"
+    ],
+    "name": [
+      "Viewing webmentions"
+    ],
+    "published": [
+      "2017-03-30T14:00:00Z"
+    ],
+    "content": [
+      {
+        "html": "<p>For about a week, I’ve been able to <a href=\"/article/2017/03/receiving-webmentions.html\">receive webmentions</a> but they haven’t been visible on my site. That is a bad experience for several reasons: The first is that it seems strange for someone to send a webmention and if they visit my site later to see that there’s no reference to the feedback they sent me. Second, it’s not very enjoyable for me to look at my site and then to have to do some behind the scenes stuff to see if anyone has responded to my posts.</p>\n\n<p>So that has all changed now! Currently, my site will display if another site mentions one of my posts (basically just linking to my page without direct reference), if someone writes a specific reply post, and if someone likes a post.</p>\n\n<p>On the technical side of things, I am actually converting any likes to emoji reactions (<a href=\"https://indieweb.org/reacji\">reacji</a>) of the thumbs-up: 👍. I also check both replies and mentions for content that is equal only to an emoji code. If that is the case, then the reply or mention is also converted to a reaction. All reactions are gathered at the top of the “Responses” area of my site and display the total number of each reaction, as well as a face-pile of each person that sent a reaction with the reaction they sent in the lower left corner.</p>\n\n<p><img src=\"http://eddiehinkle.com/images/post-images/reactions-example.png\" alt=\"Screenshot of reactions example\"></p>\n\n<p>I also try to display replies as nicely as possible with the author photo, name and date of posting next to their reply text.</p>\n\n<p><img src=\"http://eddiehinkle.com/images/post-images/replies-example.png\" alt=\"Screenshot of replies example\"></p>\n\n<p>Finally, for mentions, I just point out that another site has mentioned mine. If the site doesn’t provide an author name, it just uses the domain.</p>\n\n<p><img src=\"http://eddiehinkle.com/images/post-images/mentions-example.png\" alt=\"Screenshot of mentions example\"></p>\n\n<p>I’m pretty excited about these advancements. Using emoji reactions in slack is one of my favorite things about it. There are, however, some more things that I want to do for my site that currently isn’t the case:</p>\n<ul>\n  <li>I also want to expand my webmention views to include when people: bookmark, repost or rsvp/invite.</li>\n  <li>Currently webmentions only display on my site when I upload new data. I <strong>have almost</strong> finished building a webmention update script that will run on my server. This will make it so that when I receive a webmention, my jekyll instance will download the new data and auto-rebuild causing it to display within a couple of seconds.</li>\n  <li>I have to check all of my posts to know if someone has sent a webmention, I’d like to build that into a native experience in some way soon, hopefully. <a href=\"https://martymcgui.re\">Marty</a> has done some good work on that, with <a href=\"https://martymcgui.re/2017/03/29/161441/\">this post</a>.</li>\n</ul>"
+      }
+    ],
+    "author": [
+      "http://eddiehinkle.com/"
+    ]
+  }
+}
