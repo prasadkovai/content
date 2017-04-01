@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-04-01T17:32:20+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58dfd6148927fd573f4e012f"
+    ],
+    "content": [
+      "At Riverside for the first time in over 20 years for nephew's 5th birthday. Pretty much as I remembered it."
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riverside Ice & Leisure"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bb8520a3db7b713d73a219a"
+          ],
+          "latitude": [
+            51.735905720016
+          ],
+          "longitude": [
+            0.47737956047058
+          ],
+          "street-address": [
+            "Victoria Rd."
+          ],
+          "locality": [
+            "Chelmsford"
+          ],
+          "region": [
+            "Essex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "CM1 1FG"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
