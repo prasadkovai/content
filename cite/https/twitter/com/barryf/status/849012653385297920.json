@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/849012653385297920"
+    ],
+    "name": [
+      "Yep, a pleasant surprise!"
+    ],
+    "published": [
+      "2017-04-03T21:36:05Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/bt"
+    ],
+    "content": [
+      {
+        "html": "Yep, a pleasant surprise!"
+      }
+    ]
+  }
+}
