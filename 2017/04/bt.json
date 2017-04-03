@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "It's not often said, but well done @BTCare/@OpenreachGB. First working day after reporting intermittent broadband: engineer visited + fixed."
+    ],
+    "category": [
+      "bt",
+      "uk",
+      "broadband"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/848989537506406402"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-04-03T20:04:14Z"
+    ]
+  }
+}
