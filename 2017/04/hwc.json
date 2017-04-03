@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20170405/",
+      "https://twitter.com/calum_ryan/status/848611369444356097"
+    ],
+    "rsvp": [
+      "no"
+    ],
+    "content": [
+      "@calum_ryan I can't make this week, unfortunately. Wife has a night out so I'm on babysitting duty. "
+    ],
+    "category": [
+      "hwc",
+      "hwclondon"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/848995655871860742"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-04-03T20:28:32Z"
+    ]
+  }
+}
