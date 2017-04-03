@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Antony Burdett-Clark"
+    ],
+    "url": [
+      "http://www.lightboxstudios.co.uk/",
+      "https://twitter.com/lightboxstudios"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/845763935378833412/nKCvjTbG.jpg"
+    ]
+  }
+}
