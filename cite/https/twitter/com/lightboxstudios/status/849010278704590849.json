@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/lightboxstudios/status/849010278704590849"
     ],
-    "content": [
-      "@barryf @BTCare @OpenreachGB There's a first time for everything!"
-    ],
-    "author": [
-      "https://twitter.com/lightboxstudios"
+    "name": [
+      "There's a first time for everything!"
     ],
     "published": [
-      "2017-04-03 21:26:38 UTC"
+      "2017-04-03T21:26:38Z"
+    ],
+    "author": [
+      "http://www.lightboxstudios.co.uk/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/bt"
+    ],
+    "content": [
+      {
+        "html": "There's a first time for everything!"
+      }
     ]
   }
 }
