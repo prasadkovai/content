@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/lightboxstudios/status/849010278704590849"
+    ],
+    "content": [
+      "@lightboxstudios Yep, a pleasant surprise!"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/849012653385297920"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-04-03T21:36:05Z"
+    ]
+  }
+}
