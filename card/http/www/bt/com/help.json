@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "BTCare"
+    ],
+    "url": [
+      "http://www.bt.com/help",
+      "https://twitter.com/BTCare"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/471992027622547457/Iy422sr2.png"
+    ]
+  }
+}
