@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/bentolmachoff/status/846476110846017536"
+    ],
+    "category": [
+      "robot",
+      "cute"
+    ],
+    "syndication": [
+      "https://twitter.com/bentolmachoff/status/846476110846017536"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-04-05T14:59:17Z"
+    ]
+  }
+}
