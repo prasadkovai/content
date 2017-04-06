@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/destraynor/status/849762496537796608"
+    ],
+    "category": [
+      "ux",
+      "bossmode",
+      "design"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/849901358627131392"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-04-06T08:27:29Z"
+    ]
+  }
+}
