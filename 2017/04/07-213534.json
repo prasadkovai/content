@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-04-07T22:35:31+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58e8062313bb7746fffadd2c"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lebowskis"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b5616f1f964a520d6ff27e3",
+            "http://www.lebowskis.co.uk"
+          ],
+          "tel": [
+            "0131 466 1779"
+          ],
+          "latitude": [
+            55.945727406166
+          ],
+          "longitude": [
+            -3.2063341140747
+          ],
+          "street-address": [
+            "18 Morrison St"
+          ],
+          "locality": [
+            "Edinburgh"
+          ],
+          "region": [
+            "Edinburgh"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "EH3 8BJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
