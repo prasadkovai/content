@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-04-07T20:08:41+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/58e7e3b98927fd7c2fc78889"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Shebeen"
+          ],
+          "url": [
+            "https://foursquare.com/v/5169820ae4b01d37b18dc026",
+            "http://www.shebeenbar.co.uk",
+            "https://twitter.com/shebeensteaks"
+          ],
+          "tel": [
+            "0131 629 0261"
+          ],
+          "latitude": [
+            55.945732125434
+          ],
+          "longitude": [
+            -3.2060610432324
+          ],
+          "street-address": [
+            "8 Morrison St"
+          ],
+          "locality": [
+            "Midlothian"
+          ],
+          "region": [
+            "Midlothian"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "EH3 8BJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
