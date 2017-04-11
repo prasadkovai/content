@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/851903985472737281"
+    ],
+    "name": [
+      "I've been very happy with v2 but I think v3 will be a paid upgrade for macOS and iOS so you may want to wait."
+    ],
+    "published": [
+      "2017-04-11T21:05:12Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/things-3"
+    ],
+    "content": [
+      {
+        "html": "I've been very happy with v2 but I think v3 will be a paid upgrade for macOS and iOS so you may want to wait.\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
+      }
+    ]
+  }
+}
