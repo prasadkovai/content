@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/nstanley/status/851902419139211266"
+    ],
+    "content": [
+      "@nstanley I've been very happy with v2 but I think v3 will be a paid upgrade for macOS and iOS so you may want to wait."
+    ],
+    "category": [
+      "things"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/851903985472737281"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-04-11T21:05:12Z"
+    ]
+  }
+}
