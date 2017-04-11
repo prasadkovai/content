@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/nstanley/status/851902419139211266"
     ],
-    "content": [
-      "@barryf @culturedcode The iOS reminders app is rubbish and I've been looking for a replacement. Try 2 or hold out for 3 Barry?"
-    ],
-    "author": [
-      "https://twitter.com/nstanley"
+    "name": [
+      "The iOS reminders app is rubbish and I've been looking for a replacement. Try 2 or hold out for 3 Barry?"
     ],
     "published": [
-      "2017-04-11 20:58:58 UTC"
+      "2017-04-11T20:58:58Z"
+    ],
+    "author": [
+      "http://neilstanley.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/things-3"
+    ],
+    "content": [
+      {
+        "html": "The iOS reminders app is rubbish and I've been looking for a replacement. Try 2 or hold out for 3 Barry?\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
+      }
     ]
   }
 }
