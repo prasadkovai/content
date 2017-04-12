@@ -6,14 +6,22 @@
     "url": [
       "https://twitter.com/culturedcode/status/852107066290262016"
     ],
-    "content": [
-      "@barryf We hope you'll like it, Barry!"
-    ],
-    "author": [
-      "https://twitter.com/culturedcode"
+    "name": [
+      "We hope you'll like it, Barry!"
     ],
     "published": [
-      "2017-04-12 10:32:10 UTC"
+      "2017-04-12T10:32:10Z"
+    ],
+    "author": [
+      "http://culturedcode.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/things-3"
+    ],
+    "content": [
+      {
+        "html": "We hope you'll like it, Barry!\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
+      }
     ]
   }
 }
