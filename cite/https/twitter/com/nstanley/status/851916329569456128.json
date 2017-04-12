@@ -6,22 +6,14 @@
     "url": [
       "https://twitter.com/nstanley/status/851916329569456128"
     ],
-    "name": [
-      "Please nudge me when you see it live 😃"
-    ],
-    "published": [
-      "2017-04-11T21:54:15Z"
+    "content": [
+      "@barryf Please nudge me when you see it live 😃"
     ],
     "author": [
-      "http://neilstanley.com/"
+      "https://twitter.com/nstanley"
     ],
-    "in-reply-to": [
-      "https://barryfrost.com/2017/04/things-3"
-    ],
-    "content": [
-      {
-        "html": "Please nudge me when you see it live 😃\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
-      }
+    "published": [
+      "2017-04-11 21:54:15 UTC"
     ]
   }
 }
