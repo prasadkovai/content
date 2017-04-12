@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/culturedcode/status/852164074544574464"
+    ],
+    "name": [
+      "Hope so! :)"
+    ],
+    "published": [
+      "2017-04-12T14:18:42Z"
+    ],
+    "author": [
+      "http://culturedcode.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/things-3"
+    ],
+    "content": [
+      {
+        "html": "Hope so! :)\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
+      }
+    ]
+  }
+}
