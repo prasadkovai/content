@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/852108510368288770"
+    ],
+    "name": [
+      "Thanks very much, Things tweeter! I registered for the beta so hopefully I'll get the chance to try it soon. 🤞"
+    ],
+    "published": [
+      "2017-04-12T10:37:54Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/04/things-3"
+    ],
+    "content": [
+      {
+        "html": "Thanks very much, Things tweeter! I registered for the beta so hopefully I'll get the chance to try it soon. 🤞\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/blog/2017/04/things-3-is-coming/\"></a>"
+      }
+    ]
+  }
+}
