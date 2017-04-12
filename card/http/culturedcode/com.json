@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Things"
+    ],
+    "url": [
+      "http://culturedcode.com/",
+      "https://twitter.com/culturedcode"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/556093339527692288/YBaARjOO.png"
+    ]
+  }
+}
