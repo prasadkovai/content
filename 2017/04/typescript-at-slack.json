@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://slack.engineering/typescript-at-slack-a81307fa288d"
+    ],
+    "name": [
+      "TypeScript at Slack"
+    ],
+    "category": [
+      "typescript",
+      "advocacy",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-12T10:51:09Z"
+    ]
+  }
+}
