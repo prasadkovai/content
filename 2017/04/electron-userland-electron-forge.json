@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/electron-userland/electron-forge"
+    ],
+    "name": [
+      "electron-userland/electron-forge"
+    ],
+    "content": [
+      "> A complete tool for creating, publishing, and installing modern Electron applications"
+    ],
+    "category": [
+      "electron",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-12T11:00:26Z"
+    ]
+  }
+}
