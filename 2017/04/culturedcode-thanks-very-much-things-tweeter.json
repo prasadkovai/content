@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/culturedcode/status/852107066290262016"
+    ],
+    "content": [
+      "@culturedcode Thanks very much, Things tweeter! I registered for the beta so hopefully I'll get the chance to try it soon. 🤞"
+    ],
+    "category": [
+      "things"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/852108510368288770"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-04-12T10:37:55Z"
+    ]
+  }
+}
