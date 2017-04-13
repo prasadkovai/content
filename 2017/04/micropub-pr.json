@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/aaronpk/status/852613547922042880"
+    ],
+    "category": [
+      "micropub"
+    ],
+    "syndication": [
+      "https://twitter.com/aaronpk/status/852613547922042880"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-04-13T21:15:40Z"
+    ]
+  }
+}
