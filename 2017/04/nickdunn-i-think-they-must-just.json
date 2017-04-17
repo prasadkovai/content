@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/nickdunn/status/854051756980023302"
+    ],
+    "content": [
+      "@nickdunn I think they must just have gone a bit quiet. @thesambarnes is hiring I think. "
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/854083027554766849"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-04-17T21:23:56Z"
+    ]
+  }
+}
