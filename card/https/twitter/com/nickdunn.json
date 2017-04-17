@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/nickdunn"
+    ],
     "name": [
       "Nick Dunn"
     ],
     "photo": [
-      "https://twitter.com/nickdunn/profile_image?size=original"
-    ],
-    "url": [
-      "https://twitter.com/nickdunn"
+      "http://pbs.twimg.com/profile_images/712567745385250816/T-bH6AHf_normal.jpg"
     ]
   }
 }
