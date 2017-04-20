@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.upwork.com/"
+    ],
+    "name": [
+      "Upwork"
+    ],
+    "content": [
+      "> Hire Freelancers & Get Freelance Jobs Online"
+    ],
+    "category": [
+      "freelance",
+      "outsourcing",
+      "remote",
+      "work"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-20T19:28:35Z"
+    ]
+  }
+}
