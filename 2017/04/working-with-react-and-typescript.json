@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://blog.wolksoftware.com/working-with-react-and-typescript"
+    ],
+    "name": [
+      "Working with React and TypeScript"
+    ],
+    "category": [
+      "react",
+      "typescript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-20T19:35:29Z"
+    ]
+  }
+}
