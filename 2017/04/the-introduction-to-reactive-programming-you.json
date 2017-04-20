@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754"
+    ],
+    "name": [
+      "The introduction to Reactive Programming you've been missing"
+    ],
+    "category": [
+      "react",
+      "reactive"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-20T19:35:11Z"
+    ]
+  }
+}
