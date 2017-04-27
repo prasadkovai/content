@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20170503/"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "I'm coming"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-04-27T11:46:30Z"
+    ]
+  }
+}
