@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/852100970494480385#favorited-by-3291591813"
+    ],
+    "name": [
+      "tag:twitter.com,2013:852100970494480385_favorited_by_3291591813 Michael Bond https://twitter.com/barryf/status/852100970494480385#favorited-by-3291591813"
+    ],
+    "published": [
+      "2017-04-28T15:26:49Z"
+    ],
+    "author": [
+      "https://twitter.com/codemonkey85"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/04/pollen"
+    ]
+  }
+}
