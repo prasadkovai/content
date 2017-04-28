@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Michael Bond"
+    ],
+    "url": [
+      "https://twitter.com/codemonkey85"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/851478444223365121/64pB_BjJ.jpg"
+    ]
+  }
+}
