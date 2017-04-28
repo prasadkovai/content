@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://xray.p3k.io/"
+    ],
+    "name": [
+      "X-Ray"
+    ],
+    "content": [
+      "X-Ray returns structured JSON data from any URL. Potentially useful for extracting reply contexts: it follows authorship and comments presentation rules and constructs a simplified set of data.\r\n\r\nFurther background: https://aaronparecki.com/2017/04/24/15/jf2"
+    ],
+    "category": [
+      "indieweb",
+      "microformats",
+      "jf2"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-04-28T16:11:59Z"
+    ]
+  }
+}
