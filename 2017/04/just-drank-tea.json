@@ -1,0 +1,31 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-04-29T12:21:26+01:00"
+    ],
+    "created": [
+      "2017-04-29T12:21:26+01:00"
+    ],
+    "summary": [
+      "Just drank: Tea"
+    ],
+    "drank": [
+      [
+        "type",
+        "h-food"
+      ],
+      [
+        "properties",
+        {
+          "name": "Tea"
+        }
+      ]
+    ],
+    "entry-type": [
+      "note"
+    ]
+  }
+}
