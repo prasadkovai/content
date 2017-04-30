@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://tantek.com/2017/119/t3/microblog-microformats-indieweb-support",
+      "https://twitter.com/t/status/858365229398405120"
+    ],
+    "category": [
+      "indieweb",
+      "microblog"
+    ],
+    "syndication": [
+      "https://twitter.com/t/status/858365229398405120"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-04-30T15:16:38Z"
+    ]
+  }
+}
