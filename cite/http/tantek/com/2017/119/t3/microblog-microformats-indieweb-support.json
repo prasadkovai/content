@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "http://tantek.com/2017/119/t3/microblog-microformats-indieweb-support"
+    ],
+    "name": [
+      "Wednesday #100DoPP d97Setup micro.blog/tGreat #microformats & #indieweb support!rel=me h-feed Micropub WebSub etc.Micro.blog is using Micropub as their standard modern posting API:* http://help.micro.blog/2017/api-posting/For publishing, in addition to RSS & JSON, micro.blog publishes rich structured feeds with microformats2!* http://help.micro.blog/2017/api-feeds/As well as subscribes to your own personal site feed(s) using WebSub! (which I’m doing with micro.blog/t)Last but not least, instead of proprietary \"verified\" mechanisms, micro.blog is exclusively using the very well established rel=me microformat for website verification:* http://help.micro.blog/2017/web-site-verification/micro.blog, at early rollout time to Kickstarter backers, is already one of the most (if not the most) indieweb friendly services out there.Well done Manton!"
+    ],
+    "published": [
+      "2017-04-29T09:59:52Z"
+    ],
+    "content": [
+      {
+        "html": "Wednesday #<span class=\"p-category auto-tag\">100DoPP</span> d97<br class=\"auto-break\">Setup <a class=\"auto-link\" href=\"http://micro.blog/t\">micro.blog/t</a><br class=\"auto-break\">Great #<span class=\"p-category auto-tag\">microformats</span> &amp; #<span class=\"p-category auto-tag\">indieweb</span> support!<br class=\"auto-break\">rel=me h-feed Micropub WebSub etc.<br class=\"auto-break\"><br class=\"auto-break\"><a class=\"auto-link\" href=\"http://Micro.blog\">Micro.blog</a> is using Micropub as their standard modern posting API:<br class=\"auto-break\">* <a class=\"auto-link\" href=\"http://help.micro.blog/2017/api-posting/\">http://help.micro.blog/2017/api-posting/</a><br class=\"auto-break\"><br class=\"auto-break\">For publishing, in addition to RSS &amp; JSON, <a class=\"auto-link\" href=\"http://micro.blog\">micro.blog</a> publishes rich structured feeds with microformats2!<br class=\"auto-break\">* <a class=\"auto-link\" href=\"http://help.micro.blog/2017/api-feeds/\">http://help.micro.blog/2017/api-feeds/</a><br class=\"auto-break\">As well as subscribes to your own personal site feed(s) using WebSub! (which I’m doing with <a class=\"auto-link\" href=\"http://micro.blog/t\">micro.blog/t</a>)<br class=\"auto-break\"><br class=\"auto-break\">Last but not least, instead of proprietary \"verified\" mechanisms, <a class=\"auto-link\" href=\"http://micro.blog\">micro.blog</a> is exclusively using the very well established rel=me microformat for website verification:<br class=\"auto-break\">* <a class=\"auto-link\" href=\"http://help.micro.blog/2017/web-site-verification/\">http://help.micro.blog/2017/web-site-verification/</a><br class=\"auto-break\"><br class=\"auto-break\"><a class=\"auto-link\" href=\"http://micro.blog\">micro.blog</a>, at early rollout time to Kickstarter backers, is already one of the most (if not the most) indieweb friendly services out there.<br class=\"auto-break\"><br class=\"auto-break\">Well done Manton!"
+      }
+    ],
+    "author": [
+      "http://tantek.com/"
+    ]
+  }
+}
