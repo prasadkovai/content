@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/gRegorLove/status/859873136082386950"
+    ],
+    "category": [
+      "security",
+      "silo"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/860040614334935041"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-05-04T07:57:16Z"
+    ]
+  }
+}
