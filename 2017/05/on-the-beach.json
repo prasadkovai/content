@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-05-07T10:36:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/590eeab80d173f6cc6fe5613"
+    ],
+    "content": [
+      "On the beach"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Weymouth Beach"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b7ff643f964a520254730e3"
+          ],
+          "latitude": [
+            50.611961184826
+          ],
+          "longitude": [
+            -2.4529232309884
+          ],
+          "street-address": [
+            "The Esplanade"
+          ],
+          "locality": [
+            "Weymouth"
+          ],
+          "region": [
+            "Dorset"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
