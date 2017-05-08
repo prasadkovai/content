@@ -1,0 +1,31 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://barryfrost.com/2017/05/"
+    ],
+    "name": [
+      "May 2017"
+    ],
+    "published": [
+      "2017-05-08T09:51:26Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/05/splash"
+    ],
+    "content": [
+      {
+        "html": "<p>🐒🌍</p>"
+      }
+    ],
+    "photo": [
+      "https://barryfrost-media.s3.amazonaws.com/file/2017/05/08-a510a0a28bc0a5d594d5c37880e6a5ae.jpg",
+      "https://barryfrost-media.s3.amazonaws.com/file/2017/05/08-a510a0a28bc0a5d594d5c37880e6a5ae.jpg"
+    ]
+  }
+}
