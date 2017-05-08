@@ -1,0 +1,60 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-05-08T10:51:26+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59103f9eca18ea19adae453c"
+    ],
+    "content": [
+      "🐒🌍"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Monkey World - Ape Rescue Centre"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c63d32efa7bc9285e731127",
+            "http://www.monkeyworld.org",
+            "https://twitter.com/mwaperescue"
+          ],
+          "tel": [
+            "01929 462537"
+          ],
+          "latitude": [
+            50.69721078728
+          ],
+          "longitude": [
+            -2.2176405994517
+          ],
+          "street-address": [
+            "Longerthorns"
+          ],
+          "locality": [
+            "Wareham"
+          ],
+          "region": [
+            "Dorset"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BH20 6HH"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
