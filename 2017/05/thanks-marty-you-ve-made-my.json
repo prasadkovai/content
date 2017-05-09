@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://martymcgui.re/2017/05/08/150527/"
+    ],
+    "content": [
+      "Thanks, Marty! You've made my day seeing Micropublish being used productively! And that's the same workflow I use if I want to hand-craft a tweet rather than rely on my site to trim the content."
+    ],
+    "category": [
+      "micropublish",
+      "indieweb"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-05-09T15:33:40Z"
+    ]
+  }
+}
