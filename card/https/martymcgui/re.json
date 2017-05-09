@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://martymcgui.re/images/logo.jpg"
+    ],
+    "name": [
+      "Marty McGuire"
+    ],
+    "url": [
+      "https://martymcgui.re/"
+    ]
+  }
+}
