@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://mobile.twitter.com/veganstraightedge/status/863151253911511040"
+    ],
+    "category": [
+      "microformats",
+      "ruby"
+    ],
+    "syndication": [
+      "https://twitter.com/veganstraightedge/status/863151253911511040"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-05-13T06:53:21Z"
+    ]
+  }
+}
