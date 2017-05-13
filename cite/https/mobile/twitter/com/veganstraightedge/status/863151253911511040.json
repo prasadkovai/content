@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://mobile.twitter.com/veganstraightedge/status/863151253911511040"
+    ],
+    "content": [
+      "The microformats Ruby parser has been completely rewritten and is almost completely spec compliant.\n\nhttps://github.com/indieweb/microformats2-ruby"
+    ],
+    "author": [
+      "https://twitter.com/veganstraightedge"
+    ],
+    "published": [
+      "2017-05-12 21:57:50 UTC"
+    ]
+  }
+}
