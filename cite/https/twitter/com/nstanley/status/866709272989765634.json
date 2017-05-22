@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/nstanley/status/866709272989765634"
+    ],
+    "name": [
+      "Thanks Barry will definitely give it a try"
+    ],
+    "published": [
+      "2017-05-22T17:36:08Z"
+    ],
+    "author": [
+      "https://21.co/neilstanley/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/05/nstanley-if-you-re-still-interested"
+    ],
+    "content": [
+      {
+        "html": "Thanks Barry will definitely give it a try\n<a class=\"u-mention\" href=\"https://culturedcode.com/things/\"></a>"
+      }
+    ]
+  }
+}
