@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-05-22T11:40:05+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5922c00582644401b0a437e4"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Brancaster Beach"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bf7d8345efe2d7f6c956934"
+          ],
+          "latitude": [
+            52.974563254255
+          ],
+          "longitude": [
+            0.6369444762662
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
