@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/866613674592677888#favorited-by-20511088"
+    ],
+    "name": [
+      "tag:twitter.com,2013:866613674592677888_favorited_by_20511088 Ben Hobson https://twitter.com/barryf/status/866613674592677888#favorited-by-20511088"
+    ],
+    "published": [
+      "2017-05-22T11:25:43Z"
+    ],
+    "author": [
+      "https://twitter.com/BenHobson"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/05/benhobson-nice"
+    ]
+  }
+}
