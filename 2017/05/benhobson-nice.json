@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/BenHobson/status/866600293538168832"
+    ],
+    "content": [
+      "@BenHobson Nice 👍 🚗"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/866613674592677888"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-05-22T11:16:15Z"
+    ]
+  }
+}
