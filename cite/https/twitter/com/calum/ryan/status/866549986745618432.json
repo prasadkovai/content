@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/calum_ryan/status/866549986745618432"
+    ],
+    "name": [
+      "Suzan Littlething favorited this."
+    ],
+    "published": [
+      "2017-05-18T00:00:00Z"
+    ],
+    "content": [
+      {
+        "html": "<h1 property=\"dcterms:title\">Evaluating Technology</h1>\n\t\t<h2>Round-up of my one-day workshop evaluating technology with Jeremy Keith</h2>\n\n\t\t<div class=\"entry\">\n\t\t<p>Ten years on from my last visit to Nuremberg, when my career in the Web industry had barely started, I couldn’t imagine then what the Web would have become. Back then there was little public WiFi let alone mobile data connectivity such as Edge or 4G! Smartphones weren’t what we know them as today and I navigated the city using maps loaded onto an SD card on my $600 PDA (Personal Digital Assistant).</p>\n\n<p>Back to 2017 and instantly the moment I arrived I was depending on Web-based technology through my smartphone: navigating with geolocation and Google Maps to my Airbnb accommodation. My Airbnb greeted me and even before showing me all the rooms and other essential facilities of the apartment; his first priority was giving me the Wifi password.</p>\n\n<p>On my second day in Nuremberg I attended the workshop, Evaluating Technology organised by Jeremy Keith. This was the first workshop I’d attended in many years but one that I’m really glad to have been able to fit into my schedule.</p>\n\n<p>Collectively as people designing and developing for the Web we’re, generally-speaking, a diverse, open-minded part of society with many backgrounds, experiences and insights. This event provided the perfect opportunity to actively discuss and visualise the broad range of technologies we’ve used in the past, now or potentially will use in the future for our education and careers.</p>\n\n<p>The biggest blank wall in the room was filled with post-it notes that rapidly grew throughout the morning with Web frameworks, languages, software and many more related technology we could think of collectively. By lunchtime we’d pretty much filled the entire wall and could probably have filled another wall had we gone on longer!</p>\n\n<p><img src=\"https://calumryan.com/images/posts/workshop.jpg\" alt=\"Workshop in progress\"></p>\n\n<p>After this we grouped technologies into categories that helped us to form more focused thought and discussion on certain technologies for the afternoon. We looked at the impact our decision to use any one of the technologies has on the end-user versus us as designers, developers or maybe even an entire company or culture.</p>\n\n<p>It would have been unrealistic to go through every single technology in such a short space of time however what this categorisation helped us to do was find commonality between many of the technologies. The techniques and justification we apply to our process of choosing the right technology for the job is often challenging particularly in companies where a strong, influential company culture exists.</p>\n\n<p>We established early on that the most important considerations were the end-user <em>first</em> along with the use cases that may lend themselves more to one technology than another. Furthermore considering how well a technology fails is typically a good call for justifying whether it’s worth investing time, and quite possibly money, in particularly for large scale projects with a long lifespan.</p>\n\n<p>Overall it was a well organised workshop that I thought both Jeremy and fellow attendees contributed to well. The workshop has helped make me think more deeply how I apply new, old and existing technology in both my work and personal projects.</p>\n\n\t\t</div>"
+      }
+    ],
+    "author": [
+      "https://calumryan.com/"
+    ]
+  }
+}
