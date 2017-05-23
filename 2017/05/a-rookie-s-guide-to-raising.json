@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://hackernoon.com/-242f8b94afa1"
+    ],
+    "name": [
+      "A rookie’s guide to raising investment"
+    ],
+    "category": [
+      "startup",
+      "investment",
+      "vc"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-23T16:20:59Z"
+    ]
+  }
+}
