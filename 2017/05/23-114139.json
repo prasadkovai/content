@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/voxpelli/status/866938415820013573"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "syndication": [
+      "https://twitter.com/voxpelli/status/866938415820013573"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-05-23T11:41:39Z"
+    ]
+  }
+}
