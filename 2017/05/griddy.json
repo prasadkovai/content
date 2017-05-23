@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.griddy.io/"
+    ],
+    "name": [
+      "Griddy"
+    ],
+    "content": [
+      "Creates CSS to implement CSS Grids."
+    ],
+    "category": [
+      "css",
+      "layout",
+      "grid"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-23T16:20:54Z"
+    ]
+  }
+}
