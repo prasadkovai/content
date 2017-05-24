@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://adactio.com/journal/12324"
+    ],
+    "name": [
+      "Going offline at Indie Web Camp Düsseldorf"
+    ],
+    "category": [
+      "offline",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-24T15:16:51Z"
+    ]
+  }
+}
