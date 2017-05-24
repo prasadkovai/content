@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
+    "url": [
+      "https://twitter.com/hayleyhinsley"
+    ],
     "name": [
       "Hayley Hinsley"
     ],
     "photo": [
-      "https://twitter.com/hayleyhinsley/profile_image?size=original"
-    ],
-    "url": [
-      "https://twitter.com/hayleyhinsley"
+      "http://pbs.twimg.com/profile_images/843219871051714560/9eGyt9Jz_normal.jpg"
     ]
   }
 }
