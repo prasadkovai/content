@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://snarfed.org/"
+    ],
+    "name": [
+      "Ryan Barrett"
+    ],
+    "published": [
+      "2017-05-24T20:52:23Z"
+    ],
+    "author": [
+      "https://snarfed.org/"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2017/05/acquiescence"
+    ],
+    "content": [
+      {
+        "html": "<p>likes <a class=\"u-like u-like-of\" href=\"https://barryfrost.com/2017/05/acquiescence\">Acquiescence: a basic IndieAuth server · Barry Frost</a></p>"
+      }
+    ],
+    "photo": [
+      "https://i1.wp.com/snarfed.org/ryan_profile_square_thumb.jpg?w=696&ssl=1"
+    ]
+  }
+}
