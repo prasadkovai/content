@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/w3c/status/867153504988782595"
+    ],
+    "content": [
+      "Yay Micropub! 🎉"
+    ],
+    "category": [
+      "micropub"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/867393450857181184"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-05-24T14:54:49Z"
+    ]
+  }
+}
