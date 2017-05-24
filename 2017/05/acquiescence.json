@@ -3,7 +3,7 @@
     "h-entry"
   ],
   "properties": {
-    "title": [
+    "name": [
       "Acquiescence: a basic IndieAuth server"
     ],
     "content": [{
