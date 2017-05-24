@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Acquiescence: a basic IndieAuth server"
+    ],
+    "category": [
+      "indiweb",
+      "indieauth"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-05-24T19:44:42Z"
+    ]
+  }
+}
