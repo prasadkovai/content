@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/w3c"
+    ],
+    "name": [
+      "W3C"
+    ],
+    "photo": [
+      "http://pbs.twimg.com/profile_images/848879764664463361/VCy2ISdM_normal.jpg"
+    ]
+  }
+}
