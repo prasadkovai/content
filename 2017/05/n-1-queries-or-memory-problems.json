@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://blog.heroku.com/solving-n-plus-one-queries"
+    ],
+    "name": [
+      "N+1 Queries or Memory Problems: Why not Solve Both?"
+    ],
+    "category": [
+      "performance",
+      "rails",
+      "database"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-25T11:12:25Z"
+    ]
+  }
+}
