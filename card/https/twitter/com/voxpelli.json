@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/voxpelli"
-    ],
     "name": [
       "Pelle Wessman"
     ],
+    "url": [
+      "https://twitter.com/voxpelli"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c_normal.png"
+      "https://pbs.twimg.com/profile_images/378800000072331588/3c144be50e362a69d2410d759503c04c.png"
     ]
   }
 }
