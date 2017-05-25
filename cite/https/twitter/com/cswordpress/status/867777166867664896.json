@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/cswordpress/status/867777166867664896"
+    ],
+    "name": [
+      "Acquiescence: a basic #IndieAuth server barryfrost.com/2017/05/acquie… #indieweb"
+    ],
+    "published": [
+      "2017-05-25T16:19:33Z"
+    ],
+    "author": [
+      "https://www.customerservant.com/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2017/05/acquiescence"
+    ],
+    "content": [
+      {
+        "html": "Acquiescence: a basic #IndieAuth server barryfrost.com/2017/05/acquie… #indieweb"
+      }
+    ]
+  }
+}
