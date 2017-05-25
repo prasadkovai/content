@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://slackhq.com/how-to-manage-software-development-in-slack-37cfbe29ec43"
+    ],
+    "name": [
+      "How to manage software development in Slack"
+    ],
+    "category": [
+      "slack",
+      "team",
+      "startup"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-25T11:38:19Z"
+    ]
+  }
+}
