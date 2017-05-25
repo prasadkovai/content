@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.citusdata.com/blog/2017/04/28/postgres-tips-for-rails/"
+    ],
+    "name": [
+      "Postgres tips for Rails developers"
+    ],
+    "category": [
+      "rails",
+      "postgres"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-25T11:38:44Z"
+    ]
+  }
+}
