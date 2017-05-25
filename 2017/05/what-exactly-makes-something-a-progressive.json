@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/"
+    ],
+    "name": [
+      "What, Exactly, Makes Something A Progressive Web App?"
+    ],
+    "category": [
+      "pwa",
+      "offline"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-25T11:11:53Z"
+    ]
+  }
+}
