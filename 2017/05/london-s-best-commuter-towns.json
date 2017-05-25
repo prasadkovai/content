@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.totallymoney.com/commuter-hotspots/tool/"
+    ],
+    "name": [
+      "London’s Best Commuter Towns"
+    ],
+    "content": [
+      "Map with scoring for commuting time, life satisfaction and house prices"
+    ],
+    "category": [
+      "london",
+      "property",
+      "map"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-25T11:25:27Z"
+    ]
+  }
+}
