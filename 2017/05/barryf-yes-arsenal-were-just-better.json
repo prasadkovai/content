@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/barryf/status/868520214232739840",
+      "https://barryfrost.com/2017/05/delighted-after-the-first-half-of"
+    ],
+    "content": [
+      "@barryf Yes! Arsenal were just better. Outplayed, outfought, outscored them. Love it. #FACupFinal"
+    ],
+    "category": [
+      "arsenal"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/868545303460315137"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-05-27T19:11:52Z"
+    ]
+  }
+}
