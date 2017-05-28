@@ -13,7 +13,8 @@
     ],
     "category": [
       "indieweb",
-      "indieauth"
+      "indieauth",
+      "acquiescence"
     ],
     "entry-type": [
       "article"
@@ -26,7 +27,7 @@
       "https://news.indieweb.org/en/barryfrost.com/2017/05/acquiescence"
     ],
     "updated": [
-      "2017-05-28T12:49:51Z"
+      "2017-05-28T18:15:18Z"
     ]
   }
 }
