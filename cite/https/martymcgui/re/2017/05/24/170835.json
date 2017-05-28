@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://martymcgui.re/2017/05/24/170835/"
+    ],
+    "name": [
+      "liked a post: Barry Frost post from May 24, 2017 Acquiescence: a basic IndieAuth server IndieAuth is a method for using your own domain name to sign in to other sites and tools. It’s one of the key parts of Micropub, the (newly) W3C recommended standard for posting to your site. IndieAuth.com is the original and one of the very few public implementations of an IndieAuth server that you can use, but recently I’ve been having problems getting it to work with my site’s SSL setup.So I decided this was a good opportunity to try building my own IndieAuth authorization and token endpoints using the detailed documentation in the IndieWeb wiki.And Acquiescence is the result. It’s very simple (~160 lines of Ruby) and allows me to use my GitHub account to authenticate, authorise and grant scoped access to third-party tools like Micropublish. I’m now using it for this site’s domain.I’ve used my favourite stack of Ruby, Sinatra and Heroku for hosting, plus Redis to store the auths/tokens. The source code is available at: https://github.com/barryf/acquiescence if you want to poke around. May 24, 2017 at 5:08pm EDT • by Marty McGuire"
+    ],
+    "published": [
+      "2017-05-24T21:08:35Z"
+    ],
+    "author": [
+      "https://martymcgui.re/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/05/acquiescence"
+    ]
+  }
+}
