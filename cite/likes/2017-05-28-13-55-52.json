@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "/likes/2017-05-28-13-55-52"
+    ],
+    "name": [
+      "Home Articles Replies This entry has been updated. Reload? liked Barry Frost May 24th 2017, 19:44 IndieAuth is a method for using your own domain name to sign in to other sites and tools. It’s one of the key parts of Micropub, the (newly) W3C recommended standard for posting to your site. IndieAuth.com is the original and one of the very few public implementations of an IndieAuth server that you can use, but recently I’ve been having problems getting it to work with my site’s SSL setup.So I decided this was a good opportunity to try building my own IndieAuth authorization and token endpoints using the detailed documentation in the IndieWeb wiki.And Acquiescence is the result. It’s very simple (~160 lines of Ruby) and allows me to use my GitHub account to authenticate, authorise and grant scoped access to third-party tools like Micropublish. I’m now using it for this site’s domain.I’ve used my favourite stack of Ruby, Sinatra and Heroku for hosting, plus Redis to store the auths/tokens. The source code is available at https://github.com/barryf/acquiescence if you want to poke around. / posted on Sunday, May 28th 2017, 13:55 in Likes using micropublish.net Posted a response on your own website? Send a Webmention: Send (Even better - implement automatic Webmention sending on your website. And set up indie-config to make reply/repost/like buttons work.) My name's Greg. I do software development, design and photography. #freebsd(27) #sweetroll(17) #web(13) #android(12) #apple(12) #lol(10) #haskell(8) #micropub(8) #test(8) #windows(7) #firefox(6) #gui(6) #test1(6) #games(4) #pebble(4) #linux(3) #test2(3) #vim(3) #vps(3) #Notes(2) #aws(2) #gpg(2) #matrix(2) #openbsd(2) #postgres(2) #ruby(2) #tiddlywiki(2) #xorg(2) #blender(1) #c++(1) #crystal(1) #elixir(1) #erlang(1) #esp8266(1) #flickr(1) #freepass(1) #git(1) #lede(1) #minix(1) #nodejs(1) #python(1) #rust(1) #zfs(1) Search Log in Log in This website supports Webmentions! Because it's powered by Sweetroll, an #IndieWeb engine."
+    ],
+    "published": [
+      "2017-05-28T13:55:52Z"
+    ],
+    "author": [
+      "/"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/05/acquiescence"
+    ]
+  }
+}
