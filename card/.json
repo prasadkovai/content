@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "photo": [
-      "/avatar.jpg"
+    "note": [
+      "My name's Greg. I do software development, design and photography."
     ],
     "name": [
-      ""
+      "Greg"
     ],
     "url": [
       "/"
+    ],
+    "x_pronoun_nominative": [
+      "they"
+    ],
+    "x_pronoun_oblique": [
+      "them"
+    ],
+    "photo": [
+      "https://www.gravatar.com/avatar/5e7281cf21d93c6a238749790afe086c"
     ]
   }
 }
