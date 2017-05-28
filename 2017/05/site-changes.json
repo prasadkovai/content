@@ -7,13 +7,18 @@
       "A couple of recent site/Transformative changes: \r\n\r\n1. I'm now using [Acquiescence](https://github.com/barryf/acquiescence), my new IndieAuth server for auth/tokens, on this domain.\r\n2. You can subscribe to a new [JSON feed](https://barryfrost.com/feed.json) for homepage content. The RSS feed hasn't gone away but I thought I'd also support the new [JSON Feed format](https://jsonfeed.org)."
     ],
     "category": [
-      "transformative"
+      "transformative",
+      "acquiescence",
+      "jsonfeed"
     ],
     "entry-type": [
       "note"
     ],
     "published": [
       "2017-05-28T18:13:44Z"
+    ],
+    "updated": [
+      "2017-05-28T18:14:48Z"
     ]
   }
 }
