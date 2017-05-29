@@ -9,14 +9,11 @@
     "name": [
       "Barry Frost\n  \n\n  \n\n  \n  \n\n    \n      Liked\n      \n        \n          \n          \n            \n          \n          \n            Barry Frost‘s\n        \n      \n      post\n\n      \n        “Acquiescence: a basic IndieAuth server”\n      \n      on barryfrost.com\n    \n\n    \n      \n        \n          \n          \n          IndieAuth is a method for using your own domain name to sign in to other sites and tools. It’s one of the key parts of Micropub, the (newly) W3C recommended standard for posting to your site. IndieAuth.com is the original and one of the very few publ…\n        \n      \n    \n\n    \n\n  \n\n\n\n\n\n  \n    \n  \n\n  \n\n  \n\n  \n\n  \n\n  \n    \n  \n    \n      2017-05-29 18:13\n    \n    UTC"
     ],
-    "published": [
-      "2017-05-29T18:13:37Z"
-    ],
     "author": [
       "https://barryfrost.com/"
     ],
-    "like-of": [
-      "https://barryfrost.com/2017/05/acquiescence"
+    "published": [
+      "2017-05-29T18:13:37Z"
     ]
   }
 }
