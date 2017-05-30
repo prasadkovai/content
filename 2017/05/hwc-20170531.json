@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://calumryan.com/event/hwc-20170531/"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "I'm 99% certain I'll be there. Looking forward to catching up about your IWC experiences."
+    ],
+    "category": [
+      "hwc",
+      "hwclondon"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-05-30T18:50:00Z"
+    ]
+  }
+}
