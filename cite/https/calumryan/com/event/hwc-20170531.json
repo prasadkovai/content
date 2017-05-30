@@ -1,0 +1,42 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://calumryan.com/event/hwc-20170531/"
+    ],
+    "name": [
+      "Homebrew Website Club (London)"
+    ],
+    "published": [
+      "2017-05-30T18:50:06Z"
+    ],
+    "content": [
+      "Finish that blog post you’ve been working on. Demos of personal websites and technology. Discussion around the independent web. Join a community with like-minded interests. Bring friends that want a personal site! Any questions? Ask in chat: http://indiewebcamp.com/irc/today#bottom"
+    ],
+    "author": [
+      "https://calumryan.com/about"
+    ],
+    "start": [
+      "2017-05-31 18:00:00 +01:00"
+    ],
+    "end": [
+      "2017-05-31 20:00:00 +01:00"
+    ],
+    "location": [
+      "Show location on map (external link)\n 110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England",
+      {
+        "value": "110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "110 St Martin's Lane, Covent Garden, London, WC2N 4BA, England"
+          ]
+        }
+      }
+    ]
+  }
+}
