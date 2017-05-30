@@ -12,14 +12,11 @@
     "published": [
       "2017-05-30T11:57:00Z"
     ],
-    "author": [
-      "https://calumryan.com/about"
-    ],
-    "in-reply-to": [
-      "https://barryfrost.com/2017/05/site-changes"
-    ],
     "content": [
       "We had discussions regarding personal implementations of IndieAuth at the recent IWC so look forward to discussing and seeing this in action at a future HWC!"
+    ],
+    "author": [
+      "https://calumryan.com/about"
     ]
   }
 }
