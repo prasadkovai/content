@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/basecamp/google_sign_in"
+    ],
+    "name": [
+      "basecamp/google_sign_in"
+    ],
+    "content": [
+      "Sign in (or up) with Google for Rails applications -- Ruby gem by DHH"
+    ],
+    "category": [
+      "google",
+      "ruby",
+      "gem",
+      "authentication",
+      "rails"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-05-30T18:43:00Z"
+    ]
+  }
+}
