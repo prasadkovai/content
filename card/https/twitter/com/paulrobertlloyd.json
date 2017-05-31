@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/paulrobertlloyd"
-    ],
     "name": [
       "Paul Lloyd"
     ],
+    "url": [
+      "https://twitter.com/paulrobertlloyd"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/526405732330004483/Cq5RGV8S_normal.png"
+      "https://pbs.twimg.com/profile_images/526405732330004483/Cq5RGV8S.png"
     ]
   }
 }
