@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Alex Carpenter"
+    ],
+    "url": [
+      "https://twitter.com/hybrid_alex"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/625484939002118144/kTYc7FPE.jpg"
+    ]
+  }
+}
