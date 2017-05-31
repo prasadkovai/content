@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://calumryan.com/note/639",
+      "https://twitter.com/calum_ryan/status/869987564026863616"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon"
+    ],
+    "syndication": [
+      "https://twitter.com/calum_ryan/status/869987564026863616"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-05-31T19:36:04Z"
+    ]
+  }
+}
