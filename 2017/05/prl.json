@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/paulrobertlloyd/status/869856739843297280"
+    ],
+    "content": [
+      "@paulrobertlloyd Hey, thanks for the compliment! 😊 I'm a big fan of yours too: it's rare to see such a beautifully crafted personal site."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/869889343703445504"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-05-31T12:12:36Z"
+    ]
+  }
+}
