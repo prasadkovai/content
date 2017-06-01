@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-05-31T19:35:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/592f0d0cdab4b1763bff290e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Homebrew Website Club"
+          ],
+          "url": [
+            "https://foursquare.com/v/592f05c06a59502cdd1eb576"
+          ],
+          "latitude": [
+            51.509827
+          ],
+          "longitude": [
+            -0.12700729
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "WC2N 4BD"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
