@@ -1,0 +1,53 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-05-25T19:57:30+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5927291a98fbfc630181c01d"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The White Horse"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c712e40d97fa143ea10f8ca",
+            "http://www.whitehorsebrancaster.co.uk/Eat.asp"
+          ],
+          "latitude": [
+            52.966166138649
+          ],
+          "longitude": [
+            0.678923
+          ],
+          "street-address": [
+            "Brancaster Staithe"
+          ],
+          "locality": [
+            "Brancaster Staithe"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "P E31"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
