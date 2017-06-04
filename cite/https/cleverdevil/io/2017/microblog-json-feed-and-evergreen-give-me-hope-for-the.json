@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://cleverdevil.io/2017/microblog-json-feed-and-evergreen-give-me-hope-for-the"
+    ],
+    "name": [
+      "Micro.blog, JSON Feed, and Evergreen Give Me Hope for the Open Web"
+    ],
+    "published": [
+      "2017-06-01T20:46:13Z"
+    ],
+    "content": [
+      "I've long been a believer in the power of the open web, but my passion for saving it has been ignited by the IndieWeb movement, as of late. More and more people are discovering their distaste for creepy, ad-driven content silos like Facebook. Today's post by Dave Winer on the evils of Facebook, and John Gruber's hilariously sardonic \"Fuck Facebook\" reply do an excellent job of encapsulating my own frustrations. That said, there are reasons for hope.\nThe IndieWeb movement itself has been chipping away at the problem for years, but I've been particularly encouraged over the past few weeks by a few new developments.\nFirst is the successful launch of Manton Reece's Micro.blog project to his Kickstarter backers. I'm a backer myself, as is my employer, and I've had the pleasure of using the platform for a few weeks now. Its early, but the project is already bearing fruit, with a rapid development pace, a vibrant community, and lots of excellent people to follow. Micro.blog is built on the notion of independence and respects your ownership of your data.\nNext is the announcement and early success of the JSON Feed format created by Manton and Brent Simmons. JSON Feed is a new format designed for content syndication, similar to RSS and Atom, but based upon the JSON serialization format, which is popular with developers these days for being extremely easy to properly generate and parse. Since its announcement, there's been a flurry of activity around JSON Feed, including outcry about \"yet another standard,\" and those who are upset that JSON Feed was created at all when there are other JSON-based syndication formats in existence. Over all of the noise, though, the adoption rate has been impressive. Many projects have been updated or created to generate and parse JSON Feed, and consumers are starting to adopt the format as well, including Feedbin, News Explorer, NewsBlur, Inoreader, and a few podcast apps. I've even jumped into the fray, creating an initial implementation of JSON Feed for the Known CMS that runs this website, and a second pass that aims to build in additional information through JSON Feed extensions. Regardless of competing standards, shortcomings in the format itself, etc., its undeniable that JSON Feed is generating real, palpable excitement for the open web, and that's undoubtedly a good thing.\nFinally, in the midst of all of this, Brent Simmons has announced that he's working on a new, open source feed reader for macOS called Evergreen. Brent was the original creator of NetNewsWire, which was at one time my favorite app. In fact, I created several themes for NetNewsWire back in the day, and was a member of the beta testing and feedback group that Brent set up. Evergreen has a chance to take a fresh look at the problem of consuming feeds, and with JSON Feed and the new capabilities it could support through extensions, I am hoping that Brent takes a crack at solving the bigger picture that I blogged about in March. Imagine an open source app that bundles consumption (through feeds, including JSON Feed) with content creation and interaction (leveraging Micropub, a newly minted W3C recommendation, and Webmention). I'm looking forward to seeing what Brent produces!\nSo, yes, I lament the state of the web, thanks to walled gardens like Facebook, but I'm optimistic about the future.\n#indienews #indieweb"
+    ],
+    "author": [
+      "https://cleverdevil.io/profile/cleverdevil"
+    ]
+  }
+}
