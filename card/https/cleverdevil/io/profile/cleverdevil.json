@@ -1,0 +1,18 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "url": [
+      "https://cleverdevil.io/profile/cleverdevil",
+      "https://cleverdevil.io/profile/cleverdevil",
+      "https://cleverdevil.io/profile/cleverdevil"
+    ],
+    "photo": [
+      "https://cleverdevil.io/file/2fa19f964fb8970faaf20b909c69d6cb/thumb.png"
+    ],
+    "name": [
+      "Jonathan LaCour"
+    ]
+  }
+}
