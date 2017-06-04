@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://cleverdevil.io/2017/microblog-json-feed-and-evergreen-give-me-hope-for-the",
+      "https://twitter.com/cleverdevil/status/870413572337225731"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "syndication": [
+      "https://twitter.com/cleverdevil/status/870413572337225731"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-04T17:46:45Z"
+    ]
+  }
+}
