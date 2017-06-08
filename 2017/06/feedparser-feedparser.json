@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/feedparser/feedparser"
+    ],
+    "name": [
+      "feedparser/feedparser"
+    ],
+    "content": [
+      "> web feed parser and normalizer (XML w/ Atom or RSS, JSON Feed, HTML w/ Microformats e.g. h-entry/h-feed, Feed.TXT w/ YAML & Markdown, etc.)"
+    ],
+    "category": [
+      "microformats",
+      "feed",
+      "json",
+      "rss"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-08T21:57:15Z"
+    ]
+  }
+}
