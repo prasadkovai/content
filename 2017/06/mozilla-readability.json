@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/mozilla/readability"
+    ],
+    "name": [
+      "mozilla/readability"
+    ],
+    "content": [
+      "> A standalone version of the readability lib"
+    ],
+    "category": [
+      "readability",
+      "parser",
+      "html",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-12T16:23:51Z"
+    ]
+  }
+}
