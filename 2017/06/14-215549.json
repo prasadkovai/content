@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://seblog.nl/2017/06/14/6/at-mentioning-people"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-14T21:55:49Z"
+    ]
+  }
+}
