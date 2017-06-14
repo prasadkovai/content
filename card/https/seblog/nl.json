@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://seblog.nl/fake_photo.jpg"
+    ],
+    "url": [
+      "https://seblog.nl"
+    ],
+    "name": [
+      "Sebastiaan Andeweg"
+    ],
+    "note": [
+      "Ik ben een schrijver en nerd uit Nijmegen."
+    ]
+  }
+}
