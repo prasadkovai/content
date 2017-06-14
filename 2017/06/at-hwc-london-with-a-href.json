@@ -1,0 +1,82 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-06-14T18:19:41+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5941702d9b047363b63016b2"
+    ],
+    "content": [
+      {
+        "value": "At HWC London — with Calum",
+        "html": "At HWC London — with <a href=\"https://calumryan.com/\">Calum</a>"
+      }
+    ],
+    "category": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "https://calumryan.com/",
+            "https://foursquare.com/user/407869714"
+          ],
+          "name": [
+            "Calum"
+          ],
+          "photo": [
+            "https://igx.4sqi.net/img/user/300x300/407869714_H19z7X2P_J5qBrc6Ahd1fO9tx8x9FK9GHNsdMkT-sd0T_irGDdNKAyw1ZVVbpwzFwhEKc9Lq4.jpg"
+          ]
+        }
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "hub by Premier Inn London Covent Garden"
+          ],
+          "url": [
+            "https://foursquare.com/v/54514efd498e59da3cda9ea8",
+            "https://www.hubhotels.co.uk/london/covent-garden.html",
+            "https://twitter.com/hubhotels"
+          ],
+          "tel": [
+            "0333 321 3104"
+          ],
+          "latitude": [
+            51.510036220828
+          ],
+          "longitude": [
+            -0.12711122632027
+          ],
+          "street-address": [
+            "110 St Martin's Ln"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "WC2N 4BA"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
