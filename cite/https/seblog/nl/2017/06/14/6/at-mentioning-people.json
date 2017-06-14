@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://seblog.nl/2017/06/14/6/at-mentioning-people"
+    ],
+    "name": [
+      "@-mentioning people on my blog"
+    ],
+    "published": [
+      "2017-06-14T16:49:29Z"
+    ],
+    "content": [
+      "The past week I mentioned both Martijn and the Twitter-account of the Dutch Railways (@NS_online) in different blogposts. For Martijn, I used a hand-written link with the proper .u-category.h-card classes to person-tag him. [see update below] For @NS_online, I wanted to @-mention them in the POSSE'd tweet. Martijn complained that my blog didn't autolink them, so that's what I fixed now.\n\nI have a new syntax to @-mention (and thus tag) people in my blogposts.\n\nI want to match names like @name\n\nI don't want to match the word @-mention itself.\nI want to be able to escape the @-mention with a \\, like \\@name, so I can talk about @-mentions in a blogposts (this one, actually, I like meta-meta-meta).\n\n\nThen the syntax. Obviously I use an @-symbol, with a name behind it. I then check the name for the following:\n\nIs the name on my list of names? Then use the URL I provided.\nDoes the name contain a dot? Then assume it's a domain / URL itself, so add replace @ with http:// (@seblog.nl becomes <a href=\"https://seblog.nl/\">Sebastiaan Andeweg</a>)\nAnd if it doesn't contain a dot, assume it's a Twitter account.\n\nI then fetch the h-card (or profile information) from the resulting URL, and use the name that's there.\n\nThere are times, however, where I want to specify the name. In the example at the beginning of this post, I called Martijn 'Martijn', not 'Martijn van der Ven', which is on is h-card. Sometimes a full name makes no sense. So I can add the name I want to use in brackets behind the tag (@Zegnat[Martijn]). This way I have total control over my text (and possible conjugations if I start writing in a language that needs those, not that I speak one).\nThen it all comes down to the following syntax:\n@namefromcache        > the URL I specified\n@someone.com          > that URL\n@facebook.com/someone > also the literal URL\n@twitteruser          > their Twitter profile URL\n@someone[This Person] > my own name for them\n\\@someone             > escaped tag\nI now need to redo my automated webmention-sending, for it does not yet recognise these tags. Manual sending works fine!\n\nEdit: after some discussion during the Virtual HWC EU-time, I realised that just doing @someone is not really person-tagging them. Person tagging is explicitly saying \"I am now with this person\", which makes sense for photos and checkins, but not always in blogposts.\nI added a minor tweak: I can now use + instead of @ to really person-tag someone. The @ is used for just a mention, the +-mention will receive the class=\"u-category h-card\" markup. I don't know how much I will be using that, but I have that option now."
+    ],
+    "author": [
+      "https://seblog.nl"
+    ]
+  }
+}
