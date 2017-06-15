@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-06-15T19:47:40+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5942d64c237dee1b7ffd1507"
+    ],
+    "content": [
+      "Belle and Sebastian"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Royal Hospital Chelsea"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518d1f964a520cda620e3"
+          ],
+          "latitude": [
+            51.487918041995
+          ],
+          "longitude": [
+            -0.15681004413047
+          ],
+          "street-address": [
+            "Royal Hospital Rd."
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SW3 4SR"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
