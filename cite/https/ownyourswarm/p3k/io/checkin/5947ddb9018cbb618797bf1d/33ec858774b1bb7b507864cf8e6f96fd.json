@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://ownyourswarm.p3k.io/checkin/5947ddb9018cbb618797bf1d/33ec858774b1bb7b507864cf8e6f96fd"
+    ],
+    "name": [
+      "Your first check-in at WeWork South Bank Central!"
+    ],
+    "published": [
+      "2017-06-19T14:20:41Z"
+    ],
+    "author": [
+      "https://swarmapp.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/06/at-the-sunny-new-venntrodev-office"
+    ],
+    "content": [
+      "Your first check-in at WeWork South Bank Central!"
+    ]
+  }
+}
