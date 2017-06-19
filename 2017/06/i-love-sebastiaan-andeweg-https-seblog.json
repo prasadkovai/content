@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I love [Sebastiaan Andeweg](https://seblog.nl/)'s new [day page](https://seblog.nl/2017/06/19) with an icon summary of his activity that day. And his [Reacji](https://seblog.nl/2017/03/12/6/day-45-receiving-reacji) facepiles are also very nice. 😍 Plenty of inspiration for some changes I want to make to Transformative."
+    ],
+    "category": [
+      "indieweb",
+      "reacji"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-06-19T20:53:38Z"
+    ]
+  }
+}
