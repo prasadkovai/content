@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/steipete/status/876909987108446208"
+    ],
+    "category": [
+      "macos"
+    ],
+    "syndication": [
+      "https://twitter.com/steipete/status/876909987108446208"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-19T21:25:00Z"
+    ]
+  }
+}
