@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://seblog.nl/2017/06/19/6/reply"
+    ],
+    "content": [
+      "Awesome 🙌 Some great things happening on the presentation of #indieweb sites lately."
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-06-19T21:33:31Z"
+    ]
+  }
+}
