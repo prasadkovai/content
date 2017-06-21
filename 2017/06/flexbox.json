@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35"
+    ],
+    "name": [
+      "How Flexbox works"
+    ],
+    "content": [
+      "(explained with big, colorful, animated gifs)"
+    ],
+    "category": [
+      "flexbox",
+      "css",
+      "alignment"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-21T13:45:59Z"
+    ]
+  }
+}
