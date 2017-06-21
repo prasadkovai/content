@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://flexboxfroggy.com/"
+    ],
+    "name": [
+      "Flexbox Froggy"
+    ],
+    "content": [
+      "A [fun] game for learning CSS flexbox"
+    ],
+    "category": [
+      "flexbox",
+      "css"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-21T14:00:31Z"
+    ]
+  }
+}
