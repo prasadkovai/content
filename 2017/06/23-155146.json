@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://kongaloosh.com/e/2017/6/22/hello-world"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-23T15:51:46Z"
+    ]
+  }
+}
