@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/voxpelli/status/878286573879656448"
+    ],
+    "category": [
+      "webmention"
+    ],
+    "syndication": [
+      "https://twitter.com/voxpelli/status/878286573879656448"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-23T16:21:45Z"
+    ]
+  }
+}
