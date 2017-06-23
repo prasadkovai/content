@@ -7,7 +7,8 @@
       "https://twitter.com/voxpelli/status/878286573879656448"
     ],
     "category": [
-      "webmention"
+      "webmention",
+      "indieweb"
     ],
     "syndication": [
       "https://twitter.com/voxpelli/status/878286573879656448"
@@ -17,6 +18,9 @@
     ],
     "published": [
       "2017-06-23T16:21:45Z"
+    ],
+    "updated": [
+      "2017-06-23T16:22:53Z"
     ]
   }
 }
