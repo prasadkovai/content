@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've been working on a [WebSub](https://www.w3.org/TR/websub/) hub called [Promulgate](https://github.com/barryf/promulgate). It's fairly basic and although it passes the [WebSub.rocks](https://websub.rocks) tests it needs a bit more polish. I'll probably also add background processing via Sidekiq so that publish requests aren't blocking."
+    ],
+    "category": [
+      "websub",
+      "indieweb",
+      "promulgate"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-06-23T15:46:35Z"
+    ]
+  }
+}
