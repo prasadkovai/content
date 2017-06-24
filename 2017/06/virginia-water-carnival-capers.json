@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-06-24T15:46:24+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/594e7b408a6f1763620dcbc8"
+    ],
+    "content": [
+      "Virginia Water Carnival Capers"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Trumpsgreen"
+          ],
+          "url": [
+            "https://foursquare.com/v/536401ca498ee5711c2b990a"
+          ],
+          "latitude": [
+            51.395100065157
+          ],
+          "longitude": [
+            -0.56991740057721
+          ],
+          "locality": [
+            "Virginia Water"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
