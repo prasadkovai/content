@@ -10,7 +10,7 @@
       "Moving to HTTPS"
     ],
     "content": [
-      "Guide to how to move your site from HTTP to HTTPs"
+      "Guide to how to move your site from HTTP to HTTPS"
     ],
     "category": [
       "https",
@@ -22,6 +22,9 @@
     ],
     "published": [
       "2017-03-07T12:20:05Z"
+    ],
+    "updated": [
+      "2017-06-25T18:47:17Z"
     ]
   }
 }
