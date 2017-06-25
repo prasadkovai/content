@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.smashingmagazine.com/2017/06/guide-switching-http-https/"
+    ],
+    "name": [
+      "A Complete Guide To Switching From HTTP To HTTPS"
+    ],
+    "category": [
+      "http",
+      "https",
+      "guide"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-25T17:54:32Z"
+    ]
+  }
+}
