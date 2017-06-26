@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://herestomwiththeweather.com/2017/06/19/sending-webmentions-from-travis-ci-using-jekyll-indieweb-on-netlify/"
+    ],
+    "name": [
+      "Sending webmentions from Travis CI using Jekyll-Indieweb on Netlify"
+    ],
+    "category": [
+      "webmention",
+      "travis",
+      "jekyll",
+      "indieweb",
+      "netlify"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-26T17:00:12Z"
+    ]
+  }
+}
