@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/FeedWrangler/status/880044130893803520"
+    ],
+    "content": [
+      "Support for JSON Feed was just rolled out.  Should be transparent to users, just subscribe to a JSON Feed URL and it will work as before."
+    ],
+    "author": [
+      "https://twitter.com/FeedWrangler"
+    ],
+    "published": [
+      "2017-06-28 12:44:05 UTC"
+    ]
+  }
+}
