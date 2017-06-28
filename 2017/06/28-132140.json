@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/FeedWrangler/status/880044130893803520"
+    ],
+    "category": [
+      "jsonfeed"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/FeedWrangler/status/880044130893803520"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-28T13:21:40Z"
+    ]
+  }
+}
