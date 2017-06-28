@@ -1,0 +1,45 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-06-28T10:43:22+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59537a3a09e283451b370a07"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Joe & The Juice"
+          ],
+          "url": [
+            "https://foursquare.com/v/56af1221498efe2039099455",
+            "http://www.joejuice.com",
+            "https://twitter.com/joeandthejuice"
+          ],
+          "latitude": [
+            51.518253144321
+          ],
+          "longitude": [
+            -0.11140259959462
+          ],
+          "street-address": [
+            "355 High Holborn"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
