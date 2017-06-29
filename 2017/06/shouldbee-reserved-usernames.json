@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/shouldbee/reserved-usernames"
+    ],
+    "name": [
+      "shouldbee/reserved-usernames"
+    ],
+    "content": [
+      "> 590+ usernames in this dictionary! A list of reserved usernames to prevent url collision with resource paths. This repository hosts the list in multiple formats like JSON, CSV, SQL and plain text. You can use its just download its by wget."
+    ],
+    "category": [
+      "username",
+      "security",
+      "signup"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-06-29T11:12:21Z"
+    ]
+  }
+}
