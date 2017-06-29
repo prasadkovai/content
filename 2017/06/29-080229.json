@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://calumryan.com/blog/homebrew-website-club-london-year-1/"
+    ],
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-06-29T08:02:29Z"
+    ]
+  }
+}
