@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://ownyourswarm.p3k.io/checkin/595786b772475058241ae7ec/691c5a90add85ac795bad60e87cd7ad7"
+    ],
+    "name": [
+      "First check-in in Watford."
+    ],
+    "published": [
+      "2017-07-01T11:25:43Z"
+    ],
+    "author": [
+      "https://swarmapp.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/07/awesome-coffee-at-villiers"
+    ],
+    "content": [
+      "First check-in in Watford."
+    ]
+  }
+}
