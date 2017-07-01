@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://ownyourswarm.p3k.io/checkin/595786b772475058241ae7ec/af9dc98a796c4a10fb16815c99abf288"
+    ],
+    "name": [
+      "First check-in at Villiers Coffee House."
+    ],
+    "published": [
+      "2017-07-01T11:25:43Z"
+    ],
+    "author": [
+      "https://swarmapp.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/07/awesome-coffee-at-villiers"
+    ],
+    "content": [
+      "First check-in at Villiers Coffee House."
+    ]
+  }
+}
