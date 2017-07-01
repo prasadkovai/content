@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-07-01T12:25:43+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/595786b772475058241ae7ec"
+    ],
+    "content": [
+      "Awesome coffee at Villiers"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Villiers Coffee House"
+          ],
+          "url": [
+            "https://foursquare.com/v/590866a71acf111c9a22f813"
+          ],
+          "latitude": [
+            51.645195
+          ],
+          "longitude": [
+            -0.38087502
+          ],
+          "street-address": [
+            "30a Villiers Road"
+          ],
+          "locality": [
+            "Watford"
+          ],
+          "region": [
+            "Hertfordshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "WD19 4AH"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
