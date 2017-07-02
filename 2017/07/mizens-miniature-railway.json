@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-07-02T15:24:27+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5959021bb546184a14bb2cd4"
+    ],
+    "content": [
+      "Mizens miniature railway"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Mizens Railway"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c14e43ba1010f47990e4d18",
+            "http://www.mizensrailway.co.uk"
+          ],
+          "latitude": [
+            51.326206681371
+          ],
+          "longitude": [
+            -0.6127240980247
+          ],
+          "street-address": [
+            "Barrs Ln"
+          ],
+          "locality": [
+            "Knaphill"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU21 2JW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
