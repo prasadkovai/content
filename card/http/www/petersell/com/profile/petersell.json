@@ -1,0 +1,18 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "url": [
+      "http://www.petersell.com/profile/petersell",
+      "http://www.petersell.com/profile/petersell",
+      "http://www.petersell.com/profile/petersell"
+    ],
+    "photo": [
+      "http://www.petersell.com/file/e85cede89248c6296e09930bbf4d3d68"
+    ],
+    "name": [
+      "Andreas Petersell"
+    ]
+  }
+}
