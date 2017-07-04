@@ -12,14 +12,11 @@
     "published": [
       "2017-07-04T08:29:12Z"
     ],
-    "author": [
-      "http://www.petersell.com/profile/petersell"
-    ],
-    "mention-of": [
-      "https://barryfrost.com/2015/01/how-to-comment"
-    ],
     "content": [
       "Via IndieWeb kommentieren\n            \n                    \n                1 min read \n            \n            Thanks to Barry Frost, I have understood in the end how commenting works with IndieWeb: https://barryfrost.com/2015/01/how-to-comment. My CMS Known does that automatically behind the scenes. But now I know what is actually happening.\n#bookmarktools #indieweb"
+    ],
+    "author": [
+      "http://www.petersell.com/profile/petersell"
     ]
   }
 }
