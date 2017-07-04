@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "http://www.petersell.com/2017/via-indieweb-kommentieren"
+    ],
+    "content": [
+      "Hi Peter! I'm happy that my article helped explained the basics. The IndieWeb wiki has more detail if you want to read further: http://indieweb.org/comments"
+    ],
+    "category": [
+      "indieweb",
+      "comment"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-07-04T08:40:18Z"
+    ]
+  }
+}
