@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "HWC London"
+    ],
+    "url": [
+      "https://hwclondon.co.uk",
+      "https://twitter.com/HWCLondon"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/882956473848012800/hIFRtjOw.jpg"
+    ]
+  }
+}
