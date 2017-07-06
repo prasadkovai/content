@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "New @hwclondon (Homebrew Website Club London) site https://hwclondon.co.uk + new venue at WeWork South Bank Central. Join us Wed 12th - 6pm."
+    ],
+    "category": [
+      "hwc",
+      "hwclondon",
+      "indieweb"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/882994193508876288"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-07-06T16:06:35Z"
+    ]
+  }
+}
