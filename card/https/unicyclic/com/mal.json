@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://unicyclic.com/mal/public/profile_small_thumb.png"
+    ],
+    "name": [
+      "Malcolm Blaney"
+    ],
+    "url": [
+      "https://unicyclic.com/mal"
+    ]
+  }
+}
