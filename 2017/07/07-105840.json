@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://unicyclic.com/mal/2017-07-07-unicycliccom_now_supports_fat_pings"
+    ],
+    "category": [
+      "websub"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-07-07T10:58:40Z"
+    ]
+  }
+}
