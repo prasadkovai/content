@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://unicyclic.com/mal/2017-07-07-unicycliccom_now_supports_fat_pings"
+    ],
+    "name": [
+      "unicyclic.com now supports fat pings"
+    ],
+    "published": [
+      "2017-07-07T09:52:47Z"
+    ],
+    "content": [
+      "I just finished adding support for WebSub fat pings to dobrado, so unicyclic.com now uses them too :-)\nI've also submitted implementation reports for all three pieces of the WebSub puzzle (hub, publish & subscribe) because as an integrated reading and writing system, dobrado uses the whole lot. I waited until after I had fat pings supported because that is now a mandatory part of the spec. Thin pings were definitely easier to implement, so this does raise the bar a little for potential hub implementers.\nThere's still a fair bit I haven't implemented, but I think the rest is optional... lack of content authentication might be an issue as I don't do anything with hub.secret. oh well maybe later.\nWhile making these changes I thought a bit about what partial feeds might look like in microformats. If you wanted to pass lots of messages around using WebSub fat pings (like maybe a chat log), you wouldn't necessarily want to share the full page each time. To send a partial feed as the payload, we could dynamically change the scope of the h-feed to only wrap newer h-entry's. My feed parser looks for an h-feed first, so it would only use the new entries for the payload. The older entries could remain on the page and visually wouldn't look any different."
+    ],
+    "author": [
+      "https://unicyclic.com/mal"
+    ]
+  }
+}
