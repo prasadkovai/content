@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/loopdouble/status/884488221568233473"
+    ],
+    "content": [
+      "@loopdouble Nice! I'll be happy to help troubleshoot Micropub on Wednesday. See you then."
+    ],
+    "category": [
+      "micropub",
+      "hwclondon"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/884511971055370244"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-07-10T20:37:42Z"
+    ]
+  }
+}
