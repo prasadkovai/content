@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://jsonapi.org/"
+    ],
+    "name": [
+      "JSON API"
+    ],
+    "content": [
+      "A specification for building APIs in JSON"
+    ],
+    "category": [
+      "json",
+      "api",
+      "spec"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-10T17:49:10Z"
+    ]
+  }
+}
