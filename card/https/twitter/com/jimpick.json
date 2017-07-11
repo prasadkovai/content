@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Jim Pick"
+    ],
+    "url": [
+      "https://twitter.com/jimpick"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/623925828116594688/cipbrm-7.jpg"
+    ]
+  }
+}
