@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://jamstack.org/"
+    ],
+    "name": [
+      "JAMstack"
+    ],
+    "content": [
+      "> JavaScript, APIs, and Markup -- Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup."
+    ],
+    "category": [
+      "jamstack",
+      "jam",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-11T09:55:57Z"
+    ]
+  }
+}
