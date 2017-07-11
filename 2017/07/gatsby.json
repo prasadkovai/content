@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/gatsbyjs/gatsby"
+    ],
+    "name": [
+      "Gatsby "
+    ],
+    "content": [
+      "Static site generator for React"
+    ],
+    "category": [
+      "static",
+      "generator",
+      "react",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-11T09:50:05Z"
+    ]
+  }
+}
