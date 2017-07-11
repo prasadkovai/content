@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/nateberkopec/status/884819141755928576"
+    ],
+    "category": [
+      "ruby",
+      "performance"
+    ],
+    "syndication": [
+      "https://twitter.com/nateberkopec/status/884819141755928576"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-07-11T20:38:20Z"
+    ]
+  }
+}
