@@ -1,0 +1,18 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Kevin Marks"
+    ],
+    "url": [
+      "http://www.kevinmarks.com",
+      "http://known.kevinmarks.com",
+      "https://twitter.com/kevinmarks"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/826300294136868864/bB22s4pc.jpg"
+    ]
+  }
+}
