@@ -10,7 +10,7 @@
       "Gatsby "
     ],
     "content": [
-      "Static site generator for React"
+      "Static site generator for React. Uses GraphQL to transform data sources into static content."
     ],
     "category": [
       "static",
@@ -25,7 +25,7 @@
       "2017-07-11T09:50:05Z"
     ],
     "updated": [
-      "2017-07-11T09:52:59Z"
+      "2017-07-11T09:54:05Z"
     ]
   }
 }
