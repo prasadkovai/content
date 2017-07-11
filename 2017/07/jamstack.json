@@ -15,13 +15,17 @@
     "category": [
       "jamstack",
       "jam",
-      "javascript"
+      "javascript",
+      "api"
     ],
     "entry-type": [
       "bookmark"
     ],
     "published": [
       "2017-07-11T09:55:57Z"
+    ],
+    "updated": [
+      "2017-07-11T09:57:07Z"
     ]
   }
 }
