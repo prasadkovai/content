@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://unsplash.com/"
+    ],
+    "name": [
+      "Unsplash"
+    ],
+    "content": [
+      "> All photos published on Unsplash can be used for free. You can use them for commercial and noncommercial purposes. You do not need to ask permission from or provide credit to the photographer or Unsplash, although it is appreciated when possible."
+    ],
+    "category": [
+      "photo",
+      "stock",
+      "free"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-11T12:20:36Z"
+    ]
+  }
+}
