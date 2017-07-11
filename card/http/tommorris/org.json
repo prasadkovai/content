@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Tom Morris  🏳️‍🌈"
+    ],
+    "url": [
+      "http://tommorris.org",
+      "https://twitter.com/tommorris"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/632965064824373248/6_XtvB6M.jpg"
+    ]
+  }
+}
