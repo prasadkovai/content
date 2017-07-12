@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Homebrew Website Club London group photo"
+    ],
+    "location": [
+      "geo:51.50748,-0.10686;u=65"
+    ],
+    "category": [
+      "hwclondon"
+    ],
+    "photo": [
+      {
+        "value": "https://barryfrost-media.s3.amazonaws.com/file/2017/07/12-26d05a8bf05bedad35c363a7a314d649.jpg",
+        "alt": "Homebrew Website Club London attendees"
+      }
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-07-12T19:12:03Z"
+    ]
+  }
+}
