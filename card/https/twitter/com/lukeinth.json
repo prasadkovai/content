@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Luke Hubbard"
+    ],
+    "url": [
+      "https://twitter.com/LukeInTH"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1878525325/254748_10150349309270016_600015015_10011571_547481_n.jpg"
+    ]
+  }
+}
