@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Ben Werdmuller"
+    ],
+    "url": [
+      "https://twitter.com/benwerd"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/839970334094766080/ciiDLBBv.jpg"
+    ]
+  }
+}
