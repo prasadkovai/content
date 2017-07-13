@@ -1,0 +1,17 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Manuel Pueyo"
+    ],
+    "url": [
+      "http://web.manuelpueyo.tech/",
+      "https://twitter.com/manuelpueyo"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/844554559737511936/xZCkB4Fv.jpg"
+    ]
+  }
+}
