@@ -10,7 +10,7 @@
       "geo:51.50748,-0.10686;u=65"
     ],
     "category": [
-      "hwclondon", 
+      "hwclondon",
       "indieweb"
     ],
     "photo": [
@@ -24,6 +24,12 @@
     ],
     "published": [
       "2017-07-12T19:12:03Z"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/885216748072513537"
+    ],
+    "updated": [
+      "2017-07-13T07:27:44Z"
     ]
   }
 }
