@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://spectrum.ieee.org/computing/networks/minitel-the-online-world-france-built-before-the-web"
+    ],
+    "name": [
+      "Minitel: The Online World France Built Before the Web"
+    ],
+    "content": [
+      "Fascinating story behind Minitel and its importance to the French."
+    ],
+    "category": [
+      "france",
+      "online"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-14T19:43:25Z"
+    ]
+  }
+}
