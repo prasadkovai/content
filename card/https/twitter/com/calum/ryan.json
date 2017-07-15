@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Calum Le Tour 🚴🏻"
-    ],
     "url": [
       "https://twitter.com/calum_ryan"
     ],
+    "name": [
+      "Calum Le Tour 🚴🏻"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/878875555239780353/9jbLEXHk.jpg"
+      "http://pbs.twimg.com/profile_images/878875555239780353/9jbLEXHk_normal.jpg"
     ]
   }
 }
