@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://allinthehead.com/retro/378/implementing-webmentions"
+    ],
+    "category": [
+      "indieweb",
+      "webmention"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-07-16T15:17:37Z"
+    ]
+  }
+}
