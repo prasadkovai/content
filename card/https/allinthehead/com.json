@@ -1,0 +1,13 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "name": [
+      "Drew McLellan"
+    ],
+    "url": [
+      "https://allinthehead.com"
+    ]
+  }
+}
