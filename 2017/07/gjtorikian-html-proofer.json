@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/gjtorikian/html-proofer"
+    ],
+    "name": [
+      "gjtorikian/html-proofer"
+    ],
+    "content": [
+      "> Test your rendered HTML files to make sure they're accurate."
+    ],
+    "category": [
+      "testing",
+      "html"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-18T10:48:40Z"
+    ]
+  }
+}
