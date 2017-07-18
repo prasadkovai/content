@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/Paul_Kinlan/status/887282224973971462"
+    ],
+    "content": [
+      "Thought I would noodle about with pubsubhubbub -&gt; web push. Wanted to get http://medium.com updates via push\n\nhttps://rss-to-web-push.glitch.me"
+    ],
+    "author": [
+      "https://twitter.com/Paul_Kinlan"
+    ],
+    "published": [
+      "2017-07-18 12:05:41 UTC"
+    ]
+  }
+}
