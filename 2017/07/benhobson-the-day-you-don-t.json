@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/BenHobson/status/887633574228369408"
+    ],
+    "content": [
+      "@BenHobson The day you *don't* laugh at a fart-quack will be a sad day indeed."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/887635172103000064"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-07-19T11:28:11Z"
+    ]
+  }
+}
