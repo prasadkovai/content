@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Ben Hobson"
-    ],
     "url": [
       "https://twitter.com/BenHobson"
     ],
+    "name": [
+      "Ben Hobson"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/834131604033433600/qF-MlVBL.jpg"
+      "http://pbs.twimg.com/profile_images/834131604033433600/qF-MlVBL_normal.jpg"
     ]
   }
 }
