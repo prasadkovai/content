@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://doubleloop.net/2017/07/22/546/"
+    ],
+    "name": [
+      "shpub is awesome.  I can microblog to my website from the command line! #indieweb"
+    ],
+    "published": [
+      "2017-07-22T14:51:16Z"
+    ],
+    "content": [
+      "shpub is awesome.  I can microblog to my website from the command line! #indieweb"
+    ],
+    "author": [
+      "https://doubleloop.net/author/neil/"
+    ]
+  }
+}
