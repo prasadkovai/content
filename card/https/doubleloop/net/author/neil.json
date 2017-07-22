@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://secure.gravatar.com/avatar/525ddf1ae0f87a3bc6ddf8be6cc4b50c?s=40&d=mm&r=g"
+    ],
+    "url": [
+      "https://doubleloop.net/author/neil/"
+    ],
+    "uid": [
+      "https://doubleloop.net/author/neil/"
+    ],
+    "name": [
+      "Neil Mather"
+    ]
+  }
+}
