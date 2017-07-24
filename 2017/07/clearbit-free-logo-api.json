@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://clearbit.com/logo"
+    ],
+    "name": [
+      "Clearbit - Free logo API"
+    ],
+    "content": [
+      "Free service to embed company logos via a very simple API"
+    ],
+    "category": [
+      "api",
+      "logo",
+      "company"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-24T15:08:30Z"
+    ]
+  }
+}
