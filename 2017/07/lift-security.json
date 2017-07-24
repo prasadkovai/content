@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://liftsecurity.io/"
+    ],
+    "name": [
+      "^Lift Security"
+    ],
+    "content": [
+      "Application Security / Penetration Testing -- used by Panic to audit its Panic Sync service"
+    ],
+    "category": [
+      "security",
+      "pentest"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-24T15:06:25Z"
+    ]
+  }
+}
