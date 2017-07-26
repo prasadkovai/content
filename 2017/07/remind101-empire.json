@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/remind101/empire"
+    ],
+    "name": [
+      "remind101/empire"
+    ],
+    "content": [
+      "> A PaaS built on top of Amazon EC2 Container Service (ECS)\r\n"
+    ],
+    "category": [
+      "paas",
+      "ec2",
+      "aws",
+      "heroku"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-26T10:25:03Z"
+    ]
+  }
+}
