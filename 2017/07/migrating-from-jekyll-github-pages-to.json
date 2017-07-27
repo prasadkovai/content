@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/"
+    ],
+    "name": [
+      "Migrating from Jekyll+Github Pages to Hugo+Netlify"
+    ],
+    "category": [
+      "hugo",
+      "netflify",
+      "jekyll",
+      "github"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-27T15:07:34Z"
+    ]
+  }
+}
