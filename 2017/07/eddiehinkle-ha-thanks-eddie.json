@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/EddieHinkle/status/890567046983028736"
+    ],
+    "content": [
+      "@EddieHinkle Ha, thanks Eddie 👍"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/890567280966459392"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-07-27T13:39:20Z"
+    ]
+  }
+}
