@@ -15,13 +15,17 @@
     "category": [
       "micropub",
       "ios",
-      "indieweb"
+      "indieweb",
+      "indigenous"
     ],
     "entry-type": [
       "bookmark"
     ],
     "published": [
       "2017-07-27T09:33:54Z"
+    ],
+    "updated": [
+      "2017-07-27T13:09:48Z"
     ]
   }
 }
