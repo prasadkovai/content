@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/interagent/pliny"
+    ],
+    "name": [
+      "Pliny"
+    ],
+    "content": [
+      "> An opinionated toolkit for writing excellent APIs in Ruby"
+    ],
+    "category": [
+      "ruby",
+      "api",
+      "sinatra",
+      "skeleton"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-27T09:30:50Z"
+    ]
+  }
+}
