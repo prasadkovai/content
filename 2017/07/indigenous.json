@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://eddiehinkle.com/projects/indigenous/"
+    ],
+    "name": [
+      "Indigenous"
+    ],
+    "content": [
+      "> Indigenous is an iOS app that is in development. Its goal is to provide a native iOS interface to the indieweb movement."
+    ],
+    "category": [
+      "micropub",
+      "ios",
+      "indieweb"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-27T09:33:54Z"
+    ]
+  }
+}
