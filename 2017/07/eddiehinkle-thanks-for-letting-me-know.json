@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/EddieHinkle/status/890554460916809728"
+    ],
+    "content": [
+      "@EddieHinkle Thanks for letting me know. Looks like I missed bookmark-of during some refactoring. I've fixed and resent the webmention."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/890560177501614081"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-07-27T13:11:06Z"
+    ]
+  }
+}
