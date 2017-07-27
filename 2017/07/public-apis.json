@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/toddmotto/public-apis"
+    ],
+    "name": [
+      "Public APIs"
+    ],
+    "content": [
+      "> A collective list of public JSON APIs for use in web development"
+    ],
+    "category": [
+      "api",
+      "json"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-27T07:47:58Z"
+    ]
+  }
+}
