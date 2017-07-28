@@ -1,0 +1,60 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-07-28T13:30:21+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/597b2e5d62420b3d066ad5d6"
+    ],
+    "content": [
+      "England v South Africa, third test, day two"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Oval"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518e8f964a520adab20e3",
+            "https://www.kiaoval.com",
+            "https://twitter.com/kiaovalevents"
+          ],
+          "tel": [
+            "020 7820 5700"
+          ],
+          "latitude": [
+            51.483736423825
+          ],
+          "longitude": [
+            -0.11495679616928
+          ],
+          "street-address": [
+            "Kennington Oval"
+          ],
+          "locality": [
+            "Kennington"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE11 5SS"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
