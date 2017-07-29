@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://altplatform.org/2017/07/28/an-introduction-to-the-indieweb/"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-07-29T11:16:17Z"
+    ]
+  }
+}
