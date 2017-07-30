@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-07-30T14:10:55+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/597ddadf75cb8c7f84395c6e"
+    ],
+    "content": [
+      "Oakley Court Festival"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Oakley Court Hotel"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bd1bd395e0cce7280eaa184",
+            "http://www.theoakleycourthotel.co.uk",
+            "https://twitter.com/oakleycourt"
+          ],
+          "tel": [
+            "01753 609988"
+          ],
+          "latitude": [
+            51.490368743042
+          ],
+          "longitude": [
+            -0.67230105400085
+          ],
+          "street-address": [
+            "Windsor Rd."
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 5UR"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
