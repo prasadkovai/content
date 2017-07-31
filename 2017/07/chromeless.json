@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/graphcool/chromeless"
+    ],
+    "name": [
+      "chromeless"
+    ],
+    "content": [
+      "> Chrome automation made simple. Runs locally or headless on AWS Lambda"
+    ],
+    "category": [
+      "chrome",
+      "aws",
+      "lambda",
+      "integration"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-31T16:16:03Z"
+    ]
+  }
+}
