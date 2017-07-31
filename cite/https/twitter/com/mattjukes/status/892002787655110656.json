@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/mattjukes/status/892002787655110656"
     ],
-    "content": [
-      "amazing https://twitter.com/barryf/status/892001159027806208"
-    ],
-    "author": [
-      "https://twitter.com/mattjukes"
+    "name": [
+      "amazing"
     ],
     "published": [
-      "2017-07-31 12:43:31 UTC"
+      "2017-07-31T12:43:31Z"
+    ],
+    "author": [
+      "http://mattjukes.com"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/07/bandwagonesque"
+    ],
+    "content": [
+      "amazing"
     ]
   }
 }
