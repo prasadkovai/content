@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/getify/You-Dont-Know-JS"
+    ],
+    "name": [
+      "You-Dont-Know-JS"
+    ],
+    "content": [
+      "A book series on JavaScript"
+    ],
+    "category": [
+      "javascript",
+      "tutorial"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-07-31T14:17:15Z"
+    ]
+  }
+}
