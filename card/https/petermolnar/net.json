@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://petermolnar.net/molnar_peter_avatar.jpg"
+    ],
+    "avatar": [
+      "https://petermolnar.net/molnar_peter_avatar.jpg"
+    ],
+    "name": [
+      "Peter Molnar"
+    ],
+    "url": [
+      "https://petermolnar.net"
+    ],
+    "uid": [
+      "https://petermolnar.net"
+    ],
+    "email": [
+      "mailto:hello@petermolnar.eu"
+    ]
+  }
+}
