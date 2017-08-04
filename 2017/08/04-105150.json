@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/jaffathecake/status/893392094919884800"
+    ],
+    "category": [
+      "safari",
+      "serviceworker",
+      "browser",
+      "pwa"
+    ],
+    "syndication": [
+      "https://twitter.com/jaffathecake/status/893392094919884800"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-08-04T10:51:50Z"
+    ]
+  }
+}
