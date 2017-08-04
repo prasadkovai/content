@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.figma.com/"
+    ],
+    "name": [
+      "Figma"
+    ],
+    "content": [
+      "Design, prototype and code tool"
+    ],
+    "category": [
+      "prototype",
+      "design"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-04T12:57:58Z"
+    ]
+  }
+}
