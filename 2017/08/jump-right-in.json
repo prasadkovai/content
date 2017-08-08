@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/"
+    ],
+    "name": [
+      "Jump Right In"
+    ],
+    "content": [
+      "> Start Developing iOS Apps (Swift) \r\n\r\nApple's surprisingly accessible step-by-step guide to developing an app in Swift"
+    ],
+    "category": [
+      "apple",
+      "swift",
+      "ios",
+      "tutotial"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-08T13:26:25Z"
+    ]
+  }
+}
