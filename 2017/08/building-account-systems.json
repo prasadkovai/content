@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://blog.plan99.net/building-account-systems-f790bf5fdbe0"
+    ],
+    "name": [
+      "Building account systems"
+    ],
+    "content": [
+      "Advice on dealing with accounts and passwords when building a web app"
+    ],
+    "category": [
+      "security",
+      "password"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-08T13:25:14Z"
+    ]
+  }
+}
