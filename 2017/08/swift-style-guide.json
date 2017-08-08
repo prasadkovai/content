@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/raywenderlich/swift-style-guide"
+    ],
+    "name": [
+      "swift-style-guide"
+    ],
+    "content": [
+      "> The official Swift style guide for raywenderlich.com"
+    ],
+    "category": [
+      "swift",
+      "styleguide"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-08T08:35:08Z"
+    ]
+  }
+}
