@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/"
+    ],
+    "name": [
+      "Service Worker gotchas"
+    ],
+    "category": [
+      "serviceworker",
+      "pwa"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-08T13:19:38Z"
+    ]
+  }
+}
