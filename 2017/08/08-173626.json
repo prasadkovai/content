@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "http://www.manton.org/2017/08/webmention-in-action.html"
+    ],
+    "category": [
+      "webmention",
+      "microblog"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-08-08T17:36:26Z"
+    ]
+  }
+}
