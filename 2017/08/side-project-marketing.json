@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/karllhughes/side-project-marketing"
+    ],
+    "name": [
+      "side-project-marketing"
+    ],
+    "content": [
+      "> A checklist of tactics for marketing your side projects."
+    ],
+    "category": [
+      "marketing"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-09T12:15:56Z"
+    ]
+  }
+}
