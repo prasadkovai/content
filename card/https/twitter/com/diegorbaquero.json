@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:DiegoRBaquero"
+    ],
+    "numeric-id": [
+      "201818803"
+    ],
+    "name": [
+      "Diego R. B."
+    ],
+    "url": [
+      "https://twitter.com/DiegoRBaquero"
+    ],
+    "nickname": [
+      "DiegoRBaquero"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/805258396450586624/AOls9RqF.jpg"
+    ]
+  }
+}
