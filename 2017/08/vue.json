@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I'm halfway through @laracasts' free @vuejs video tutorials and really enjoying Vue's lightweight approach: \r\n\r\nhttps://laracasts.com/series/learn-vue-2-step-by-step/"
+    ],
+    "category": [
+      "javascript",
+      "vue",
+      "tutorial"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/895919082196873216"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-08-11T08:05:29Z"
+    ]
+  }
+}
