@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:laracasts"
+    ],
+    "numeric-id": [
+      "1333339974"
+    ],
+    "name": [
+      "Laracasts"
+    ],
+    "url": [
+      "https://twitter.com/laracasts"
+    ],
+    "nickname": [
+      "laracasts"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/815296011589533696/OI-m-f9q.jpg"
+    ]
+  }
+}
