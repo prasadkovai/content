@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/leinadgideon/status/896163662209077248"
+    ],
+    "name": [
+      "I'm halfway through @laracasts' free @vuejs video tutorials and really enjoying Vue's lightweight approach: \n\nlaracasts.com/series/learn-v…"
+    ],
+    "published": [
+      "2017-08-12T00:17:21Z"
+    ],
+    "author": [
+      "https://twitter.com/leinadgideon"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2017/08/vue"
+    ],
+    "content": [
+      "I'm halfway through @laracasts' free @vuejs video tutorials and really enjoying Vue's lightweight approach: \n\nlaracasts.com/series/learn-v…"
+    ]
+  }
+}
