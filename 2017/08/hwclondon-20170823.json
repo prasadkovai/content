@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://hwclondon.co.uk/20170823"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "I'm coming"
+    ],
+    "category": [
+      "hwclondon"
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-08-15T16:21:50Z"
+    ]
+  }
+}
