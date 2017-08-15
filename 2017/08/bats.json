@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/sstephenson/bats"
+    ],
+    "name": [
+      "bats: Bash Automated Testing System"
+    ],
+    "category": [
+      "bash",
+      "shell",
+      "testing"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-15T14:52:40Z"
+    ]
+  }
+}
