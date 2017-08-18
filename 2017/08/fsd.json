@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c"
+    ],
+    "name": [
+      "A Guide to Becoming a Full-Stack Developer in 2017"
+    ],
+    "content": [
+      "Its list of concepts a FSD is expected to know could be useful for interviewing."
+    ],
+    "category": [
+      "interview",
+      "developer"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-18T07:45:26Z"
+    ]
+  }
+}
