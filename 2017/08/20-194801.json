@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://seblog.nl/2017/08/19/6/micropub-irc-bot"
+    ],
+    "category": [
+      "micropub"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-08-20T19:48:01Z"
+    ]
+  }
+}
