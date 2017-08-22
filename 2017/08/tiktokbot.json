@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/aaronpk/TikTokBot"
+    ],
+    "name": [
+      "TikTokBot"
+    ],
+    "content": [
+      "Bot framework for Slack and IRC in Ruby"
+    ],
+    "category": [
+      "bot",
+      "slack",
+      "irc"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-22T07:53:35Z"
+    ]
+  }
+}
