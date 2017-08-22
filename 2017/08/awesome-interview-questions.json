@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/MaximAbramchuck/awesome-interview-questions#ruby"
+    ],
+    "name": [
+      "awesome-interview-questions"
+    ],
+    "content": [
+      "> A curated awesome list of lists of interview questions"
+    ],
+    "category": [
+      "interview",
+      "recruitment"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-08-22T07:37:23Z"
+    ]
+  }
+}
