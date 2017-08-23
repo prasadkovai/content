@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/900415642481897472"
+    ],
+    "name": [
+      "Perl schmerl. I might crank out some ColdFusion for a bit of nostalgia!"
+    ],
+    "published": [
+      "2017-08-23T17:53:12Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/deployed-my-first-bit-of-vuejs"
+    ],
+    "content": [
+      "Perl schmerl. I might crank out some ColdFusion for a bit of nostalgia!"
+    ]
+  }
+}
