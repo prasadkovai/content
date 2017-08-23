@@ -1,0 +1,82 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-08-23T18:12:39+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/599db7877dc9e14666102d80"
+    ],
+    "content": [
+      {
+        "value": "Homebrew Website Club, London — with Calum",
+        "html": "Homebrew Website Club, London — with <a href=\"https://calumryan.com/\">Calum</a>"
+      }
+    ],
+    "category": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "https://calumryan.com/",
+            "https://foursquare.com/user/407869714"
+          ],
+          "name": [
+            "Calum"
+          ],
+          "photo": [
+            "https://igx.4sqi.net/img/user/300x300/407869714_H19z7X2P_J5qBrc6Ahd1fO9tx8x9FK9GHNsdMkT-sd0T_irGDdNKAyw1ZVVbpwzFwhEKc9Lq4.jpg"
+          ]
+        }
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "WeWork South Bank Central"
+          ],
+          "url": [
+            "https://foursquare.com/v/58b760f5cc05d13bd4931b90",
+            "https://www.wework.com",
+            "https://twitter.com/weworkuk"
+          ],
+          "tel": [
+            "020 8004 1776"
+          ],
+          "latitude": [
+            51.50734181566
+          ],
+          "longitude": [
+            -0.10671302676201
+          ],
+          "street-address": [
+            "33 Stamford Street"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE1 9PY"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
