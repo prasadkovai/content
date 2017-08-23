@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/cronkshaw/status/900415346695438336"
     ],
-    "content": [
-      "@barryf @vuejs I have no idea what you're talking about.\n\n#bringbackPerl"
-    ],
-    "author": [
-      "https://twitter.com/cronkshaw"
+    "name": [
+      "I have no idea what you're talking about.\n\n#bringbackPerl"
     ],
     "published": [
-      "2017-08-23 17:52:02 UTC"
+      "2017-08-23T17:52:02Z"
+    ],
+    "author": [
+      "http://lanciaconsult.com"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/deployed-my-first-bit-of-vuejs"
+    ],
+    "content": [
+      "I have no idea what you're talking about.\n\n#bringbackPerl"
     ]
   }
 }
