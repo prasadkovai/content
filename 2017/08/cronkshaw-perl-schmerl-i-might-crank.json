@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/900415346695438336"
+    ],
+    "content": [
+      "@cronkshaw Perl schmerl. I might crank out some ColdFusion for a bit of nostalgia!"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/900415642481897472"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-08-23T17:53:12Z"
+    ]
+  }
+}
