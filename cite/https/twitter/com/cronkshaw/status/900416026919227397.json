@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/cronkshaw/status/900416026919227397"
     ],
-    "content": [
-      "@barryf You can put your ODBC where the sun don't shine mate!"
-    ],
-    "author": [
-      "https://twitter.com/cronkshaw"
+    "name": [
+      "You can put your ODBC where the sun don't shine mate!"
     ],
     "published": [
-      "2017-08-23 17:54:44 UTC"
+      "2017-08-23T17:54:44Z"
+    ],
+    "author": [
+      "http://lanciaconsult.com"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/cronkshaw-perl-schmerl-i-might-crank"
+    ],
+    "content": [
+      "You can put your ODBC where the sun don't shine mate!"
     ]
   }
 }
