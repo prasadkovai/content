@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:cronkshaw"
+    ],
+    "numeric-id": [
+      "7705762"
+    ],
+    "name": [
+      "JC102"
+    ],
+    "url": [
+      "http://lanciaconsult.com",
+      "https://twitter.com/cronkshaw"
+    ],
+    "nickname": [
+      "cronkshaw"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/896792648505327616/L-ZpbtL7.jpg"
+    ]
+  }
+}
