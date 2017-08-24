@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/nstanley/status/900580309426679808"
+    ],
+    "name": [
+      "Has it got a Dolby?"
+    ],
+    "published": [
+      "2017-08-24T04:47:32Z"
+    ],
+    "author": [
+      "https://21.co/neilstanley/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/deployed-my-first-bit-of-vuejs"
+    ],
+    "content": [
+      "Has it got a Dolby?"
+    ]
+  }
+}
