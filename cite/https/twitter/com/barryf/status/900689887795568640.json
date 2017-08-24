@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/900689887795568640"
+    ],
+    "name": [
+      "Eh? Was that a bit too web tech buzzword bingo?"
+    ],
+    "published": [
+      "2017-08-24T12:02:57Z"
+    ],
+    "author": [
+      "https://barryfrost.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/deployed-my-first-bit-of-vuejs"
+    ],
+    "content": [
+      "Eh? Was that a bit too web tech buzzword bingo?"
+    ]
+  }
+}
