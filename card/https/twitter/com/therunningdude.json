@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:therunningdude"
+    ],
+    "numeric-id": [
+      "45527329"
+    ],
+    "name": [
+      "Gary Taylor"
+    ],
+    "url": [
+      "https://twitter.com/therunningdude"
+    ],
+    "nickname": [
+      "therunningdude"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1237357826/ff39c854-b72f-4645-ab9d-f5e693405018.png"
+    ]
+  }
+}
