@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/cronkshaw/status/902550811305226243"
+    ],
+    "content": [
+      "@cronkshaw Voice must be on Sonos's roadmap but would need hardware I assume. I wonder if they could make a multi-microphone add-on."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/902553353825202178"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-08-29T15:27:43Z"
+    ]
+  }
+}
