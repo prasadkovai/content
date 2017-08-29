@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/cronkshaw/status/902549386407882752"
     ],
-    "content": [
-      "@barryf Sonos killer?"
-    ],
-    "author": [
-      "https://twitter.com/cronkshaw"
+    "name": [
+      "Sonos killer?"
     ],
     "published": [
-      "2017-08-29 15:11:56 UTC"
+      "2017-08-29T15:11:56Z"
+    ],
+    "author": [
+      "http://lanciaconsult.com"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/multi-room-music-from-amazon-echo"
+    ],
+    "content": [
+      "Sonos killer?"
     ]
   }
 }
