@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:StevieBuckley"
+    ],
+    "numeric-id": [
+      "275007771"
+    ],
+    "name": [
+      "Stevie Buckley"
+    ],
+    "url": [
+      "http://www.talentstuff.com/",
+      "https://twitter.com/StevieBuckley"
+    ],
+    "nickname": [
+      "StevieBuckley"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/887223489119358976/KN16AS-6.jpg"
+    ]
+  }
+}
