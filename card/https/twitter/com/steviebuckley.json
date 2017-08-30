@@ -3,14 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Stevie Buckley"
-    ],
     "url": [
       "https://twitter.com/StevieBuckley"
     ],
+    "name": [
+      "Stevie Buckley"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/826723728604221440/HRvFU6cF.jpg"
+      "http://pbs.twimg.com/profile_images/887223489119358976/KN16AS-6_normal.jpg"
     ]
   }
 }
