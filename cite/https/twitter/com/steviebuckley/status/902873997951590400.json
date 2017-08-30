@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/StevieBuckley/status/902873997951590400"
     ],
-    "content": [
-      "@barryf Nice find. Never let it be said that I didn’t learn anything from you Barry."
-    ],
-    "author": [
-      "https://twitter.com/StevieBuckley"
+    "name": [
+      "Nice find. Never let it be said that I didn’t learn anything from you Barry."
     ],
     "published": [
-      "2017-08-30 12:41:50 UTC"
+      "2017-08-30T12:41:50Z"
+    ],
+    "author": [
+      "http://www.talentstuff.com/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/08/next-meeting"
+    ],
+    "content": [
+      "Nice find. Never let it be said that I didn’t learn anything from you Barry."
     ]
   }
 }
