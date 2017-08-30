@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "Manager tip: I'm finding [Next Meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484), a simple macOS menubar app, very useful to keep me on top of 1:1s, catch-ups and other events in my work calendar.\r\n\r\nhttps://barryf.s3.amazonaws.com/next-meeting.png"
+      "Manager tip: I'm finding [Next Meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484), a simple macOS menubar app, very useful to keep me on top of 1:1s, catch-ups and other events in my work calendar.\r\n\r\n![Next Meeting](https://barryf.s3.amazonaws.com/next-meeting.png)"
     ],
     "category": [
       "mac",
@@ -16,6 +16,9 @@
     ],
     "published": [
       "2017-08-30T12:37:02Z"
+    ],
+    "updated": [
+      "2017-08-30T12:37:39Z"
     ]
   }
 }
