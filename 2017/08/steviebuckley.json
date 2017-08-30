@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/StevieBuckley/status/902873997951590400"
+    ],
+    "content": [
+      "@StevieBuckley 😘"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/902876774312411136"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-08-30T12:52:52Z"
+    ]
+  }
+}
