@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/cronkshaw"
+    "uid": [
+      "tag:twitter.com,2013:cronkshaw"
+    ],
+    "numeric-id": [
+      "7705762"
     ],
     "name": [
       "JC102"
     ],
+    "url": [
+      "https://twitter.com/cronkshaw"
+    ],
+    "nickname": [
+      "cronkshaw"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/900613496089563136/a2lCJf70_normal.jpg"
+      "https://pbs.twimg.com/profile_images/900613496089563136/a2lCJf70.jpg"
     ]
   }
 }
