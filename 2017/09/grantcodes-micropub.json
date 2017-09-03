@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/grantcodes/micropub"
+    ],
+    "name": [
+      "grantcodes - micropub"
+    ],
+    "content": [
+      "> A simple JavaScript micropub helper"
+    ],
+    "category": [
+      "micropub",
+      "javascript"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-03T09:12:38Z"
+    ]
+  }
+}
