@@ -3,23 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "uid": [
-      "tag:twitter.com,2013:EddieHinkle"
-    ],
-    "numeric-id": [
-      "308803734"
+    "url": [
+      "https://twitter.com/EddieHinkle"
     ],
     "name": [
       "Eddie Hinkle"
     ],
-    "url": [
-      "https://twitter.com/EddieHinkle"
-    ],
-    "nickname": [
-      "EddieHinkle"
-    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/818673480099053570/ZPuAwmxY.jpg"
+      "http://pbs.twimg.com/profile_images/818673480099053570/ZPuAwmxY_normal.jpg"
     ]
   }
 }
