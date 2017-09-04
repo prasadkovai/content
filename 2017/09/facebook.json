@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I've got a new (or split test) slide-out bottom nav in Facebook. May be start of trend more suited to taller phones like the iPhone Pro/X/8?"
+    ],
+    "category": [
+      "facebook",
+      "ux",
+      "ui"
+    ],
+    "photo": [
+      {
+        "value": "https://barryfrost-media.s3.amazonaws.com/file/2017/09/04-818438cd901931b38fc9d4728354cec7.PNG",
+        "alt": "Facebook UI"
+      }
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/904766360697360384"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-09-04T18:01:25Z"
+    ]
+  }
+}
