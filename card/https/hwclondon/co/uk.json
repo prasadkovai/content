@@ -3,15 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "HWC London"
+    "photo": [
+      "https://hwclondon.co.uk/assets/images/hwclondon.png"
     ],
     "url": [
-      "https://hwclondon.co.uk",
-      "https://twitter.com/HWCLondon"
+      "https://hwclondon.co.uk/"
     ],
-    "photo": [
-      "https://pbs.twimg.com/profile_images/882956473848012800/hIFRtjOw.jpg"
+    "name": [
+      "Homebrew Website Club, London"
     ]
   }
 }
