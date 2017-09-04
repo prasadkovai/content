@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://hwclondon.co.uk/meetups/20170906"
+    ],
+    "rsvp": [
+      "yes"
+    ],
+    "content": [
+      "Yes, I'm coming."
+    ],
+    "category": [
+      "hwclondon"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "rsvp"
+    ],
+    "published": [
+      "2017-09-04T18:11:42Z"
+    ]
+  }
+}
