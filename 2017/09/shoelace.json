@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://shoelace.style/"
+    ],
+    "name": [
+      "Shoelace"
+    ],
+    "content": [
+      "Another CSS framework but quite easy to grasp and lightweight."
+    ],
+    "category": [
+      "css",
+      "framework"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-04T19:08:25Z"
+    ]
+  }
+}
