@@ -3,23 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "uid": [
-      "tag:twitter.com,2013:simondevon"
-    ],
-    "numeric-id": [
-      "15835159"
+    "url": [
+      "https://twitter.com/simondevon"
     ],
     "name": [
       "simondevon"
     ],
-    "url": [
-      "https://twitter.com/simondevon"
-    ],
-    "nickname": [
-      "simondevon"
-    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/418121530/twitterProfilePhoto.jpg"
+      "http://pbs.twimg.com/profile_images/418121530/twitterProfilePhoto_normal.jpg"
     ]
   }
 }
