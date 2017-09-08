@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.pandastrike.com/posts/20150304-agile"
+    ],
+    "name": [
+      "Flaws In Scrum And Agile"
+    ],
+    "category": [
+      "scrum",
+      "agile",
+      "dev",
+      "team"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-08T11:29:35Z"
+    ]
+  }
+}
