@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/markets/awesome-ruby"
+    ],
+    "name": [
+      "awesome-ruby"
+    ],
+    "content": [
+      ">  A collection of awesome Ruby libraries, tools, frameworks and software"
+    ],
+    "category": [
+      "ruby",
+      "awesome"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-08T10:56:37Z"
+    ]
+  }
+}
