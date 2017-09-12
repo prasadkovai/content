@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-12T15:47:13+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59b7f3715455b27661a1939f"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sharnhold Farm"
+          ],
+          "url": [
+            "https://foursquare.com/v/51c59558498e7971395a445e"
+          ],
+          "latitude": [
+            50.822558942531
+          ],
+          "longitude": [
+            0.28416177567284
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
