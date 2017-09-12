@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Even though I've read all the \"spoilers\", I'm still excited for today's iPhone X announcement. Time for Apple to shine."
+    ],
+    "category": [
+      "iphone",
+      "iphonex",
+      "apple"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/907629248738885632"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-09-12T15:37:30Z"
+    ]
+  }
+}
