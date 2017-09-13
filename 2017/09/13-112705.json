@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-13T12:26:42+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59b915f2c666666a272a2685"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Drusillas Park"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bb5d336f562ef3b95472f97",
+            "http://www.drusillas.co.uk",
+            "https://twitter.com/drusillaspark"
+          ],
+          "tel": [
+            "01323 874100"
+          ],
+          "latitude": [
+            50.823662063221
+          ],
+          "longitude": [
+            0.16367519647663
+          ],
+          "street-address": [
+            "Alfriston Rd"
+          ],
+          "locality": [
+            "Alfriston"
+          ],
+          "region": [
+            "East Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN26 5QS"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
