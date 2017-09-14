@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-14T11:25:32+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59ba591cd552c745e8428326"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eastbourne Arndale Centre"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c2dea623a4d0f47a096e486",
+            "http://www.eastbournearndaleshopping.co.uk",
+            "https://twitter.com/arndale_centre"
+          ],
+          "tel": [
+            "01323 643431"
+          ],
+          "latitude": [
+            50.769009402652
+          ],
+          "longitude": [
+            0.28487205505371
+          ],
+          "street-address": [
+            "Terminus Rd"
+          ],
+          "locality": [
+            "Eastbourne"
+          ],
+          "region": [
+            "East Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN21 3NW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
