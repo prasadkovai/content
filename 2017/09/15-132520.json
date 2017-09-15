@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-15T14:24:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59bbd4a80e5da80f57e3be29"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eastbourne Miniature Steam Railway"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c039c6439d476b0ee4b30a7"
+          ],
+          "latitude": [
+            50.788477462346
+          ],
+          "longitude": [
+            0.28751598789815
+          ],
+          "street-address": [
+            "Lottbridge Drove"
+          ],
+          "locality": [
+            "Eastbourne"
+          ],
+          "region": [
+            "East Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN23 6QJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
