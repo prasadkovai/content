@@ -1,0 +1,54 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-15T15:54:25+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59bbe9a11fa763547bf4f746"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Smugglers"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c5d7ff685a1e21e8a7d5911",
+            "http://www.shepherdneame.co.uk",
+            "https://twitter.com/shepherdneame"
+          ],
+          "tel": [
+            "01323 762112"
+          ],
+          "latitude": [
+            50.820380837957
+          ],
+          "longitude": [
+            0.33713221549988
+          ],
+          "street-address": [
+            "High Street"
+          ],
+          "locality": [
+            "Pevensey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN24 5LF"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
