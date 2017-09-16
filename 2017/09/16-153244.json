@@ -1,0 +1,43 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-16T16:32:28+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59bd440ca879210e9ed0a831"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lewes FC"
+          ],
+          "url": [
+            "https://foursquare.com/v/4cb076c6b4b0a35d9d5249ce"
+          ],
+          "latitude": [
+            50.869046492481
+          ],
+          "longitude": [
+            0.011486700907554
+          ],
+          "street-address": [
+            "Dripping Pan"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
