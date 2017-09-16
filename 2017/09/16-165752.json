@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-16T17:57:28+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59bd57f8c21cb12f46584828"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fuego Lounge"
+          ],
+          "url": [
+            "https://foursquare.com/v/59bbf2b979f6c73b65afbd90"
+          ],
+          "latitude": [
+            50.873713
+          ],
+          "longitude": [
+            0.014631
+          ],
+          "locality": [
+            "Lewes"
+          ],
+          "region": [
+            "East Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN7"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
