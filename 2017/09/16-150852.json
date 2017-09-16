@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-16T16:08:28+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59bd3e6ccf72a04c5fe1e0bc"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lewes"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b058847f964a520d7bb22e3"
+          ],
+          "latitude": [
+            50.87404017465
+          ],
+          "longitude": [
+            0.011585206837408
+          ],
+          "locality": [
+            "Brighton and Hove"
+          ],
+          "region": [
+            "Brighton and Hove"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "BN7"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
