@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/citelao/Spotify-for-Alfred"
+    ],
+    "name": [
+      "Spotify-for-Alfred: aka Spotifious"
+    ],
+    "content": [
+      "Spotify controller for Alfred"
+    ],
+    "category": [
+      "alfred",
+      "spotify",
+      "mac"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-17T17:58:27Z"
+    ]
+  }
+}
