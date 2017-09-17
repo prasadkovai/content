@@ -1,0 +1,46 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-17T15:04:55+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59be8107f427de7749db8c58"
+    ],
+    "content": [
+      "View from the cottage's back garden on the beach ☀️"
+    ],
+    "photo": [
+      "https://igx.4sqi.net/img/general/original/506725_NAbe7SiGguVfiDq5RPmqDeVp_mvBEhKBx8wdJiLgDqo.jpg"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pevensey Bay"
+          ],
+          "url": [
+            "https://foursquare.com/v/4cc92865d063a143c5120cb4"
+          ],
+          "latitude": [
+            50.814591310399
+          ],
+          "longitude": [
+            0.35530063124282
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "photo"
+    ]
+  }
+}
