@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-19T12:05:31+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59c0f9fbe075501acc107cf1"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Odds Farm Park"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ba78f41f964a5205d9d39e3",
+            "http://www.oddsfarm.co.uk",
+            "https://twitter.com/oddsfarmpark"
+          ],
+          "tel": [
+            "01628 520188"
+          ],
+          "latitude": [
+            51.58021014193
+          ],
+          "longitude": [
+            -0.66571621183657
+          ],
+          "street-address": [
+            "Wooburn Common Rd"
+          ],
+          "locality": [
+            "High Wycombe"
+          ],
+          "region": [
+            "Buckinghamshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "HP10 0LX"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
