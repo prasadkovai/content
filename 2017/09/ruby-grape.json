@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.ruby-grape.org/"
+    ],
+    "name": [
+      "Ruby Grape"
+    ],
+    "content": [
+      "An opinionated framework for creating REST-like APIs in Ruby"
+    ],
+    "category": [
+      "api",
+      "ruby",
+      "framework"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-19T16:27:41Z"
+    ]
+  }
+}
