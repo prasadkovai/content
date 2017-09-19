@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://simplemde.com/"
+    ],
+    "name": [
+      "SimpleMDE"
+    ],
+    "content": [
+      "> A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking."
+    ],
+    "category": [
+      "markdown",
+      "javascript",
+      "editor"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-19T15:55:39Z"
+    ]
+  }
+}
