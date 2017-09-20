@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://quilljs.com/"
+    ],
+    "name": [
+      "Quill"
+    ],
+    "content": [
+      "Rich text editor"
+    ],
+    "category": [
+      "javascript",
+      "editor"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-20T18:33:36Z"
+    ]
+  }
+}
