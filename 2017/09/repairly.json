@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.repairly.co.uk/"
+    ],
+    "name": [
+      "Repairly"
+    ],
+    "content": [
+      "> Mobile Phone, iPhone and Tablet Repair in London"
+    ],
+    "category": [
+      "london",
+      "iphone",
+      "repair"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-21T15:45:52Z"
+    ]
+  }
+}
