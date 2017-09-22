@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.apadmi.com/"
+    ],
+    "name": [
+      "Apadmi"
+    ],
+    "content": [
+      "Mobile app development agency"
+    ],
+    "category": [
+      "agency",
+      "mobile",
+      "app",
+      "uk"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-22T08:40:44Z"
+    ]
+  }
+}
