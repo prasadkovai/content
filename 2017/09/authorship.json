@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://sturdy-backbone.glitch.me/"
+    ],
+    "name": [
+      "IndieWeb Authorship testing tool"
+    ],
+    "category": [
+      "indieweb",
+      "author",
+      "authorship",
+      "microformats"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-22T14:31:40Z"
+    ]
+  }
+}
