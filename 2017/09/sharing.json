@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://bigmedium.com/ideas/no-mobile-share-buttons.html"
+    ],
+    "name": [
+      "No Share Buttons on Mobile Sites"
+    ],
+    "content": [
+      "> Don’t include social share buttons in small-screen websites, unless the user just tapped through from a social network."
+    ],
+    "category": [
+      "sharing",
+      "social",
+      "ux",
+      "mobile"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-24T20:34:21Z"
+    ]
+  }
+}
