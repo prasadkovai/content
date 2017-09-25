@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://medium.freecodecamp.org/stop-the-overuse-of-overflow-menus-5caa4b54e843"
+    ],
+    "name": [
+      "Stop the overuse of overflow menus"
+    ],
+    "category": [
+      "hamburger",
+      "ux",
+      "navigation"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-09-25T13:16:03Z"
+    ]
+  }
+}
