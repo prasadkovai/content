@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-28T10:17:40+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59ccbe34037be10d3324af99"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Brickmakers"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b7fd7c2f964a5205b4030e3",
+            "http://www.thebrickmakerswindlesham.co.uk"
+          ],
+          "tel": [
+            "01276 472267"
+          ],
+          "latitude": [
+            51.371996591318
+          ],
+          "longitude": [
+            -0.63789899583885
+          ],
+          "street-address": [
+            "Chertsey Rd"
+          ],
+          "locality": [
+            "Windlesham"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU20 6HT"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
