@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-09-28T11:20:36+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59ccccf404d1ae207a7f7c00"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sunningdale Playground"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d37ff1f803ba35d3caf97fc"
+          ],
+          "latitude": [
+            51.395007693988
+          ],
+          "longitude": [
+            -0.63582483171587
+          ],
+          "street-address": [
+            "Broomhall lane"
+          ],
+          "locality": [
+            "Sunningdale"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
