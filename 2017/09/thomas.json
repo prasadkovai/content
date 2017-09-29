@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "As the father of a Thomas-mad toddler, I enjoyed this [retrospective in the New Yorker](https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends), especially how it remembers the incredibly dark episode where the Fat Controller bricks up a rain-shy Henry in a tunnel:\r\n\r\n> We shall take away your rails, and leave you here for always and always\r\n\r\n![Bricked-up Henry](https://barryf.s3.amazonaws.com/bricked-up-henry.jpg)\r\n\r\nBrutal."
+      "As the father of a Thomas-mad toddler, I enjoyed this [retrospective in the New Yorker](https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends), especially how it remembers the incredibly dark episode where the Fat Controller bricks up a rain-shy Henry in a tunnel:\r\n\r\n> We shall take away your rails, and leave you here for always and always and always\r\n\r\n![Bricked-up Henry](https://barryf.s3.amazonaws.com/bricked-up-henry.jpg)\r\n\r\nBrutal."
     ],
     "category": [
       "tv",
@@ -16,6 +16,12 @@
     ],
     "published": [
       "2017-09-29T14:42:58Z"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/913777617320464386"
+    ],
+    "updated": [
+      "2017-09-29T14:49:11Z"
     ]
   }
 }
