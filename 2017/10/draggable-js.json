@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://shopify.github.io/draggable/"
+    ],
+    "name": [
+      "Draggable JS"
+    ],
+    "content": [
+      "JavaScript drag and drop library that works with touch interfaces"
+    ],
+    "category": [
+      "drag",
+      "touch",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-02T08:14:04Z"
+    ]
+  }
+}
