@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://hammerjs.github.io/"
+    ],
+    "name": [
+      "Hammer.js"
+    ],
+    "content": [
+      "> Hammer helps you add support for touch gestures to your page, and remove the 300ms delay from clicks."
+    ],
+    "category": [
+      "touch",
+      "mobile",
+      "javascript"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-02T15:53:10Z"
+    ]
+  }
+}
