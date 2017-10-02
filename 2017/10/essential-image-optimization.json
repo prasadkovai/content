@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://images.guide/"
+    ],
+    "name": [
+      "Essential Image Optimization"
+    ],
+    "content": [
+      "eBook on image optimisation strategies for websites in 2017."
+    ],
+    "category": [
+      "image",
+      "optimisation",
+      "performance"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-02T16:12:02Z"
+    ]
+  }
+}
