@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/nstanley/status/915645555400953856"
     ],
-    "content": [
-      "@barryf Tried hot corners?"
-    ],
-    "author": [
-      "https://twitter.com/nstanley"
+    "name": [
+      "Tried hot corners?"
     ],
     "published": [
-      "2017-10-04 18:31:26 UTC"
+      "2017-10-04T18:31:26Z"
+    ],
+    "author": [
+      "https://21.co/neilstanley/"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2017/10/lock"
+    ],
+    "content": [
+      "Tried hot corners?"
     ]
   }
 }
