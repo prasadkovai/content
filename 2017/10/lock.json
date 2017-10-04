@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Handy new macOS High Sierra tip: you can lock your screen using the keyboard shortcut ctrl-cmd-q."
+    ],
+    "category": [
+      "mac",
+      "tip"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/915602497695305729"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-10-04T15:40:21Z"
+    ]
+  }
+}
