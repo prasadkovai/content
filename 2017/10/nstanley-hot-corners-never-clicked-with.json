@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/nstanley/status/915645555400953856"
+    ],
+    "content": [
+      "@nstanley Hot Corners never clicked with me when they were launched. I was always accidentally triggering them. I’ll try again."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/915648766631383040"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-10-04T18:44:12Z"
+    ]
+  }
+}
