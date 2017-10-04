@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-04T11:22:00+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d4b648c0f16366475902b1"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "WeWork South Bank Central"
+          ],
+          "url": [
+            "https://foursquare.com/v/58b760f5cc05d13bd4931b90",
+            "https://www.wework.com",
+            "https://twitter.com/weworkuk"
+          ],
+          "tel": [
+            "020 8004 1776"
+          ],
+          "latitude": [
+            51.50734181566
+          ],
+          "longitude": [
+            -0.10671302676201
+          ],
+          "street-address": [
+            "33 Stamford Street"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE1 9PY"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
