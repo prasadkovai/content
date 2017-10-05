@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://logit.io/"
+    ],
+    "name": [
+      "Logit.io"
+    ],
+    "content": [
+      "> Hosted ELK as a Service, using Kibana, Logstash, ElasticSearch and Elastalert"
+    ],
+    "category": [
+      "elk",
+      "saas",
+      "elasticsearch",
+      "logstash",
+      "kibana"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-05T19:39:20Z"
+    ]
+  }
+}
