@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.npmjs.com/package/micropub-helper"
+    ],
+    "name": [
+      "micropub-helper"
+    ],
+    "content": [
+      "Micropub JavaScript helper library"
+    ],
+    "category": [
+      "micropub",
+      "javascript",
+      "npm"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-06T10:36:11Z"
+    ]
+  }
+}
