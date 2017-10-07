@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T14:19:14+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d8d4524acb1929fb96ad56"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Jolly Drayman"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d2dd4cdae3a8cfa1c55c970"
+          ],
+          "latitude": [
+            51.440313647235
+          ],
+          "longitude": [
+            0.37481073751891
+          ],
+          "street-address": [
+            "Wellington Street"
+          ],
+          "locality": [
+            "Gravesend"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
