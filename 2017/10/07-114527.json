@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T12:45:03+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d8be3fd48ec1252fb8b540"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "London St Pancras International Railway Station (STP)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518f7f964a520c6af20e3",
+            "http://www.stpancras.com",
+            "https://twitter.com/nationalrailenq"
+          ],
+          "tel": [
+            "0845 748 4950"
+          ],
+          "latitude": [
+            51.531437451566
+          ],
+          "longitude": [
+            -0.12582035983109
+          ],
+          "street-address": [
+            "Pancras Rd"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NW1 2QP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
