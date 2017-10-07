@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T14:55:45+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d8dce11acf117ccd708815"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Compass Ale House"
+          ],
+          "url": [
+            "https://foursquare.com/v/546e510c498e86d717918673"
+          ],
+          "latitude": [
+            51.439666539614
+          ],
+          "longitude": [
+            0.37015581681641
+          ],
+          "street-address": [
+            "Manor Road"
+          ],
+          "locality": [
+            "Gravesend"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
