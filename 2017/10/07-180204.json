@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T19:01:40+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d916840a464d341b09b128"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Golden Lion (Wetherspoon)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ba4049cf964a520487838e3",
+            "http://www.jdwetherspoon.co.uk/home/pubs/the-golden-lion-rochester"
+          ],
+          "tel": [
+            "01634 880521"
+          ],
+          "latitude": [
+            51.386621411081
+          ],
+          "longitude": [
+            0.50688922405243
+          ],
+          "street-address": [
+            "147-149 High St."
+          ],
+          "locality": [
+            "Rochester"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME1 1EL"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
