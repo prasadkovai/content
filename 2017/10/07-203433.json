@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T21:34:09+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d93a41a6ec98418eebb67a"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Good Intent"
+          ],
+          "url": [
+            "https://foursquare.com/v/4da0630831a6b60cfe9f7118"
+          ],
+          "latitude": [
+            51.38274157271
+          ],
+          "longitude": [
+            0.50392103253186
+          ],
+          "street-address": [
+            "83 John St"
+          ],
+          "locality": [
+            "Rochester"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME 1 1"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
