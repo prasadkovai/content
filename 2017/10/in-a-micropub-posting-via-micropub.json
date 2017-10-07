@@ -1,0 +1,39 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Compass Ale House"
+          ],
+          "latitude": [
+            "51.44109"
+          ],
+          "longitude": [
+            "0.37018"
+          ]
+        }
+      }
+    ],
+    "content": [
+      "In a micropub posting via Micropub #nerd"
+    ],
+    "category": [
+      "micropub",
+      "pub",
+      "nerd"
+    ],
+    "entry-type": [
+      "checkin"
+    ],
+    "published": [
+      "2017-10-07T14:34:23Z"
+    ]
+  }
+}
