@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T16:45:50+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d8f6aefdb9a7740d2a02b4"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Three Daws"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b844e26f964a520b22d31e3"
+          ],
+          "latitude": [
+            51.445026803959
+          ],
+          "longitude": [
+            0.3697755098052
+          ],
+          "street-address": [
+            "Town Pier"
+          ],
+          "locality": [
+            "Gravesend"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "DA11 0BJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
