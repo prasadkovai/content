@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-07T19:38:04+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d91f0c3c858d1d6b2efb57"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Man Of Kent"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b5b5fd1f964a520cdf828e3"
+          ],
+          "tel": [
+            "07772 214315"
+          ],
+          "latitude": [
+            51.383730738187
+          ],
+          "longitude": [
+            0.50541400909424
+          ],
+          "street-address": [
+            "6 - 8 Kent Street"
+          ],
+          "locality": [
+            "Rochester"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME1 1YN"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
