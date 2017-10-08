@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T12:05:14+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59da066a018cbb36ba5cbd7b"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The King George V"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c373a08dfb0e21e5655aca8"
+          ],
+          "latitude": [
+            51.391009796045
+          ],
+          "longitude": [
+            0.53044923809126
+          ],
+          "street-address": [
+            "1 Prospect Row"
+          ],
+          "locality": [
+            "Gillingham"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME7 5AL"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
