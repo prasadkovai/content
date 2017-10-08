@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T15:26:03+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59da357b83e38017b5541b71"
+    ],
+    "content": [
+      "Gillingham v Portsmouth"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "MEMS Priestfield Stadium"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b71b472f964a5206e572de3",
+            "http://www.gillinghamfootballclub.com"
+          ],
+          "latitude": [
+            51.384333934312
+          ],
+          "longitude": [
+            0.56060330682219
+          ],
+          "street-address": [
+            "Redfern Ave."
+          ],
+          "locality": [
+            "Gillingham"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME7 4DD"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
