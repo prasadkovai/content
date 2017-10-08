@@ -1,0 +1,43 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T10:39:23+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d9f24b002f4c4ed0ca1451"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Gordon House Hotel"
+          ],
+          "url": [
+            "https://foursquare.com/v/4f4406ffe4b010c9d6b4e471"
+          ],
+          "latitude": [
+            51.388978441662
+          ],
+          "longitude": [
+            0.50454782992457
+          ],
+          "street-address": [
+            "High St"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
