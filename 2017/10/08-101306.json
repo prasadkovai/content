@@ -1,0 +1,54 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T11:12:50+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59d9fa22286fda2c1acd68dd"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rochester Castle"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bc478d3461576b085ec7f32",
+            "http://www.english-heritage.org.uk/visit/places/rochester-castle",
+            "https://twitter.com/englishheritage"
+          ],
+          "latitude": [
+            51.389378366591
+          ],
+          "longitude": [
+            0.50143361091614
+          ],
+          "street-address": [
+            "Boley Hill"
+          ],
+          "locality": [
+            "Rochester"
+          ],
+          "region": [
+            "Kent"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "ME1 1SW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
