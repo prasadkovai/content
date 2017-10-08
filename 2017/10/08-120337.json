@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T13:03:14+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59da14021ffed7067b276652"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Past and Present Micropub"
+          ],
+          "url": [
+            "https://foursquare.com/v/558316f9498e1bf4eac1da06"
+          ],
+          "latitude": [
+            51.387873
+          ],
+          "longitude": [
+            0.544893
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
