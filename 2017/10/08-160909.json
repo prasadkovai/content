@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-08T17:08:48+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59da4d90f62e092edd591b94"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Will Adams"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d0be11bef2b8cfa9e53067d"
+          ],
+          "latitude": [
+            51.386710825125
+          ],
+          "longitude": [
+            0.54314580295705
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
