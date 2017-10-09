@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/nhoizey/jekyll-cloudinary"
+    ],
+    "name": [
+      "jekyll-cloudinary"
+    ],
+    "content": [
+      "> Jekyll plugin adding a Liquid tag to use Cloudinary for optimized responsive posts images"
+    ],
+    "category": [
+      "jekyll",
+      "cloudinary",
+      "cdn",
+      "image"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-09T09:44:36Z"
+    ]
+  }
+}
