@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://jsonplaceholder.typicode.com/"
+    ],
+    "name": [
+      "JSONPlaceholder"
+    ],
+    "content": [
+      "> Fake Online REST API for Testing and Prototyping"
+    ],
+    "category": [
+      "json",
+      "api",
+      "testing"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-09T15:32:30Z"
+    ]
+  }
+}
