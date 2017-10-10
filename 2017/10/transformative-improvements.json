@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "While posting [an article](2017/10/postgres-json-sequel) here earlier I reminded myself how clunky I've made things unless I'm writing plain-text notes. Manually hacking the content in a JSON document is unnecessarily cumbersome. And syntax-highlighted code blocks would be nice. Some itches to scratch!"
+    ],
+    "category": [
+      "transformative"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-10-10T21:08:28Z"
+    ]
+  }
+}
