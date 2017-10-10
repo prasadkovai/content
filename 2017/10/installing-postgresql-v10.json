@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://jonnybarnes.uk/blog/2017/10/installing-postgresql-v10"
+    ],
+    "name": [
+      "Installing PostgreSQL v10"
+    ],
+    "category": [
+      "postgres"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-10T18:32:10Z"
+    ]
+  }
+}
