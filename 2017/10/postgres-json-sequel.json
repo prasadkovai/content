@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "name": [
+      "Store and query JSON in Postgres with the Sequel gem"
+    ],
+    "content": [
+      {
+        "html": "<p>TODO</p>"
+      }
+    ],
+    "category": [
+      "postgres",
+      "sequel",
+      "json",
+      "jsonb",
+      "ruby"
+    ],
+    "entry-type": [
+      "article"
+    ],
+    "published": [
+      "2017-10-10T16:20:16Z"
+    ]
+  }
+}
