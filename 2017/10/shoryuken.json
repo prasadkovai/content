@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/phstc/shoryuken"
+    ],
+    "name": [
+      "shoryuken"
+    ],
+    "content": [
+      "> A super efficient Amazon SQS thread based message processor for Ruby\r\n"
+    ],
+    "category": [
+      "aws",
+      "sqs",
+      "ruby"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-10T09:00:30Z"
+    ]
+  }
+}
