@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://wsvincent.com/static-site-hosting-with-s3-and-cloudflare/"
+    ],
+    "name": [
+      "Static Site Hosting with S3 and CloudFlare"
+    ],
+    "category": [
+      "aws",
+      "s3",
+      "cloudflare",
+      "static",
+      "hosting"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-10T07:52:00Z"
+    ]
+  }
+}
