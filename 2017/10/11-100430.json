@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-11T11:04:06+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59ddec96dd70c52cd3c578e2"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Abbey Wing"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bec4b1db68520a199e71187",
+            "http://www.asph-maternity.org",
+            "https://twitter.com/asphft"
+          ],
+          "tel": [
+            "01932 872000"
+          ],
+          "latitude": [
+            51.37616325945
+          ],
+          "longitude": [
+            -0.526589190305
+          ],
+          "street-address": [
+            "Guildford Road"
+          ],
+          "locality": [
+            "Chertsey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "KT16 0PZ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
