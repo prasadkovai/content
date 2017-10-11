@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:GrahamM_6t9"
+    ],
+    "numeric-id": [
+      "7567782"
+    ],
     "name": [
       "Graham Moore"
     ],
-    "photo": [
-      "https://pbs.twimg.com/profile_images/23999032/fellatio.jpg"
-    ],
     "url": [
       "https://twitter.com/GrahamM_6t9"
+    ],
+    "nickname": [
+      "GrahamM_6t9"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/23999032/fellatio.jpg"
     ]
   }
 }
