@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://zapier.com/learn/remote-work/"
+    ],
+    "name": [
+      "Zapier's Ultimate Guide to Remote Work"
+    ],
+    "category": [
+      "remote",
+      "work",
+      "team"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-11T15:20:34Z"
+    ]
+  }
+}
