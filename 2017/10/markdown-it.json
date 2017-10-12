@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/markdown-it/markdown-it"
+    ],
+    "name": [
+      "markdown-it"
+    ],
+    "content": [
+      "> JavaScript Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed"
+    ],
+    "category": [
+      "javascript",
+      "markdown",
+      "parser"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-12T12:23:22Z"
+    ]
+  }
+}
