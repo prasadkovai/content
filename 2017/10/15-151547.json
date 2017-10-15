@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-15T16:15:24+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59e37b8c4acb192080235cee"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Rose and Crown"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b5c4540f964a520372929e3",
+            "http://www.baronspubs.com/roseandcrown/",
+            "https://twitter.com/rosepubthorpe"
+          ],
+          "tel": [
+            "01344 845154"
+          ],
+          "latitude": [
+            51.401491082781
+          ],
+          "longitude": [
+            -0.54884724233382
+          ],
+          "street-address": [
+            "Green Rd"
+          ],
+          "locality": [
+            "Thorpe"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW20 8QL"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
