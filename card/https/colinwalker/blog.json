@@ -1,0 +1,16 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "photo": [
+      "https://colinwalker.blog/Colin%20Walker.png"
+    ],
+    "url": [
+      "https://colinwalker.blog"
+    ],
+    "name": [
+      "Colin Walker"
+    ]
+  }
+}
