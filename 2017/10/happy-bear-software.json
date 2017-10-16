@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://www.happybearsoftware.com/"
+    ],
+    "name": [
+      "Happy Bear Software"
+    ],
+    "content": [
+      "Rails agency recommended by Andrew McDonough: https://twitter.com/andrewmcdonough/status/919950618504126464"
+    ],
+    "category": [
+      "uk",
+      "rails",
+      "agency",
+      "ruby"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-16T16:36:42Z"
+    ]
+  }
+}
