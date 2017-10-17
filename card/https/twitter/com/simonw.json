@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/simonw"
+    "uid": [
+      "tag:twitter.com,2013:simonw"
+    ],
+    "numeric-id": [
+      "12497"
     ],
     "name": [
       "Simon Willison"
     ],
+    "url": [
+      "https://twitter.com/simonw"
+    ],
+    "nickname": [
+      "simonw"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_normal.jpeg"
+      "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75.jpeg"
     ]
   }
 }
