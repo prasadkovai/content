@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:tombrek"
+    ],
+    "numeric-id": [
+      "45677512"
+    ],
     "name": [
       "Tom Brek"
     ],
-    "photo": [
-      "https://twitter.com/tombrek/profile_image?size=original"
-    ],
     "url": [
       "https://twitter.com/tombrek"
+    ],
+    "nickname": [
+      "tombrek"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/513752106596335616/zTe6YM-V.jpeg"
     ]
   }
 }
