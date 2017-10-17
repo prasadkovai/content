@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I love that @simonw is blogging again. His recent posts are great reads, including this on CD with free services:\r\n\r\nhttps://simonwillison.net/2017/Oct/17/free-continuous-deployment/"
+    ],
+    "category": [
+      "blogging",
+      "cd",
+      "heroku",
+      "travis",
+      "github",
+      "sentry"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/920296729475534849"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-10-17T14:33:33Z"
+    ]
+  }
+}
