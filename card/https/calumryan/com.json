@@ -3,12 +3,21 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:calum_ryan"
+    ],
+    "numeric-id": [
+      "77453936"
+    ],
     "name": [
-      "Calum Le Tour 🚴🏻"
+      "Calum Ryan"
     ],
     "url": [
       "https://calumryan.com",
       "https://twitter.com/calum_ryan"
+    ],
+    "nickname": [
+      "calum_ryan"
     ],
     "photo": [
       "https://pbs.twimg.com/profile_images/878875555239780353/9jbLEXHk.jpg"
