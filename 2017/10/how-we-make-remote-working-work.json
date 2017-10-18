@@ -21,7 +21,28 @@
       "https://medium.com/@barryf/how-we-make-remote-working-work-dc0d4a0282cb"
     ],
     "updated": [
-      "2017-10-18T09:14:49Z"
+      "2017-10-18T09:15:38Z"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            ""
+          ],
+          "latitude": [
+            ""
+          ],
+          "longitude": [
+            ""
+          ]
+        }
+      }
+    ],
+    "name": [
+      "How we make remote working work"
     ]
   }
 }
