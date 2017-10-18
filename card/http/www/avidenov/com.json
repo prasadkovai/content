@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:avidenov"
+    ],
+    "numeric-id": [
+      "270597998"
+    ],
+    "name": [
+      "Aleksander Videnov"
+    ],
+    "url": [
+      "http://www.avidenov.com",
+      "https://twitter.com/avidenov"
+    ],
+    "nickname": [
+      "avidenov"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/605351139542999041/kb4Qs77H.png"
+    ]
+  }
+}
