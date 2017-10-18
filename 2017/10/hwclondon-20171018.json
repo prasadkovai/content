@@ -8,7 +8,10 @@
     ],
     "category": [
       "hwclondon",
-      "indieweb"
+      "indieweb",
+      "https://calumryan.com",
+      "http://tantek.com",
+      "http://www.kevinmarks.com"
     ],
     "photo": [
       {
@@ -21,6 +24,9 @@
     ],
     "published": [
       "2017-10-18T19:54:13Z"
+    ],
+    "updated": [
+      "2017-10-18T20:01:41Z"
     ]
   }
 }
