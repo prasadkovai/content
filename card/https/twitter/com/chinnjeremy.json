@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:ChinnJeremy"
+    ],
+    "numeric-id": [
+      "893778180"
+    ],
+    "name": [
+      "Jeremy Chinn"
+    ],
+    "url": [
+      "https://twitter.com/ChinnJeremy"
+    ],
+    "nickname": [
+      "ChinnJeremy"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/620942367206559744/MZAqBocl.jpg"
+    ]
+  }
+}
