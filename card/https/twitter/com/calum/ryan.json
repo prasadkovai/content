@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/calum_ryan"
+    "uid": [
+      "tag:twitter.com,2013:calum_ryan"
+    ],
+    "numeric-id": [
+      "77453936"
     ],
     "name": [
       "Calum Ryan"
     ],
+    "url": [
+      "https://twitter.com/calum_ryan"
+    ],
+    "nickname": [
+      "calum_ryan"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/878875555239780353/9jbLEXHk_normal.jpg"
+      "https://pbs.twimg.com/profile_images/878875555239780353/9jbLEXHk.jpg"
     ]
   }
 }
