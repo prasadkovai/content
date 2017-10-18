@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.cypress.io/"
+    ],
+    "name": [
+      "Cypress"
+    ],
+    "content": [
+      "Open source framework for web integration testing without Selenium"
+    ],
+    "category": [
+      "qa",
+      "testing",
+      "selenium"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-18T10:19:21Z"
+    ]
+  }
+}
