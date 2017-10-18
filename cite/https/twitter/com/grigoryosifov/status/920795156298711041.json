@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/GrigorYosifov/status/920795156298711041"
+    ],
+    "name": [
+      "Thanks for introducing us to the heart of IndieWeb! :)"
+    ],
+    "published": [
+      "2017-10-18T23:34:07Z"
+    ],
+    "author": [
+      "https://twitter.com/GrigorYosifov"
+    ],
+    "mention-of": [
+      "https://barryfrost.com/2017/10/hwclondon-20171018"
+    ],
+    "content": [
+      "Thanks for introducing us to the heart of IndieWeb! :)"
+    ]
+  }
+}
