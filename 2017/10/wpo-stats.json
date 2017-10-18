@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://wpostats.com/"
+    ],
+    "name": [
+      "WPO Stats"
+    ],
+    "content": [
+      "> Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics."
+    ],
+    "category": [
+      "performance",
+      "advocacy",
+      "ux",
+      "metrics"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-18T10:19:59Z"
+    ]
+  }
+}
