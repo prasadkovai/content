@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:thesambarnes"
+    ],
+    "numeric-id": [
+      "23260761"
+    ],
     "name": [
       "Sam Barnes"
     ],
-    "photo": [
-      "https://pbs.twimg.com/profile_images/528981025582374912/8h9wwIM1.jpeg"
-    ],
     "url": [
       "https://twitter.com/thesambarnes"
+    ],
+    "nickname": [
+      "thesambarnes"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/528981025582374912/8h9wwIM1.jpeg"
     ]
   }
 }
