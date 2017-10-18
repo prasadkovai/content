@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/venntrodev/status/920570940416843776"
+    ],
+    "content": [
+      "New work blog post from me. Includes cheesy photo of my remote team coerced into giving a 👍"
+    ],
+    "category": [
+      "work",
+      "venntrodev"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-10-18T08:49:04Z"
+    ]
+  }
+}
