@@ -3,11 +3,20 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:stevesmith2609"
+    ],
+    "numeric-id": [
+      "86092790"
+    ],
     "name": [
-      "Steve Smith"
+      "Steve Smith 🇪🇺"
     ],
     "url": [
       "https://twitter.com/stevesmith2609"
+    ],
+    "nickname": [
+      "stevesmith2609"
     ],
     "photo": [
       "https://pbs.twimg.com/profile_images/454261890466590720/hr2_3aZ1.jpeg"
