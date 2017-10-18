@@ -3,23 +3,24 @@
     "h-entry"
   ],
   "properties": {
-    "in-reply-to": [
-      "https://hwclondon.co.uk/meetups/20171018"
-    ],
-    "rsvp": [
-      "yes"
-    ],
     "content": [
-      "I'm coming"
+      "Bumper Homebrew Website Club London tonight. Thanks everyone for coming 🙌"
     ],
     "category": [
-      "hwclondon"
+      "hwclondon",
+      "indieweb"
+    ],
+    "photo": [
+      {
+        "value": "https://barryfrost-media.s3.amazonaws.com/file/2017/10/18-ea18a4979e4aafb6827b655c3a54cdfa.jpeg",
+        "alt": "HWC London group photo"
+      }
     ],
     "entry-type": [
-      "rsvp"
+      "note"
     ],
     "published": [
-      "2017-10-10T09:08:10Z"
+      "2017-10-18T19:54:13Z"
     ]
   }
 }
