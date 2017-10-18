@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:openova_ltd"
+    ],
+    "numeric-id": [
+      "4622598329"
+    ],
+    "name": [
+      "Openova"
+    ],
+    "url": [
+      "https://twitter.com/openova_ltd"
+    ],
+    "nickname": [
+      "openova_ltd"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/897120004419854336/1P91WyOj.jpg"
+    ]
+  }
+}
