@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/LanciaConsult/status/920618955970138113"
+    ],
+    "content": [
+      "@LanciaConsult Cheers Jeff 🙌"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/920619372393222144"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-10-18T11:55:37Z"
+    ]
+  }
+}
