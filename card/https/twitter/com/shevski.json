@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:shevski"
+    ],
+    "numeric-id": [
+      "19528058"
+    ],
+    "name": [
+      "Irina Bolychevsky"
+    ],
+    "url": [
+      "https://twitter.com/shevski"
+    ],
+    "nickname": [
+      "shevski"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/518405440/photo.JPG"
+    ]
+  }
+}
