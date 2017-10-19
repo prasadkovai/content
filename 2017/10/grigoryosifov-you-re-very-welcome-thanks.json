@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/GrigorYosifov/status/920795156298711041"
+    ],
+    "content": [
+      "@GrigorYosifov You're very welcome. Thanks for coming! Enjoy the rest of your week in London."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/920920429098930176"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-10-19T07:51:55Z"
+    ]
+  }
+}
