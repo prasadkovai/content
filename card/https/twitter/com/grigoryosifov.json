@@ -3,23 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "uid": [
-      "tag:twitter.com,2013:GrigorYosifov"
-    ],
-    "numeric-id": [
-      "50502212"
+    "url": [
+      "https://twitter.com/GrigorYosifov"
     ],
     "name": [
       "Grigor Yosifov"
     ],
-    "url": [
-      "https://twitter.com/GrigorYosifov"
-    ],
-    "nickname": [
-      "GrigorYosifov"
-    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/907574129670455296/9v-lQ3Nm.jpg"
+      "http://pbs.twimg.com/profile_images/907574129670455296/9v-lQ3Nm_normal.jpg"
     ]
   }
 }
