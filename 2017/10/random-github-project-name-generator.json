@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://mrsharpoblunto.github.io/foswig.js/"
+    ],
+    "name": [
+      "Random GitHub project name generator"
+    ],
+    "category": [
+      "startup",
+      "project",
+      "naming"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-23T12:39:18Z"
+    ]
+  }
+}
