@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://frontapp.com/"
+    ],
+    "name": [
+      "Front"
+    ],
+    "content": [
+      "Shared customer inbox for email, Twitter, Facebook and more. Used by Culturedcode for Things."
+    ],
+    "category": [
+      "business",
+      "inbox",
+      "customer",
+      "support"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-23T12:29:26Z"
+    ]
+  }
+}
