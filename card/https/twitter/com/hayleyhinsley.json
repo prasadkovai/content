@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/hayleyhinsley"
+    "uid": [
+      "tag:twitter.com,2013:hayleyhinsley"
+    ],
+    "numeric-id": [
+      "550554089"
     ],
     "name": [
       "Hayley Hinsley"
     ],
+    "url": [
+      "https://twitter.com/hayleyhinsley"
+    ],
+    "nickname": [
+      "hayleyhinsley"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/843219871051714560/9eGyt9Jz_normal.jpg"
+      "https://pbs.twimg.com/profile_images/922822215195922432/7TuArx9X.jpg"
     ]
   }
 }
