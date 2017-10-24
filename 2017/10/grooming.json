@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Superbly detailed piece from our DPM @hayleyhinsley on how she continuously grooms our product backlog.\r\n\r\nhttps://twitter.com/hayleyhinsley/status/922890355594457089"
+    ],
+    "category": [
+      "scrum",
+      "agile",
+      "backlog",
+      "work",
+      "dev"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/922910203279966209"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-10-24T19:38:34Z"
+    ]
+  }
+}
