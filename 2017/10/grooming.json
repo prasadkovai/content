@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "Superbly detailed piece from our DPM @hayleyhinsley on how she continuously grooms our product backlog.\r\n\r\nhttps://twitter.com/hayleyhinsley/status/922890355594457089"
+      "Superbly detailed piece from our DPM @hayleyhinsley on how she [continuously grooms our product backlog](https://medium.com/hayleyhinsley/how-and-why-you-should-regularly-backlog-groom-and-re-assess-priorities-e688f7dbda6)."
     ],
     "category": [
       "scrum",
@@ -21,6 +21,9 @@
     ],
     "published": [
       "2017-10-24T19:38:34Z"
+    ],
+    "updated": [
+      "2017-10-24T19:41:52Z"
     ]
   }
 }
