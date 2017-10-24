@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-24T11:17:17+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59ef132d3362736625bd0298"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Legoland"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518cef964a52023a620e3",
+            "http://www.legoland.co.uk",
+            "https://twitter.com/legolandwindsor"
+          ],
+          "tel": [
+            "0871 222 2001"
+          ],
+          "latitude": [
+            51.464007465218
+          ],
+          "longitude": [
+            -0.65265655517578
+          ],
+          "street-address": [
+            "Winkfield Rd"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 4AY"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
