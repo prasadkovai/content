@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:rosswilliams"
+    ],
+    "numeric-id": [
+      "11832"
+    ],
     "name": [
       "Ross Williams"
     ],
     "url": [
       "https://twitter.com/rosswilliams"
     ],
+    "nickname": [
+      "rosswilliams"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/803647888622518272/8vqZVQqi.jpg"
+      "https://pbs.twimg.com/profile_images/829660503660195840/Rw5itLep.jpg"
     ]
   }
 }
