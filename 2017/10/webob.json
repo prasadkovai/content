@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://webob.readthedocs.io/en/stable/"
+    ],
+    "name": [
+      "WebOb"
+    ],
+    "content": [
+      "> WebOb provides objects for HTTP requests and responses. Specifically it does this by wrapping the WSGI request environment and response status/headers/app_iter(body)."
+    ],
+    "category": [
+      "python",
+      "http",
+      "wsgi"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-25T07:46:28Z"
+    ]
+  }
+}
