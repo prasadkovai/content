@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/venntrodev/status/923832419492532224"
+    ],
+    "category": [
+      "jekyll",
+      "github",
+      "travis",
+      "s3",
+      "ssl",
+      "aws",
+      "venntrodev"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2017-10-27T08:45:28Z"
+    ]
+  }
+}
