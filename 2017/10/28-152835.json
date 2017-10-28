@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-10-28T16:28:12+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/59f4a20cc9f90733ee6dc835"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Ascot Racecourse"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b2f34a7f964a52032ea24e3",
+            "http://www.ascot.co.uk",
+            "https://twitter.com/ascotinsider"
+          ],
+          "tel": [
+            "0870 722 7227"
+          ],
+          "latitude": [
+            51.412051
+          ],
+          "longitude": [
+            -0.679543
+          ],
+          "street-address": [
+            "High St"
+          ],
+          "locality": [
+            "Ascot"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL5 7JX"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
