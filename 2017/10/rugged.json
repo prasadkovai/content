@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/libgit2/rugged"
+    ],
+    "name": [
+      "rugged"
+    ],
+    "content": [
+      "Ruby bindings to libgit2 "
+    ],
+    "category": [
+      "git",
+      "ruby"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-30T10:20:57Z"
+    ]
+  }
+}
