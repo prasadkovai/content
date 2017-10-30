@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://close.io/"
+    ],
+    "name": [
+      "Close.io"
+    ],
+    "content": [
+      "> Inside Sales Software CRM with Calling & Emailing"
+    ],
+    "category": [
+      "crm",
+      "sales",
+      "business"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-10-30T13:59:40Z"
+    ]
+  }
+}
