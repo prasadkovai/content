@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json"
+    ],
+    "name": [
+      "Newline-delimited JSON (nd-json)"
+    ],
+    "content": [
+      "Instead of delivering a chunk of JSON:\r\n\r\n    {\r\n      \"Comments\": [\r\n        {\"author\": \"Alex\", \"body\": \"…\"},\r\n        {\"author\": \"Jake\", \"body\": \"…\"}\r\n      ]\r\n    }\r\n\r\n…deliver each JSON object on a new line:\r\n\r\n    {\"author\": \"Alex\", \"body\": \"…\"}\r\n    {\"author\": \"Jake\", \"body\": \"…\"}"
+    ],
+    "category": [
+      "json",
+      "nd-json",
+      "performance"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-01T14:39:32Z"
+    ]
+  }
+}
