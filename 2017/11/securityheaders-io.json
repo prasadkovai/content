@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://securityheaders.io/"
+    ],
+    "name": [
+      "SecurityHeaders.io"
+    ],
+    "content": [
+      "Analyse your HTTP response headers. Gives recommendations and advice on security and referrer policies."
+    ],
+    "category": [
+      "security",
+      "csp",
+      "http",
+      "referrer"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-03T11:53:43Z"
+    ]
+  }
+}
