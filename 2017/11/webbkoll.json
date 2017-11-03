@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://webbkoll.dataskydd.net/en"
+    ],
+    "name": [
+      "Webbkoll"
+    ],
+    "content": [
+      "> This tool helps you check what data-protecting measures a site has taken to help you exercise control over your privacy. "
+    ],
+    "category": [
+      "security",
+      "privacy"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-03T11:52:19Z"
+    ]
+  }
+}
