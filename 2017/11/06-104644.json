@@ -1,0 +1,53 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-06T10:46:21+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a003d7df193c0776c4f3a30"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Slough Audi"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c18efed98f4a5936e43fff5",
+            "http://www.slough.audi.co.uk"
+          ],
+          "tel": [
+            "01753 696100"
+          ],
+          "latitude": [
+            51.522533926085
+          ],
+          "longitude": [
+            -0.63340917620891
+          ],
+          "street-address": [
+            "Dover Rd"
+          ],
+          "locality": [
+            "Slough"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL1 4RF"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
