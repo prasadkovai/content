@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://unrelenting.technology/notes/2017-11-06-23-10-03"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-11-07T13:32:32Z"
+    ]
+  }
+}
