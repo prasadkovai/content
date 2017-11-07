@@ -4,19 +4,13 @@
   ],
   "properties": {
     "note": [
-      "My name's Greg. I do software development, design and photography."
-    ],
-    "name": [
-      "Greg"
+      "Welcome to unrelenting.technology!\nMy name's Greg.\nI make a lot of open source software,\ntake photos, design,\noverclock stuff…\n \nYou can contact me via the SpaM Transfer Protocol at\ngreg@unrelenting.technology\nor in the actual Matrix at\n@greg:unrelenting.technology.\nMy PGP key is  3B011BAF,\nI usually sign software releases (mostly in the form of git tags) with it."
     ],
     "url": [
       "https://unrelenting.technology/"
     ],
-    "x-pronoun-nominative": [
-      "they"
-    ],
-    "x-pronoun-oblique": [
-      "them"
+    "name": [
+      "Greg"
     ],
     "photo": [
       "https://www.gravatar.com/avatar/5e7281cf21d93c6a238749790afe086c"
