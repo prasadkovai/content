@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://unrelenting.technology/notes/2017-11-06-23-10-03"
+    ],
+    "name": [
+      "Finally made some updates to this website! On the surface, slightly refreshed design (single column). Under the hood, the Haskell part is now build with GHC 8.2 and the database is upgraded to Postgres 10.\nAlso, a new section: KnowledgeBase. It's kinda like a \"personal wiki\" thing. Alphabetically sorted list of pages, WikiStyleTitles that are put into URLs without lowercasing, and these pages don't end up on the front page."
+    ],
+    "published": [
+      "2017-11-06T23:10:03Z"
+    ],
+    "content": [
+      "Finally made some updates to this website! On the surface, slightly refreshed design (single column). Under the hood, the Haskell part is now build with GHC 8.2 and the database is upgraded to Postgres 10.\nAlso, a new section: KnowledgeBase. It's kinda like a \"personal wiki\" thing. Alphabetically sorted list of pages, WikiStyleTitles that are put into URLs without lowercasing, and these pages don't end up on the front page."
+    ],
+    "author": [
+      "https://unrelenting.technology/"
+    ]
+  }
+}
