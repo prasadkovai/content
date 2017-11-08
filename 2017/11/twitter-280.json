@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "As seems obligatory today, this note tests whether I can post tweets with over 140 characters, now that Twitter supports up to 280. I'm posting this to my site first (naturally) and hopefully the Ruby @gem and Twitter's API won't bork when it's syndicated 🤞"
+    ],
+    "category": [
+      "twitter"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/928300600076521472"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-11-08T16:38:04Z"
+    ]
+  }
+}
