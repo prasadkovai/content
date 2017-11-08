@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/nstanley/status/928314417128837133"
+    ],
+    "content": [
+      "@nstanley They should have switched to just three words, eh? 😁"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/928315021435731968"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-11-08T17:35:23Z"
+    ]
+  }
+}
