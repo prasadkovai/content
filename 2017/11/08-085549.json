@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://calumryan.com/note/1160"
+    ],
+    "syndication": [
+      "https://twitter.com/jeremy/status/1160"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-11-08T08:55:49Z"
+    ]
+  }
+}
