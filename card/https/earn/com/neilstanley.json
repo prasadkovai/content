@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:nstanley"
+    ],
+    "numeric-id": [
+      "11470692"
+    ],
+    "name": [
+      "Neil Stanley"
+    ],
+    "url": [
+      "https://earn.com/neilstanley/",
+      "https://twitter.com/nstanley"
+    ],
+    "nickname": [
+      "nstanley"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/896423498503139328/p6RTlGfC.jpg"
+    ]
+  }
+}
