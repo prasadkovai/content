@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/thoughtbot/guides"
+    ],
+    "name": [
+      "thoughtbot guides"
+    ],
+    "content": [
+      "> A guide for programming in style.\r\n"
+    ],
+    "category": [
+      "team",
+      "dev",
+      "guide"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-10T13:10:04Z"
+    ]
+  }
+}
