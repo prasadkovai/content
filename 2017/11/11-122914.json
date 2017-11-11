@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-11T12:28:55+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a06ed0764c8e13d2b8797c5"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Old Mill"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b47c573f964a520133e26e3",
+            "http://www.theoldmillberkhamsted.co.uk",
+            "https://twitter.com/the_old_mill"
+          ],
+          "tel": [
+            "01442 879590"
+          ],
+          "latitude": [
+            51.756753373634
+          ],
+          "longitude": [
+            -0.5518756193565
+          ],
+          "street-address": [
+            "London Road"
+          ],
+          "locality": [
+            "Berkhamstead"
+          ],
+          "region": [
+            "Hertfordshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "HP4 2NB"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
