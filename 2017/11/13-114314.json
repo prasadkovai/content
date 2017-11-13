@@ -1,0 +1,21 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://colinwalker.blog/2017/11/12/learning-from-the-past/"
+    ],
+    "category": [
+      "indieweb",
+      "webmention",
+      "rss"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2017-11-13T11:43:14Z"
+    ]
+  }
+}
