@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://scotthelme.co.uk/report-uri-journey-to-a-permanent-redirect/"
+    ],
+    "name": [
+      "301s, 302s, 307s & 308s"
+    ],
+    "content": [
+      "307 and 308 POST redirect support is still weak but getting better"
+    ],
+    "category": [
+      "redirect",
+      "http",
+      "post"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-13T11:36:40Z"
+    ]
+  }
+}
