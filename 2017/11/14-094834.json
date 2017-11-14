@@ -1,0 +1,54 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-14T09:48:11+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0abbdb4186861b1ccd62a0"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "JOE & THE JUICE"
+          ],
+          "url": [
+            "https://foursquare.com/v/59c253a9c8b2fb2b7e00bcfe",
+            "http://joejuice.com",
+            "https://twitter.com/joeandthejuice"
+          ],
+          "latitude": [
+            51.518272177222
+          ],
+          "longitude": [
+            -0.11146267443874
+          ],
+          "street-address": [
+            "335 High Holborn"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "WC1V 7PX"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
