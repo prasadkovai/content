@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/ryanburgess/engineer-manager"
+    ],
+    "name": [
+      "A list of engineering manager resource links"
+    ],
+    "category": [
+      "manager",
+      "dev"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-15T12:57:45Z"
+    ]
+  }
+}
