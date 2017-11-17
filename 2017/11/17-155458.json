@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-17T15:54:32+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f0638061b517db92ed6d2"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "London Gatwick Airport (LGW)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4acdc2b2f964a520f0cc20e3",
+            "http://www.gatwickairport.com",
+            "https://twitter.com/gatwick_airport"
+          ],
+          "tel": [
+            "0844 892 0322"
+          ],
+          "latitude": [
+            51.158703779449
+          ],
+          "longitude": [
+            -0.17425775527954
+          ],
+          "street-address": [
+            "A23 Airport Way"
+          ],
+          "locality": [
+            "Crawley"
+          ],
+          "region": [
+            "West Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RH6 0NP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
