@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-17T16:59:59+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f158f67e5f27b54a73adf"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pret A Manger"
+          ],
+          "url": [
+            "https://foursquare.com/v/57c1decf498edc7bdb02ddef"
+          ],
+          "latitude": [
+            51.156169
+          ],
+          "longitude": [
+            -0.177611
+          ],
+          "street-address": [
+            "Gatwick Airport, Pier 6"
+          ],
+          "locality": [
+            "Gatwick"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
