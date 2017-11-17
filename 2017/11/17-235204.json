@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-18T00:51:40+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f760cdff81570d749a595"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "NH CENTER"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b83a065f964a5209a0b31e3",
+            "http://www.nh-hoteles.es/nh/es/hoteles/espana/valencia,-es/nh-center.html"
+          ],
+          "tel": [
+            "963 47 50 00"
+          ],
+          "latitude": [
+            39.481020217397
+          ],
+          "longitude": [
+            -0.38710637283674
+          ],
+          "street-address": [
+            "Ricardo Micó, 1"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46009"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
