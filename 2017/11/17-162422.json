@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-17T16:24:06+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f0d26efa82a15b127c81b"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Red Lion (Wetherspoon)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ba7d3eef964a520ffb639e3",
+            "http://www.jdwetherspoon.co.uk"
+          ],
+          "tel": [
+            "01293 569874"
+          ],
+          "latitude": [
+            51.161290938277
+          ],
+          "longitude": [
+            -0.17925837217436
+          ],
+          "street-address": [
+            "North Terminal"
+          ],
+          "locality": [
+            "Crawley"
+          ],
+          "region": [
+            "West Sussex"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RH6 0NP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
