@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-17T20:45:15+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f3c4b446ea6585d0ba605"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Valencia Airport (VLC) (Aeropuerto de Valencia)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ba0786cf964a520ec6e37e3",
+            "http://www.aena.es",
+            "https://twitter.com/aena"
+          ],
+          "tel": [
+            "902 40 47 04"
+          ],
+          "latitude": [
+            39.491390537681
+          ],
+          "longitude": [
+            -0.47367811203003
+          ],
+          "street-address": [
+            "Ctra. de l'Aeroport"
+          ],
+          "locality": [
+            "Manises"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46940"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
