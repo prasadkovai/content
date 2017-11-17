@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-17T23:00:57+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a0f5c193fcee8496f36c4aa"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Ostreria Del Carme"
+          ],
+          "url": [
+            "https://foursquare.com/v/4f649d4ce4b0272f2c2ad195"
+          ],
+          "latitude": [
+            39.477923810327
+          ],
+          "longitude": [
+            -0.38057611921244
+          ],
+          "country-name": [
+            "Spain"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
