@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-18T12:20:51+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a101793a3061910c3b9f297"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Museo de las Ciencias Príncipe Felipe"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bb4a1a0a187ef3ba9d24942",
+            "http://www.cac.es"
+          ],
+          "tel": [
+            "902 10 00 31"
+          ],
+          "latitude": [
+            39.455864139966
+          ],
+          "longitude": [
+            -0.35191094765933
+          ],
+          "street-address": [
+            "Av.  Professor López Piñero, 7"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46013"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
