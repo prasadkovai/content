@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-18T16:00:35+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a104b13e185f3076259378f"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Al Pomodoro"
+          ],
+          "url": [
+            "https://foursquare.com/v/4cf3ad657bf3b60c632b6c7f"
+          ],
+          "latitude": [
+            39.47380592799
+          ],
+          "longitude": [
+            -0.37335886687602
+          ],
+          "street-address": [
+            "C/ de la Mar 22"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46003"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
