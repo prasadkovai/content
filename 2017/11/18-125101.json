@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-18T13:50:36+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a102c9c446ea62a5703ff96"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "St. Patrick's"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b6738c0f964a52033422be3",
+            "http://www.stpatricksvalencia.com"
+          ],
+          "tel": [
+            "963 51 36 42"
+          ],
+          "latitude": [
+            39.468158639201
+          ],
+          "longitude": [
+            -0.36623117359463
+          ],
+          "street-address": [
+            "G. V. Marqués del Turia 65"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46005"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
