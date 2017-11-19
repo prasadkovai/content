@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-19T22:07:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a11f2ac75a6ea67013c3a20"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Tyris On Tap"
+          ],
+          "url": [
+            "https://foursquare.com/v/54949a0a498e855d5f538f93",
+            "http://www.cervezatyris.com",
+            "https://twitter.com/cervezatyris"
+          ],
+          "tel": [
+            "961 13 28 73"
+          ],
+          "latitude": [
+            39.474858070535
+          ],
+          "longitude": [
+            -0.3791076675358
+          ],
+          "street-address": [
+            "Taula  De Canvis, 6"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46001"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
