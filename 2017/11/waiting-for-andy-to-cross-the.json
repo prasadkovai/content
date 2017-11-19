@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-19T11:52:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a116288e185f367261217bf"
+    ],
+    "content": [
+      "Waiting for Andy to cross the line at the València Marathon. 🏃‍♂️"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Maratón Valencia Trinidad Alfonso"
+          ],
+          "url": [
+            "https://foursquare.com/v/5a0ec68f1543c72d452c84e3"
+          ],
+          "latitude": [
+            39.455086
+          ],
+          "longitude": [
+            -0.35046983
+          ],
+          "street-address": [
+            "Ciudad de las Artes y las Ciencias"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46013"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
