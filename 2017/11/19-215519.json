@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-19T22:54:56+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a11fdb01b0ea562d7d9ca19"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Jamon, Jamon"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d729fa6ff6ba35d9549718a"
+          ],
+          "tel": [
+            "963 92 58 77"
+          ],
+          "latitude": [
+            39.475824983693
+          ],
+          "longitude": [
+            -0.38014046732006
+          ],
+          "street-address": [
+            "Bolseria 36"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
