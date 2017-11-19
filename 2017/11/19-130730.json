@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-19T14:07:08+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a1181fc356b49246da9653c"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Restaurante Jardines del Palau"
+          ],
+          "url": [
+            "https://foursquare.com/v/4cbecb927dc9a09314ce34f5"
+          ],
+          "tel": [
+            "963 37 20 21"
+          ],
+          "latitude": [
+            39.465356557162
+          ],
+          "longitude": [
+            -0.36019209476096
+          ],
+          "street-address": [
+            "PASSEIG DE L'ALAMEDA 30"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46023"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
