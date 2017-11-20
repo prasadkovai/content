@@ -1,0 +1,53 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-20T13:37:03+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a12cc6f2105c35adfe78e2e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Cathedral of Valencia (Catedral de Valencia)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bc60c51b387d13a2834c1e8",
+            "http://www.catedraldevalencia.es"
+          ],
+          "latitude": [
+            39.475723658123
+          ],
+          "longitude": [
+            -0.37500500679016
+          ],
+          "street-address": [
+            "Plaza de la Reina"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46003"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
