@@ -1,0 +1,60 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-20T15:55:51+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a12ecf7c8b2fb4dd64112fc"
+    ],
+    "content": [
+      "On the Mestalla tour"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Camp de Mestalla (Estadio de Mestalla)"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b95106af964a520a18d34e3",
+            "http://www.valenciacf.com",
+            "https://twitter.com/valenciacf"
+          ],
+          "tel": [
+            "963 60 17 10"
+          ],
+          "latitude": [
+            39.474622206657
+          ],
+          "longitude": [
+            -0.35824656486511
+          ],
+          "street-address": [
+            "Av. de Suècia"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46023"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
