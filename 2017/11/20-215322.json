@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-20T22:53:01+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a134ebd67e5f27b5419ed30"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Petitbistro"
+          ],
+          "url": [
+            "https://foursquare.com/v/552650db498ebdf7c9a13de6"
+          ],
+          "latitude": [
+            39.476326405486
+          ],
+          "longitude": [
+            -0.38025299992567
+          ],
+          "country-name": [
+            "Spain"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
