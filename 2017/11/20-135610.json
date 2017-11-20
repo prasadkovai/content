@@ -1,0 +1,55 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-20T14:55:46+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a12dee265cdf819a5c44e1d"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "EL BON MENJAR"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d4c265f7d2ccbff7a710700"
+          ],
+          "tel": [
+            "963 66 00 93"
+          ],
+          "latitude": [
+            39.48763
+          ],
+          "longitude": [
+            -0.372843
+          ],
+          "street-address": [
+            "Calle Bilbao, 49"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46009"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
