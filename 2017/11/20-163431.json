@@ -1,0 +1,53 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-11-20T17:34:08+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a13040092e7a95fc0a0007e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "La Piazza"
+          ],
+          "url": [
+            "https://foursquare.com/v/545cd599498e0c7060f8f18c",
+            "https://twitter.com/lapiazza_vlc"
+          ],
+          "latitude": [
+            39.472373183602
+          ],
+          "longitude": [
+            -0.35749487766703
+          ],
+          "street-address": [
+            "Av. Aragón 23"
+          ],
+          "locality": [
+            "Valencia"
+          ],
+          "region": [
+            "Valencian Community"
+          ],
+          "country-name": [
+            "Spain"
+          ],
+          "postal-code": [
+            "46021"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
