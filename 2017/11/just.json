@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "I hadn't read @brad_frost's (cool name) article about thoughtless use of the word \"just\" before seeing @adactio's tweet.\r\n\r\nI'm sure I've used \"just\" in copy in that context before and I'll strive to avoid doing so in future.\r\n\r\nhttp://bradfrost.com/blog/post/just/\r\n\r\nhttps://twitter.com/adactio/status/934078557302685696"
+      "I hadn't read @brad_frost's (cool name) [article](http://bradfrost.com/blog/post/just/) about thoughtless use of the word \"just\" before seeing @adactio's [tweet](https://twitter.com/adactio/status/934078557302685696).\r\n\r\nI'm sure I've used \"just\" in copy in that context before and I'll strive to avoid doing so in future."
     ],
     "category": [
       "language",
@@ -23,6 +23,9 @@
     ],
     "published": [
       "2017-11-24T16:05:42Z"
+    ],
+    "updated": [
+      "2017-11-24T16:07:01Z"
     ]
   }
 }
