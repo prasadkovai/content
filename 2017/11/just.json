@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I hadn't read @brad_frost's (cool name) article about thoughtless use of the word \"just\" before seeing @adactio's tweet.\r\n\r\nI'm sure I've used \"just\" in copy in that context before and I'll strive to avoid doing so in future.\r\n\r\nhttp://bradfrost.com/blog/post/just/\r\n\r\nhttps://twitter.com/adactio/status/934078557302685696"
+    ],
+    "category": [
+      "language",
+      "ux",
+      "social",
+      "content"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/934090657509060608"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-11-24T16:05:42Z"
+    ]
+  }
+}
