@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://edent.tel/"
+    ],
+    "name": [
+      "Terence Eden's Contact Details"
+    ],
+    "content": [
+      "iPhone apps/homescreen style personal contact page"
+    ],
+    "category": [
+      "contact",
+      "homepage",
+      "homescreen"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-28T09:21:10Z"
+    ]
+  }
+}
