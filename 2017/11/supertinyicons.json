@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/edent/SuperTinyIcons"
+    ],
+    "name": [
+      "SuperTinyIcons"
+    ],
+    "content": [
+      "> Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos"
+    ],
+    "category": [
+      "svg",
+      "logo",
+      "social",
+      "icon"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-11-28T11:38:33Z"
+    ]
+  }
+}
