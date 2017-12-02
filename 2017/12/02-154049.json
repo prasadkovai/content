@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-12-02T15:40:27+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a22c96ba6031c28b86d42b8"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lady Mildmay"
+          ],
+          "url": [
+            "https://foursquare.com/v/56c2499fcd105aa983234188"
+          ],
+          "latitude": [
+            51.550752492263
+          ],
+          "longitude": [
+            -0.084723533400757
+          ],
+          "street-address": [
+            "92 Mildmay Park"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "N1 4PR"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
