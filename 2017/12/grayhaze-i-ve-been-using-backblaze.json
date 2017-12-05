@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/grayhaze/status/937796756624101377"
+    ],
+    "content": [
+      "@grayhaze I've been using Backblaze ( https://www.backblaze.com ) for a few years from my home iMac. It's $5/month for unlimited backups. Happy to send you a referral link."
+    ],
+    "category": [
+      "backup",
+      "mac"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/937969308705181696"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-12-05T08:58:04Z"
+    ]
+  }
+}
