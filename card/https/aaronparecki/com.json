@@ -13,7 +13,7 @@
       "https://aaronparecki.com/images/profile.jpg"
     ],
     "note": [
-      "Hi, I'm Aaron Parecki,  co-founder of\nIndieWebCamp.\nI maintain oauth.net, write and consult about OAuth, and\nam the editor of the W3C Webmention and Micropub specifications, and co-editor of WebSub.\n\nI wrote 100 songs in 100 days! I've been tracking my location since 2008,\nand write down everything I eat and drink.\nI've spoken at conferences around the world about\nowning your data,\nOAuth,\nquantified self,\nand explained why R is a vowel."
+      "Hi, I'm Aaron Parecki,  co-founder of\nIndieWebCamp.\nI maintain oauth.net, write and consult about OAuth, and\nam the editor of several W3C specfications. I record videos for local conferences and help run a podcast studio in Portland.\n\nI wrote 100 songs in 100 days! I've been tracking my location since 2008,\nand write down everything I eat and drink.\nI've spoken at conferences around the world about\nowning your data,\nOAuth,\nquantified self,\nand explained why R is a vowel."
     ],
     "name": [
       "Aaron Parecki"
@@ -84,6 +84,43 @@
           ],
           "role": [
             "Editor"
+          ]
+        }
+      },
+      {
+        "value": "Stream PDX",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "https://aaronparecki.com/images/streampdx.png"
+          ],
+          "url": [
+            "https://streampdx.com"
+          ],
+          "name": [
+            "Stream PDX"
+          ],
+          "role": [
+            "Co-Founder"
+          ]
+        }
+      },
+      {
+        "value": "backpedal.tv",
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "photo": [
+            "https://aaronparecki.com/images/backpedal.png"
+          ],
+          "url": [
+            "https://backpedal.tv"
+          ],
+          "name": [
+            "backpedal.tv"
           ]
         }
       }
