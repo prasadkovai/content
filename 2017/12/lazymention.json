@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/strugee/lazymention"
+    ],
+    "name": [
+      "lazymention"
+    ],
+    "content": [
+      "> Support WebSub and Webmention on a static site"
+    ],
+    "category": [
+      "websub",
+      "webmention",
+      "static"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-06T16:40:33Z"
+    ]
+  }
+}
