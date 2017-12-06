@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://aaronparecki.com/2017/12/05/8/indieauth"
+    ],
+    "content": [
+      "Nice! 🎉 Looking forward to going through this to see what I've missed in my implementations."
+    ],
+    "category": [
+      "indieauth",
+      "indieweb"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2017-12-06T09:31:27Z"
+    ]
+  }
+}
