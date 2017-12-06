@@ -1,0 +1,47 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://aaronparecki.com/2017/12/05/8/indieauth"
+    ],
+    "name": [
+      "Announcing the IndieAuth Spec!"
+    ],
+    "published": [
+      "2017-12-05T20:30:51Z"
+    ],
+    "content": [
+      "It's been a long time coming, but I've finally published a proper IndieAuth spec!\nIndieAuth has been around for years, and is even referenced by the Micropub spec. But until now, there wasn't a canonical version of the spec all in one place. Previously it existed as a series of how-to guides on the IndieWeb wiki. Arguably it's actually more useful that way, since the whole point of specs is to communicate a consistent way of implementing something. But it did make it awkward to refer to it formally.\nSo I'm happy to say that there is finally a spec for IndieAuth, at https://indieauth.net/spec/\nThis document captures the current state of what has been implemented, and incorporates much of the feedback we've gathered over the years. Most of the document is split up into authentication and authorization sections, for when you are trying to just identify users for sign-in in vs when a Micropub client is trying to get an access token to post to the user's site. Formally it's an extension to OAuth 2.0, and makes several decisions that were left un-specified in the OAuth 2.0 core spec.\nIf you've implemented any part of this spec, or are thinking about it, I'd appreciate any feedback! Feel free to comment on this post, file an issue on GitHub, or drop a note in the IndieWeb chat!"
+    ],
+    "author": [
+      "https://aaronparecki.com/"
+    ],
+    "location": [
+      {
+        "value": "Portland,\n        Oregon",
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "locality": [
+            "Portland"
+          ],
+          "region": [
+            "Oregon"
+          ],
+          "latitude": [
+            "45.535459"
+          ],
+          "longitude": [
+            "-122.621256"
+          ],
+          "name": [
+            "Portland,\n        Oregon"
+          ]
+        }
+      }
+    ]
+  }
+}
