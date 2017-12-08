@@ -1,0 +1,57 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-12-08T18:48:37+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a2ade85e4c459382dd88caf"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "All Bar One"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d80b4f4208a548120437967",
+            "http://www.allbarone.co.uk",
+            "https://twitter.com/yourallbarone"
+          ],
+          "tel": [
+            "01753 857570"
+          ],
+          "latitude": [
+            51.482985826253525
+          ],
+          "longitude": [
+            -0.610307375020444
+          ],
+          "street-address": [
+            "40 Windsor Royal Shopping"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 1PJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
