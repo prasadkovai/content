@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://cloudcannon.com/tips/2017/12/08/speed-up-your-jekyll-builds/"
+    ],
+    "name": [
+      "Speed up your Jekyll builds"
+    ],
+    "category": [
+      "jekyll",
+      "performance"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-08T14:29:42Z"
+    ]
+  }
+}
