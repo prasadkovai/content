@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-12-08T21:06:48+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a2afee8c0cacb2e3ff191f3"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Viceroy"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c02a632f56c2d7fd1b61b66",
+            "http://www.viceroyofwindsor.co.uk"
+          ],
+          "tel": [
+            "01753 858005"
+          ],
+          "latitude": [
+            51.47844743903452
+          ],
+          "longitude": [
+            -0.6127129258592587
+          ],
+          "street-address": [
+            "49-51 St. Leonards Rd"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 3BP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
