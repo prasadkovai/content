@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/automerge/automerge"
+    ],
+    "name": [
+      "automerge"
+    ],
+    "content": [
+      "> A JSON-like data structure that can be modified concurrently by different users, and merged again automatically."
+    ],
+    "category": [
+      "json",
+      "javascript",
+      "merge",
+      "collaboration"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-08T14:03:15Z"
+    ]
+  }
+}
