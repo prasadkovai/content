@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://blog.heroku.com/jekyll-on-heroku"
+    ],
+    "name": [
+      "Jekyll on Heroku"
+    ],
+    "category": [
+      "heroku",
+      "jekyll"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-14T13:16:17Z"
+    ]
+  }
+}
