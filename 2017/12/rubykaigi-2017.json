@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.youtube.com/playlist?list=PLbFmgWm555yaJalSEHY17E96ChjY-kF2D"
+    ],
+    "name": [
+      "RubyKaigi 2017"
+    ],
+    "category": [
+      "ruby",
+      "video",
+      "conference"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-14T13:25:45Z"
+    ]
+  }
+}
