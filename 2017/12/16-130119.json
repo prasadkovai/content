@@ -1,0 +1,40 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-12-16T13:00:56+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a351908829b0c548685e70b"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bluebell Railway"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bb5f0146edc76b0e72b301c"
+          ],
+          "latitude": [
+            50.99525281660531
+          ],
+          "longitude": [
+            -0.0008793187015851124
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
