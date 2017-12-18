@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://element.eleme.io/#/en-US"
+    ],
+    "name": [
+      "Element"
+    ],
+    "content": [
+      "UI toolkit for Vue"
+    ],
+    "category": [
+      "vue",
+      "ui"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-18T09:10:22Z"
+    ]
+  }
+}
