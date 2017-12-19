@@ -1,0 +1,20 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "After seven years using the same profile photo/avatar, I thought it was probably about time I used something a bit more recent. Before and after...\r\n\r\n![me](https://barryf.s3.amazonaws.com/avatars.jpg)"
+    ],
+    "category": [
+      "personal",
+      "photo"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2017-12-19T10:05:30Z"
+    ]
+  }
+}
