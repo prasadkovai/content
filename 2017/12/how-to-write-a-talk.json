@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://be.noti.st/2017/how-to-write-a-talk"
+    ],
+    "name": [
+      "How to write a talk"
+    ],
+    "category": [
+      "presentation",
+      "talk",
+      "speaking"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-20T12:52:30Z"
+    ]
+  }
+}
