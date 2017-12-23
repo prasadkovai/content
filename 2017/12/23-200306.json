@@ -1,0 +1,52 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2017-12-23T20:02:42+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a3eb66282a7502c158d2f86"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Rattlebone Inn"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d64f36cd8ce2c0fab450011"
+          ],
+          "latitude": [
+            51.57212586308375
+          ],
+          "longitude": [
+            -2.2124270611137957
+          ],
+          "street-address": [
+            "High St."
+          ],
+          "locality": [
+            "Sherston"
+          ],
+          "region": [
+            "Wiltshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SN1 6 0"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
