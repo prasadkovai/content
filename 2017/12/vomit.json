@@ -4,11 +4,13 @@
   ],
   "properties": {
     "content": [
-      "Way back in 2005, long before Twitter or Slack, a few colleagues and I ran a little tumblelog/microblog at the very cool URL vom.it (sadly no longer live) to share the interesting stuff we'd found. I especially liked the way posts and comments were presented inline."
+      "Way back in 2006, long before Slack, a few colleagues and I ran a little tumblelog/microblog at the very cool URL vom.it (sadly no longer live) to share the interesting stuff we'd found. I especially liked the way posts and comments were presented inline. "
     ],
     "category": [
       "tumblelog",
-      "nostalgia"
+      "nostalgia",
+      "microblog",
+      "team"
     ],
     "photo": [
       {
@@ -21,6 +23,9 @@
     ],
     "published": [
       "2017-12-27T16:34:18Z"
+    ],
+    "updated": [
+      "2017-12-27T16:37:09Z"
     ]
   }
 }
