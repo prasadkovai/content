@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://framer.com/"
+    ],
+    "name": [
+      "Framer"
+    ],
+    "content": [
+      "> Interactive Screen Design Tool"
+    ],
+    "category": [
+      "design",
+      "mobile",
+      "ux"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-27T10:03:48Z"
+    ]
+  }
+}
