@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.mixcloud.com/chrismorrisbits/playlists/the-chris-morris-music-show/"
+    ],
+    "name": [
+      "The Chris Morris Music Show"
+    ],
+    "content": [
+      "CM's 1994 radio show, including the infamous Hesseltine episode 6."
+    ],
+    "category": [
+      "comedy",
+      "radio",
+      "chrismorris"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-28T11:02:52Z"
+    ]
+  }
+}
