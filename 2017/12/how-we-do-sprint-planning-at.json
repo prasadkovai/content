@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.madebymany.com/stories/how-we-do-sprint-planning-at-made-by-many"
+    ],
+    "name": [
+      "How we do sprint planning at Made by Many"
+    ],
+    "category": [
+      "agile",
+      "scrum",
+      "sprint"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-29T10:26:31Z"
+    ]
+  }
+}
