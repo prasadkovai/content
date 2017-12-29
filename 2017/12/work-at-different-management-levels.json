@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://larahogan.me/blog/manager-levels/"
+    ],
+    "name": [
+      "Work at different management levels"
+    ],
+    "category": [
+      "management",
+      "career"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-29T13:57:49Z"
+    ]
+  }
+}
