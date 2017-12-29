@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/"
+    ],
+    "name": [
+      "HTTPS on Stack Overflow: The End of a Long Road"
+    ],
+    "category": [
+      "https"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-29T13:54:32Z"
+    ]
+  }
+}
