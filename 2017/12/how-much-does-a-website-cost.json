@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://outlandish.com/blog/how-much-does-a-website-cost/"
+    ],
+    "name": [
+      "How much does a website cost?"
+    ],
+    "content": [
+      "Useful way of explaining website budgets and deliverables"
+    ],
+    "category": [
+      "agency",
+      "design"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2017-12-29T13:51:31Z"
+    ]
+  }
+}
