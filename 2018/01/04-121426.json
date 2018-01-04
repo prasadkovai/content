@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/venntrodev/status/948889883300515841"
+    ],
+    "category": [
+      "venntrodev"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/948890360775880704"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2018-01-04T12:14:26Z"
+    ]
+  }
+}
