@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://medium.com/dropbox-design/design-words-with-data-fe3c525994e7"
+    ],
+    "name": [
+      "Design words with data"
+    ],
+    "content": [
+      "> How data informs our writing at Dropbox"
+    ],
+    "category": [
+      "design",
+      "data",
+      "trends"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-04T17:14:26Z"
+    ]
+  }
+}
