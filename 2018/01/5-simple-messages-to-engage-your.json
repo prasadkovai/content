@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://blog.intercom.com/does-your-app-have-a-message-schedule/"
+    ],
+    "name": [
+      "5 simple messages to engage your customers"
+    ],
+    "category": [
+      "crm",
+      "onboarding",
+      "intercom"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-04T17:30:50Z"
+    ]
+  }
+}
