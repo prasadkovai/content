@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/"
+    ],
+    "name": [
+      "Rails Database Best Practices"
+    ],
+    "category": [
+      "rails",
+      "database",
+      "optimisation",
+      "performance"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-04T17:29:19Z"
+    ]
+  }
+}
