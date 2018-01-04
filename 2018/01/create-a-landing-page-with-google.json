@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-spreadsheets-and-ruby.html"
+    ],
+    "name": [
+      "Create A Landing Page With Google Spreadsheets, Sinatra, and Ruby"
+    ],
+    "category": [
+      "landingpage",
+      "marketing",
+      "ruby"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-04T17:10:43Z"
+    ]
+  }
+}
