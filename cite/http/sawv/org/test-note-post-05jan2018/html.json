@@ -4,7 +4,7 @@
   ],
   "properties": {
     "url": [
-      "http://sawv.org/test-note-post-05jan2018.html#"
+      "http://sawv.org/test-note-post-05jan2018.html"
     ],
     "name": [
       "test note post 05jan2018\n\ni created this post at sawv.org. the original post contained only the above line. but i'm attempting to update this post and add this line at micropublish.net. i chose the \"edit all\" button.\n\nit worked!!! using the micropublish.net web-based micropub client, i was able to update this post and add the previous paragraph. i'm adding this paragraph by updating at sawv.org."
