@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://sawv.org/test-note-post-05jan2018.html"
+    ],
+    "category": [
+      "indieweb"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2018-01-05T16:03:24Z"
+    ]
+  }
+}
