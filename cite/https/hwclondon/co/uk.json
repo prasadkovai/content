@@ -7,44 +7,44 @@
       "https://hwclondon.co.uk/"
     ],
     "name": [
-      "18 October 2017 HWC London meeting"
+      "10 January 2018 HWC London meeting"
     ],
     "published": [
-      "2017-10-10T09:08:15Z"
+      "2018-01-06T17:30:41Z"
     ],
     "content": [
-      "Meeting details\n    18 October 2017 HWC London meeting\n    \n      \n      \n        Wednesday 18 October 2017 at  6pm\n      \n      —\n      \n         8pm.\n      \n    \n    \n    \n  \n    \n    WeWork South Bank Central,\n    30 Stamford Street,\n    London\n    SE1 9LQ.\n  \n\n\n    \n  \n  #hwclondon\n\n  #indieweb\n\n\n\n  \n\n  \n  \n    \n  \n  \n\n  \n    \n      \n      RSVPs\n\n      \n        \n        \n          \n            \n            \n {{rsvp.data.author.name}}\n          \n        \n        \n      \n\n      \n  \n  Register\n  \n  \n    \n\n    WeWork's building security require non-cardholders to register as guests before being allowed access to the building.\nPlease meet at 6pm sharp at the 30 Stamford Street ground floor reception.\nThere are a few different ways you can register for Homebrew Website Club London:\n\n    \n      \nIndie RSVPAble to send via Webmentions? then RSVP your attendance to the next event.\nWebmention target for next event: https://hwclondon.co.uk/meetups/20171018\n\n      IndieWeb.orgIf you're able to use your own domain name to sign in to websites including IndieWeb.org then add yourself to the next London event listed there.\n      \n      \n        \n          EventbriteNew to IndieWeb? simply register you're attending on the Eventbrite page.\n        \n        \n          \n            Powered by Eventbrite"
+      "Meeting details\n    10 January 2018 HWC London meeting\n    \n      \n      \n        Wednesday 10 January 2018 at  6:30pm\n      \n      —\n      \n         8:30pm.\n      \n    \n    \n    \n  \n    \n    hub by Premier Inn London Covent Garden,\n    110 St Martin's Lane,\n    London\n    WC2N 4BA.\n  \n\n\n    \n  \n  #hwclondon\n\n  #indieweb\n\n\n\n  \n\n  \n  \n    \n  \n  \n\n  \n    \n      \n      RSVPs\n      JavaScript must be enabled to retrieve and display RSVPs.\n\n      \n        \n        \n          \n            \n            \n              \n              \n            \n          \n        \n        \n      \n\n      \n  \n  Register\n  \n  \n    \n\n    Join us anytime from 18:00 onwards at Proven Dough cafe below Hub by Premier Inn hotel in Covent Garden. The main event starts at 18:30 with a writing hour followed by discussion, show and tell. Look out for Calum Ryan the organiser usually wearing an IndieWeb t-shirt and stickered laptop.\nThere are a few different ways you can register for Homebrew Website Club London:\n\n    \n      \nIndie RSVPAble to send via Webmentions? then RSVP your attendance to the next event.\nWebmention target for next event: https://hwclondon.co.uk/meetups/20180110\n\n      IndieWeb.orgIf you're able to use your own domain name to sign in to websites including IndieWeb.org then add yourself to the next London event listed there.\n      \n      \n        \n          EventbriteNew to IndieWeb? simply register you're attending on the Eventbrite page.\n        \n        \n          \n            Powered by Eventbrite"
     ],
     "author": [
       "https://hwclondon.co.uk/"
     ],
     "start": [
-      "2017-10-18 18:00:00 +0100"
+      "2018-01-10 18:30:00 +0000"
     ],
     "end": [
-      "2017-10-18 20:00:00 +0100"
+      "2018-01-10 20:30:00 +0000"
     ],
     "location": [
       {
-        "value": "WeWork South Bank Central",
+        "value": "hub by Premier Inn London Covent Garden",
         "type": [
           "h-card"
         ],
         "properties": {
           "name": [
-            "WeWork South Bank Central"
+            "hub by Premier Inn London Covent Garden"
           ],
           "url": [
-            "https://www.wework.com/buildings/south-bank-central--london"
+            "http://www.openstreetmap.org/?mlat=51.5101498&mlon=-0.1271938&zoom=12#map=16/51.5098/-0.1288"
           ],
           "street-address": [
-            "30 Stamford Street"
+            "110 St Martin's Lane"
           ],
           "locality": [
             "London"
           ],
           "postal-code": [
-            "SE1 9LQ"
+            "WC2N 4BA"
           ]
         }
       }
