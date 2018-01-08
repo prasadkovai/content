@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/PaulMMCooper/status/950395417442824192"
+    ],
+    "content": [
+      "@PaulMMCooper No worries. Thanks for helping me learn about my local history."
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/950403770760028161"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2018-01-08T16:28:11Z"
+    ]
+  }
+}
