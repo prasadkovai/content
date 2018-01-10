@@ -1,0 +1,79 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-01-10T19:01:15+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a5662fb5455b21fb87b0174"
+    ],
+    "content": [
+      {
+        "value": "Homebrew Website Club London — with Calum",
+        "html": "Homebrew Website Club London — with <a href=\"https://calumryan.com/\">Calum</a>"
+      }
+    ],
+    "category": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "https://calumryan.com/",
+            "https://foursquare.com/user/407869714"
+          ],
+          "name": [
+            "Calum"
+          ],
+          "photo": [
+            "https://igx.4sqi.net/img/user/300x300/407869714_H19z7X2P_J5qBrc6Ahd1fO9tx8x9FK9GHNsdMkT-sd0T_irGDdNKAyw1ZVVbpwzFwhEKc9Lq4.jpg"
+          ]
+        },
+        "value": "https://calumryan.com/"
+      }
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Proven Dough - Deli + Bar"
+          ],
+          "url": [
+            "https://foursquare.com/v/54c785ad498ee8c2a6c6fe87"
+          ],
+          "latitude": [
+            51.510101292641636
+          ],
+          "longitude": [
+            -0.1269554466894647
+          ],
+          "street-address": [
+            "110 St Martins Lane"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "WC2N 4BE"
+          ]
+        },
+        "value": "Proven Dough - Deli + Bar"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
