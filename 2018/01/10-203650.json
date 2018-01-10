@@ -1,0 +1,58 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-01-10T20:36:27+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a56794b23a2e67bf23202b7"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Soho Theatre Bar"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ace553cf964a520efcf20e3",
+            "http://www.sohotheatre.com",
+            "https://twitter.com/sohotheatre"
+          ],
+          "tel": [
+            "020 7434 9393"
+          ],
+          "latitude": [
+            51.514377
+          ],
+          "longitude": [
+            -0.132854
+          ],
+          "street-address": [
+            "21 Dean St."
+          ],
+          "locality": [
+            "Soho"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "W1D 3NE"
+          ]
+        },
+        "value": "Soho Theatre Bar"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
