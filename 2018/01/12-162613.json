@@ -1,0 +1,50 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-01-12T16:25:51+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a58e18ffdb9a77830fbe066"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Duke Of Edinburgh"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ccc6bad063a721eec818e9a"
+          ],
+          "latitude": [
+            51.43005486279355
+          ],
+          "longitude": [
+            -0.6669109495434689
+          ],
+          "locality": [
+            "Berkshire"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "Sl4 2dp"
+          ]
+        },
+        "value": "The Duke Of Edinburgh"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
