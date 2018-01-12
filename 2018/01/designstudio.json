@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.wearedesignstudio.com/"
+    ],
+    "name": [
+      "DesignStudio"
+    ],
+    "content": [
+      "London branding and design agency. Responsible for the recent Premier League rebranding."
+    ],
+    "category": [
+      "uk",
+      "agency",
+      "design",
+      "branding"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-12T13:43:01Z"
+    ]
+  }
+}
