@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://lawsofux.com/"
+    ],
+    "name": [
+      "Laws of UX"
+    ],
+    "content": [
+      "Nice visual guide to useful UX laws"
+    ],
+    "category": [
+      "ux",
+      "rules",
+      "design"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-16T14:35:47Z"
+    ]
+  }
+}
