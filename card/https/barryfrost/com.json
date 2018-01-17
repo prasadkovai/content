@@ -3,24 +3,14 @@
     "h-card"
   ],
   "properties": {
-    "uid": [
-      "tag:twitter.com,2013:barryf"
+    "photo": [
+      "https://barryfrost.com/barryfrost.jpg"
     ],
-    "numeric-id": [
-      "4677"
+    "url": [
+      "https://barryfrost.com/"
     ],
     "name": [
       "Barry Frost"
-    ],
-    "url": [
-      "https://barryfrost.com/",
-      "https://twitter.com/barryf"
-    ],
-    "nickname": [
-      "barryf"
-    ],
-    "photo": [
-      "https://pbs.twimg.com/profile_images/942704046359633920/8xfgT7-y.jpg"
     ]
   }
 }
