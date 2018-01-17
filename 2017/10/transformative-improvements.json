@@ -4,7 +4,7 @@
   ],
   "properties": {
     "content": [
-      "While posting [an article](2017/10/postgres-json-sequel) here earlier I reminded myself how clunky I've made things unless I'm writing plain-text notes. Manually hacking the content in a JSON document is unnecessarily cumbersome. And syntax-highlighted code blocks would be nice. Some itches to scratch!"
+      "While posting [an article](https://barryfrost.com/2017/10/postgres-json-sequel) here earlier I reminded myself how clunky I've made things unless I'm writing plain-text notes. Manually hacking the content in a JSON document is unnecessarily cumbersome. And syntax-highlighted code blocks would be nice. Some itches to scratch!"
     ],
     "category": [
       "transformative"
@@ -14,6 +14,9 @@
     ],
     "published": [
       "2017-10-10T21:08:28Z"
+    ],
+    "updated": [
+      "2018-01-17T11:34:12Z"
     ]
   }
 }
