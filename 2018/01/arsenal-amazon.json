@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "You know it's bad for your football club when you're getting trolled by Amazon's marketing team..."
+    ],
+    "category": [
+      "arsenal",
+      "amazon",
+      "trolled"
+    ],
+    "photo": [
+      {
+        "value": "https://barryfrost-media.s3.amazonaws.com/file/2018/01/19-44bae73eae7b72dbced3d2e37e8f1d28.png",
+        "alt": "Alexa, when was the last time Arsenal won the Premier League?"
+      }
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-01-19T14:39:45Z"
+    ]
+  }
+}
