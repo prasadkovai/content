@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/microformats/status/955576011206230016"
+    ],
+    "name": [
+      "🎉 Jekyll’s default Minima theme now has #microformats baked in to its templates. Really pleased to see my pull request merged in the latest"
+    ],
+    "published": [
+      "2018-01-22T23:00:49Z"
+    ],
+    "author": [
+      "http://microformats.org/"
+    ],
+    "repost-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ],
+    "content": [
+      "🎉 Jekyll’s default Minima theme now has #microformats baked in to its templates. Really pleased to see my pull request merged in the latest"
+    ]
+  }
+}
