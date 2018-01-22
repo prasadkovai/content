@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "http://cdevroe.com/2018/01/19/interview-manton/"
+    ],
+    "category": [
+      "microblog"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2018-01-22T09:49:05Z"
+    ]
+  }
+}
