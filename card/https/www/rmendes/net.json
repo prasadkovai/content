@@ -3,6 +3,12 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:rMdes_"
+    ],
+    "numeric-id": [
+      "1562961949"
+    ],
     "name": [
       "Ricardo Mendes"
     ],
@@ -10,8 +16,11 @@
       "https://www.rmendes.net",
       "https://twitter.com/rMdes_"
     ],
+    "nickname": [
+      "rMdes_"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/859052981240688640/f3IY77qM.jpg"
+      "https://pbs.twimg.com/profile_images/953274715090640896/7q2o7XJG.jpg"
     ]
   }
 }
