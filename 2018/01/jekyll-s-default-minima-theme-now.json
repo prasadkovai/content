@@ -1,0 +1,24 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "🎉 Jekyll’s default Minima theme now has #microformats baked in to its templates. Really pleased to see my pull request merged in the latest gem release. #indieweb\r\n\r\nhttps://twitter.com/jekyllrb/status/955551155031101440"
+    ],
+    "category": [
+      "indieweb",
+      "microformats",
+      "jekyll"
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/955569706693464065"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-01-22T22:35:46Z"
+    ]
+  }
+}
