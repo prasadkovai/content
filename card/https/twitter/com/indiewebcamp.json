@@ -3,11 +3,20 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:indiewebcamp"
+    ],
+    "numeric-id": [
+      "235193328"
+    ],
     "name": [
       "IndieWebCamp"
     ],
     "url": [
       "https://twitter.com/indiewebcamp"
+    ],
+    "nickname": [
+      "indiewebcamp"
     ],
     "photo": [
       "https://pbs.twimg.com/profile_images/741178760708292608/Yja7QCVS.jpg"
