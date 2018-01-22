@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/955569706693464065#favorited-by-4276934751"
+    ],
+    "name": [
+      "tag:twitter.com,2013:955569706693464065_favorited_by_4276934751\n  \n  \n  \n  \n    \n\n    Fabric\n    FabricProtocol\n    \n  \n\n  https://twitter.com/barryf/status/955569706693464065#favorited-by-4276934751"
+    ],
+    "published": [
+      "2018-01-22T23:30:54Z"
+    ],
+    "author": [
+      "https://twitter.com/FabricProtocol"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ]
+  }
+}
