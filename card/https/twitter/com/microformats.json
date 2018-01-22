@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:microformats"
+    ],
+    "numeric-id": [
+      "633273"
+    ],
+    "name": [
+      "microformats"
+    ],
+    "url": [
+      "https://twitter.com/microformats"
+    ],
+    "nickname": [
+      "microformats"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/18913702/microformats-logo.png"
+    ]
+  }
+}
