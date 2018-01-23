@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/955569706693464065#favorited-by-4861485219"
+    ],
+    "name": [
+      "tag:twitter.com,2013:955569706693464065_favorited_by_4861485219\n  \n  \n  \n  \n    \n\n    Awesome Jekyll\n    awesomejekyll\n    \n  \n\n  https://twitter.com/barryf/status/955569706693464065#favorited-by-4861485219"
+    ],
+    "published": [
+      "2018-01-23T08:41:13Z"
+    ],
+    "author": [
+      "https://twitter.com/awesomejekyll"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ]
+  }
+}
