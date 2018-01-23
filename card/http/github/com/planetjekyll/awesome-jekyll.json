@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:awesomejekyll"
+    ],
+    "numeric-id": [
+      "4861485219"
+    ],
+    "name": [
+      "Awesome Jekyll"
+    ],
+    "url": [
+      "http://github.com/planetjekyll/awesome-jekyll",
+      "https://twitter.com/awesomejekyll"
+    ],
+    "nickname": [
+      "awesomejekyll"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/949594644068884480/bx9XL1nf.jpg"
+    ]
+  }
+}
