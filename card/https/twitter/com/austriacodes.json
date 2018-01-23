@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:austriacodes"
+    ],
+    "numeric-id": [
+      "3384525437"
+    ],
+    "name": [
+      "Austria Codes"
+    ],
+    "url": [
+      "https://twitter.com/austriacodes"
+    ],
+    "nickname": [
+      "austriacodes"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/927178323867955200/YKA_shcI.jpg"
+    ]
+  }
+}
