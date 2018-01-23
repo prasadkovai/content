@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/955569706693464065#favorited-by-816025"
+    ],
+    "name": [
+      "tag:twitter.com,2013:955569706693464065_favorited_by_816025\n  \n  \n  \n  \n    \n\n    Artur Paikin\n    arturi\n    \n  \n\n  https://twitter.com/barryf/status/955569706693464065#favorited-by-816025"
+    ],
+    "published": [
+      "2018-01-23T17:58:32Z"
+    ],
+    "author": [
+      "https://twitter.com/arturi"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ]
+  }
+}
