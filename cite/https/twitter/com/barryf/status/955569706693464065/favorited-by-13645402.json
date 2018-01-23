@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/955569706693464065#favorited-by-13645402"
+    ],
+    "name": [
+      "tag:twitter.com,2013:955569706693464065_favorited_by_13645402\n  \n  \n  \n  \n    \n\n    Chris Aldrich\n    ChrisAldrich\n    \n  \n\n  https://twitter.com/barryf/status/955569706693464065#favorited-by-13645402"
+    ],
+    "published": [
+      "2018-01-23T04:12:49Z"
+    ],
+    "author": [
+      "https://twitter.com/ChrisAldrich"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ]
+  }
+}
