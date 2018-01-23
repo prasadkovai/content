@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:ChrisAldrich"
+    ],
+    "numeric-id": [
+      "13645402"
+    ],
     "name": [
-      "ChrisAldrich"
+      "Chris Aldrich"
     ],
     "url": [
       "https://twitter.com/ChrisAldrich"
     ],
+    "nickname": [
+      "ChrisAldrich"
+    ],
     "photo": [
-      "https://pbs.twimg.com/profile_images/378800000823803940/e500bc8cba99417f27ac3392e7503aa0.jpeg"
+      "https://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN.jpg"
     ]
   }
 }
