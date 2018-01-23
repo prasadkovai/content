@@ -1,0 +1,22 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/barryf/status/955569706693464065#favorited-by-5544082"
+    ],
+    "name": [
+      "tag:twitter.com,2013:955569706693464065_favorited_by_5544082\n  \n  \n  \n  \n    \n\n    Rio\n    sirio\n    \n  \n\n  https://twitter.com/barryf/status/955569706693464065#favorited-by-5544082"
+    ],
+    "published": [
+      "2018-01-23T14:51:12Z"
+    ],
+    "author": [
+      "https://twitter.com/sirio"
+    ],
+    "like-of": [
+      "https://barryfrost.com/2018/01/jekyll-s-default-minima-theme-now"
+    ]
+  }
+}
