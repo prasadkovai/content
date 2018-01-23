@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:jekyllrb"
+    ],
+    "numeric-id": [
+      "1143789606"
+    ],
+    "name": [
+      "jekyll"
+    ],
+    "url": [
+      "https://twitter.com/jekyllrb"
+    ],
+    "nickname": [
+      "jekyllrb"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/378800000722495387/ad968c1615d956e800fa36494314f48c.jpeg"
+    ]
+  }
+}
