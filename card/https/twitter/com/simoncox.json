@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:simoncox"
+    ],
+    "numeric-id": [
+      "6246072"
+    ],
+    "name": [
+      "Simon Cox"
+    ],
+    "url": [
+      "https://twitter.com/simoncox"
+    ],
+    "nickname": [
+      "simoncox"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/936532460627689472/3HUqVVdJ.jpg"
+    ]
+  }
+}
