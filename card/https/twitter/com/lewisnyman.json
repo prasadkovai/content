@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:lewisnyman"
+    ],
+    "numeric-id": [
+      "14408363"
+    ],
+    "name": [
+      "Lewis Nyman"
+    ],
+    "url": [
+      "https://twitter.com/lewisnyman"
+    ],
+    "nickname": [
+      "lewisnyman"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/879986697257324544/FRjf7yYE.jpg"
+    ]
+  }
+}
