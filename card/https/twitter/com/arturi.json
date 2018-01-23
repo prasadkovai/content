@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:arturi"
+    ],
+    "numeric-id": [
+      "816025"
+    ],
+    "name": [
+      "Artur Paikin"
+    ],
+    "url": [
+      "https://twitter.com/arturi"
+    ],
+    "nickname": [
+      "arturi"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/899670508303773696/-oxu8EY1.jpg"
+    ]
+  }
+}
