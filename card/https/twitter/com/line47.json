@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:line47"
+    ],
+    "numeric-id": [
+      "13272202"
+    ],
+    "name": [
+      "Scott Weber"
+    ],
+    "url": [
+      "https://twitter.com/line47"
+    ],
+    "nickname": [
+      "line47"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/862738691072118784/VmyWpawK.jpg"
+    ]
+  }
+}
