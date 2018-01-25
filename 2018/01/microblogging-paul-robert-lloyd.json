@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://paulrobertlloyd.com/2018/01/microblogging"
+    ],
+    "name": [
+      "Microblogging / Paul Robert Lloyd"
+    ],
+    "content": [
+      "PRL on Facebook, Twitter, Micro.blog and IndieWeb technologies."
+    ],
+    "category": [
+      "microblog",
+      "indieweb"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-01-25T15:51:03Z"
+    ]
+  }
+}
