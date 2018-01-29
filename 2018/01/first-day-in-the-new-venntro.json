@@ -1,0 +1,56 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-01-29T13:50:37+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a6f26ad4ac28a4eb04744f4"
+    ],
+    "content": [
+      "First day in the new @venntro office in Windsor. After 8 years at Minton Place we’ve moved down the road."
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Venntro Media Group"
+          ],
+          "url": [
+            "https://foursquare.com/v/5a6f264c0a464d531a605be5"
+          ],
+          "latitude": [
+            51.485249
+          ],
+          "longitude": [
+            -0.607611
+          ],
+          "street-address": [
+            "59-60 Thames Street"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 1TX"
+          ]
+        },
+        "value": "Venntro Media Group"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
