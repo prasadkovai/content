@@ -1,0 +1,49 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-01-31T14:12:37+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a71ced5a5a31577a0d371f5"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Kwik Fit"
+          ],
+          "url": [
+            "https://foursquare.com/v/4da95b7afa8cc76497173324",
+            "https://www.kwik-fit.com",
+            "https://twitter.com/kwik_fit"
+          ],
+          "latitude": [
+            51.43437144358058
+          ],
+          "longitude": [
+            -0.5287466911359398
+          ],
+          "locality": [
+            "Staines-upon-Thames"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "Kwik Fit"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
