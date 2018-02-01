@@ -1,0 +1,28 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/Netflix/fast_jsonapi"
+    ],
+    "name": [
+      "fast_jsonapi"
+    ],
+    "content": [
+      "Netflix's lightning fast JSON:API serializer for Ruby Objects"
+    ],
+    "category": [
+      "json",
+      "api",
+      "ruby",
+      "rails"
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-02-01T12:15:10Z"
+    ]
+  }
+}
