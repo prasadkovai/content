@@ -3,14 +3,24 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:martingoode"
+    ],
+    "numeric-id": [
+      "17386179"
+    ],
     "name": [
       "Martin Goode"
     ],
-    "photo": [
-      "https://twitter.com/martingoode/profile_image?size=original"
-    ],
     "url": [
-      "http://www.wilsonfletcher.com"
+      "http://www.wilsonfletcher.com",
+      "https://twitter.com/martingoode"
+    ],
+    "nickname": [
+      "martingoode"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/545661788269060097/ZN45txMU.jpeg"
     ]
   }
 }
