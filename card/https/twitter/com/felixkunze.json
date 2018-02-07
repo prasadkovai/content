@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:felixkunze"
+    ],
+    "numeric-id": [
+      "8090292"
+    ],
+    "name": [
+      "Felix Kunze"
+    ],
+    "url": [
+      "https://twitter.com/felixkunze"
+    ],
+    "nickname": [
+      "felixkunze"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/919695441679314944/DQG0_Udi.jpg"
+    ]
+  }
+}
