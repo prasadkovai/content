@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/andrewjohnrudd"
+    "uid": [
+      "tag:twitter.com,2013:andrewjohnrudd"
+    ],
+    "numeric-id": [
+      "144812959"
     ],
     "name": [
       "Andrew Rudd"
     ],
+    "url": [
+      "https://twitter.com/andrewjohnrudd"
+    ],
+    "nickname": [
+      "andrewjohnrudd"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/866606689184886784/e19IyHV7_normal.jpg"
+      "https://pbs.twimg.com/profile_images/866606689184886784/e19IyHV7.jpg"
     ]
   }
 }
