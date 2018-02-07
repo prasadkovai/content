@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:azilnik"
+    ],
+    "numeric-id": [
+      "22031899"
+    ],
+    "name": [
+      "Ari Zilnik"
+    ],
+    "url": [
+      "http://ari.zilnik.com",
+      "https://twitter.com/azilnik"
+    ],
+    "nickname": [
+      "azilnik"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/818868922292248576/KDCsdewW.jpg"
+    ]
+  }
+}
