@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:bobfredlarry"
+    ],
+    "numeric-id": [
+      "2415798240"
+    ],
+    "name": [
+      "John Luke"
+    ],
+    "url": [
+      "https://twitter.com/bobfredlarry"
+    ],
+    "nickname": [
+      "bobfredlarry"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/809725712831680512/2aH5iUDa.jpg"
+    ]
+  }
+}
