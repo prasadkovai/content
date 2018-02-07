@@ -3,11 +3,20 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:BenHobson"
+    ],
+    "numeric-id": [
+      "20511088"
+    ],
     "name": [
       "Ben Hobson"
     ],
     "url": [
       "https://twitter.com/BenHobson"
+    ],
+    "nickname": [
+      "BenHobson"
     ],
     "photo": [
       "https://pbs.twimg.com/profile_images/834131604033433600/qF-MlVBL.jpg"
