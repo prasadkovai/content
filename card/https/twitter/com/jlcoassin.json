@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:jlcoassin"
+    ],
+    "numeric-id": [
+      "12165692"
+    ],
+    "name": [
+      "Julie-Laure Coassin"
+    ],
+    "url": [
+      "https://twitter.com/jlcoassin"
+    ],
+    "nickname": [
+      "jlcoassin"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/956631887631577088/7MtoUmxu.jpg"
+    ]
+  }
+}
