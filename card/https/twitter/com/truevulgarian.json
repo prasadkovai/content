@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:TrueVulgarian"
+    ],
+    "numeric-id": [
+      "141025455"
+    ],
+    "name": [
+      "VulGar"
+    ],
+    "url": [
+      "https://twitter.com/TrueVulgarian"
+    ],
+    "nickname": [
+      "TrueVulgarian"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/846747771847622656/OMxj-Epb.jpg"
+    ]
+  }
+}
