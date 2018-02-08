@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/johankj/status/961369461222727680"
+    ],
+    "content": [
+      "@johankj Thanks! Yes, although it's open-source (MIT licence), it's probably a bit specific to my needs/design to be plug-and-play. I'd be happy to accept patches/issues though."
+    ],
+    "category": [
+      "indieweb",
+      "transformative"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/961538632694853633"
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2018-02-08T09:54:09Z"
+    ]
+  }
+}
