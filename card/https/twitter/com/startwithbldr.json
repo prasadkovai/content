@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:startwithbldr"
+    ],
+    "numeric-id": [
+      "862774328642985986"
+    ],
+    "name": [
+      "BLDR"
+    ],
+    "url": [
+      "https://twitter.com/startwithbldr"
+    ],
+    "nickname": [
+      "startwithbldr"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/867870857774977025/HtH6feEv.jpg"
+    ]
+  }
+}
