@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "in-reply-to": [
+      "https://twitter.com/StevieBuckley/status/963726038290370560"
+    ],
+    "content": [
+      "@StevieBuckley Some of our best people have started as juniors but quickly accelerated up through the team. They don't stay junior very long. See also: people who move across to dev from other departments."
+    ],
+    "category": [
+      "team",
+      "culture",
+      "junior"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "reply"
+    ],
+    "published": [
+      "2018-02-14T11:28:40Z"
+    ]
+  }
+}
