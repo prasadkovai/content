@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/StevieBuckley"
+    "uid": [
+      "tag:twitter.com,2013:StevieBuckley"
+    ],
+    "numeric-id": [
+      "275007771"
     ],
     "name": [
       "Stevie Buckley"
     ],
+    "url": [
+      "https://twitter.com/StevieBuckley"
+    ],
+    "nickname": [
+      "StevieBuckley"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/917410547573886976/yXgbDALD_normal.jpg"
+      "https://pbs.twimg.com/profile_images/917410547573886976/yXgbDALD.jpg"
     ]
   }
 }
