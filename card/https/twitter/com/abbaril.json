@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:abbaril"
+    ],
+    "numeric-id": [
+      "21474377"
+    ],
+    "name": [
+      "Abbah Abdallah"
+    ],
+    "url": [
+      "https://twitter.com/abbaril"
+    ],
+    "nickname": [
+      "abbaril"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/934755033421369344/NIZXFs-D.jpg"
+    ]
+  }
+}
