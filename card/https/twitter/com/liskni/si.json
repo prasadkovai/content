@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:Liskni_si"
+    ],
+    "numeric-id": [
+      "91894923"
+    ],
+    "name": [
+      "Tomas Janousek"
+    ],
+    "url": [
+      "https://twitter.com/Liskni_si"
+    ],
+    "nickname": [
+      "Liskni_si"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1980494298/is_fotka3.jpg"
+    ]
+  }
+}
