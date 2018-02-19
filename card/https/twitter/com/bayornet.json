@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Darren Walker (@bayornet)"
+    "uid": [
+      "tag:twitter.com,2013:bayornet"
     ],
-    "photo": [
-      "http://pbs.twimg.com/profile_images/1119642569/IMG_0281_normal.JPG"
+    "numeric-id": [
+      "142785265"
+    ],
+    "name": [
+      "Darren Walker"
     ],
     "url": [
       "https://twitter.com/bayornet"
+    ],
+    "nickname": [
+      "bayornet"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/1119642569/IMG_0281.JPG"
     ]
   }
 }
