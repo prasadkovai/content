@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:2880808"
+    ],
     "name": [
       "nstanley"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/nstanley/",
       "https://www.instagram.com/2880808/"
     ],
+    "nickname": [
+      "nstanley"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/17817779_597392037122327_8302102466690809856_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/9c470f62364dbce5903c58347b496390/5B1F92AD/t51.2885-19/s150x150/20766540_141061303152268_3653693700493541376_a.jpg"
     ]
   }
 }
