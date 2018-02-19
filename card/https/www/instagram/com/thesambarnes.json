@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:61375"
+    ],
     "name": [
       "thesambarnes"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/thesambarnes/",
       "https://www.instagram.com/61375/"
     ],
+    "nickname": [
+      "thesambarnes"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/10843884_783785628324067_1947611372_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/9e67c104cc9fc05d12127226f18cd253/5B08D8BB/t51.2885-19/10843884_783785628324067_1947611372_a.jpg"
     ]
   }
 }
