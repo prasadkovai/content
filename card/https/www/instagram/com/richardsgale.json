@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:226010725"
+    ],
     "name": [
       "richardsgale"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/richardsgale/",
       "https://www.instagram.com/226010725/"
     ],
+    "nickname": [
+      "richardsgale"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/15101585_208002822988075_3025400376623890432_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/a3e3cb55b0e29050bd98f6055153806d/5B1C369E/t51.2885-19/s150x150/15101585_208002822988075_3025400376623890432_a.jpg"
     ]
   }
 }
