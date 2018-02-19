@@ -3,11 +3,21 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://www.instagram.com/benhobson"
+    "uid": [
+      "tag:instagram.com,2013:4127588"
     ],
     "name": [
       "benhobson"
+    ],
+    "url": [
+      "https://www.instagram.com/benhobson/",
+      "https://www.instagram.com/4127588/"
+    ],
+    "nickname": [
+      "benhobson"
+    ],
+    "photo": [
+      "https://scontent-ort2-1.cdninstagram.com/vp/6e2c5b7a2194007d3ebba711d6f6bb18/5B01D820/t51.2885-19/s150x150/18723733_547053045683514_919383379441352704_a.jpg"
     ]
   }
 }
