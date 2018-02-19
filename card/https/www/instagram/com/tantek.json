@@ -3,11 +3,21 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:2975244"
+    ],
     "name": [
       "tantek"
     ],
     "url": [
-      "https://www.instagram.com/tantek"
+      "https://www.instagram.com/tantek/",
+      "https://www.instagram.com/2975244/"
+    ],
+    "nickname": [
+      "tantek"
+    ],
+    "photo": [
+      "https://scontent-ort2-1.cdninstagram.com/vp/ae5e9d9dcca3f873959afb1dd5a7d6d5/5B0F1960/t51.2885-19/s150x150/17596580_982201161916473_4160810784168869888_a.jpg"
     ]
   }
 }
