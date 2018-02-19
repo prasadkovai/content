@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:688979"
+    ],
     "name": [
       "lmfrost16"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/lmfrost16/",
       "https://www.instagram.com/688979/"
     ],
+    "nickname": [
+      "lmfrost16"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/16110624_391276224555680_7836331959432249344_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/efc034920abd13519b484d9cb672eccb/5B1BDACE/t51.2885-19/s150x150/16110624_391276224555680_7836331959432249344_a.jpg"
     ]
   }
 }
