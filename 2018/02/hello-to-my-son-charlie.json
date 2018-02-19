@@ -10,7 +10,8 @@
       "2018-02-19T12:30:17+00:00"
     ],
     "syndication": [
-      "https://www.instagram.com/p/BfYNn7MlmZJ/"
+      "https://www.instagram.com/p/BfYNn7MlmZJ/",
+      "https://twitter.com/barryf/status/965568482837434368"
     ],
     "photo": [
       "https://barryfrost-media.s3.amazonaws.com/file/2018/02/19-546188a06c63e790db5551d8115c2a01.jpg"
@@ -20,6 +21,13 @@
     ],
     "entry-type": [
       "photo"
+    ],
+    "category": [
+      "baby",
+      "personal"
+    ],
+    "updated": [
+      "2018-02-19T12:51:50Z"
     ]
   }
 }
