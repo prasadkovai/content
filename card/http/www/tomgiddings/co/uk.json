@@ -3,14 +3,24 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:tomgiddings"
+    ],
+    "numeric-id": [
+      "6830602"
+    ],
     "name": [
       "Tom"
     ],
-    "photo": [
-      "https://twitter.com/tomgiddings/profile_image?size=original"
-    ],
     "url": [
-      "http://www.tomgiddings.co.uk"
+      "http://www.tomgiddings.co.uk",
+      "https://twitter.com/tomgiddings"
+    ],
+    "nickname": [
+      "tomgiddings"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/878349618463072257/1Pq0i0os.jpg"
     ]
   }
 }
