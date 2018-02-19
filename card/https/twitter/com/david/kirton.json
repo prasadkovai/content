@@ -3,11 +3,20 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:david_kirton"
+    ],
+    "numeric-id": [
+      "24212431"
+    ],
     "name": [
       "David Kirton"
     ],
     "url": [
       "https://twitter.com/david_kirton"
+    ],
+    "nickname": [
+      "david_kirton"
     ],
     "photo": [
       "https://pbs.twimg.com/profile_images/3413881322/fc607c739f81469393900524436eba34.jpeg"
