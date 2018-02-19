@@ -3,14 +3,21 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:26498958"
+    ],
     "name": [
       "al0sboner"
     ],
-    "photo": [
-      "https://scontent-ord1-1.cdninstagram.com/t51.2885-19/s150x150/12918414_265027850509726_855449880_a.jpg"
-    ],
     "url": [
-      "https://www.instagram.com/al0sboner/"
+      "https://www.instagram.com/al0sboner/",
+      "https://www.instagram.com/26498958/"
+    ],
+    "nickname": [
+      "al0sboner"
+    ],
+    "photo": [
+      "https://scontent-ort2-1.cdninstagram.com/vp/d2483614c53f320864f2810d6d1c307e/5B08A806/t51.2885-19/s150x150/14498847_1744220562504652_607664033306247168_a.jpg"
     ]
   }
 }
