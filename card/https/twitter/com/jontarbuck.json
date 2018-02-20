@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/jontarbuck"
+    "uid": [
+      "tag:twitter.com,2013:jontarbuck"
+    ],
+    "numeric-id": [
+      "15760979"
     ],
     "name": [
       "jontarbuck"
     ],
+    "url": [
+      "https://twitter.com/jontarbuck"
+    ],
+    "nickname": [
+      "jontarbuck"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/587990963756367872/h9SHRY1S_normal.png"
+      "https://pbs.twimg.com/profile_images/587990963756367872/h9SHRY1S.png"
     ]
   }
 }
