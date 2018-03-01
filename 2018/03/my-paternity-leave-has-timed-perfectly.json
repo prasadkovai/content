@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "My paternity leave has timed perfectly with the snow and ice. Being homebound with a newborn is more bearable when I’m snowed-in anyway #snowtweet"
+    ],
+    "category": [
+      "snow",
+      "baby"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/969180456477450240"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-03-01T12:00:02Z"
+    ]
+  }
+}
