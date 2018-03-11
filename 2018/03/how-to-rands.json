@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://randsinrepose.com/archives/how-to-rands/"
+    ],
+    "name": [
+      "How to Rands"
+    ],
+    "content": [
+      "How to work with Rands, what he does as a manager. Written as a message to a new report. "
+    ],
+    "category": [
+      "management",
+      "dev"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-03-11T19:23:16Z"
+    ]
+  }
+}
