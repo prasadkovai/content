@@ -1,0 +1,19 @@
+{
+  "type": [
+    "h-cite"
+  ],
+  "properties": {
+    "url": [
+      "https://twitter.com/brendandawes/status/973152828104630272?s=12"
+    ],
+    "content": [
+      "Really like Webmentions and how it works especially when used with http://brid.gy https://indieweb.org/Webmention… https://twitter.com/i/web/status/973152828104630272"
+    ],
+    "author": [
+      "https://twitter.com/brendandawes"
+    ],
+    "published": [
+      "2018-03-12 11:04:49 UTC"
+    ]
+  }
+}
