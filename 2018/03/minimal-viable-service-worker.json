@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://adactio.com/journal/13540"
+    ],
+    "name": [
+      "Minimal viable service worker"
+    ],
+    "category": [
+      "serviceworker",
+      "pwa",
+      "caching"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-03-12T21:42:42Z"
+    ]
+  }
+}
