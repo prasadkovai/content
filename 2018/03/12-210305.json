@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://twitter.com/brendandawes/status/973152828104630272?s=12"
+    ],
+    "category": [
+      "webmention"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/brendandawes/status/973152828104630272"
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2018-03-12T21:03:05Z"
+    ]
+  }
+}
