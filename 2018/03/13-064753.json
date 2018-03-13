@@ -1,0 +1,23 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "like-of": [
+      "https://aaronparecki.com/2018/03/12/17/building-an-indieweb-reader"
+    ],
+    "category": [
+      "indieweb",
+      "microsub"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "like"
+    ],
+    "published": [
+      "2018-03-13T06:47:53Z"
+    ]
+  }
+}
