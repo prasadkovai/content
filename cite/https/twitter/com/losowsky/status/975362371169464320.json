@@ -6,14 +6,20 @@
     "url": [
       "https://twitter.com/losowsky/status/975362371169464320"
     ],
-    "content": [
-      "@barryf @WarwickBoar Presumably that was only hairy because Al was driving."
-    ],
-    "author": [
-      "https://twitter.com/losowsky"
+    "name": [
+      "Presumably that was only hairy because Al was driving."
     ],
     "published": [
-      "2018-03-18 13:24:45 UTC"
+      "2018-03-18T13:24:45Z"
+    ],
+    "author": [
+      "http://www.losowsky.com"
+    ],
+    "in-reply-to": [
+      "https://barryfrost.com/2018/03/boar"
+    ],
+    "content": [
+      "Presumably that was only hairy because Al was driving."
     ]
   }
 }
