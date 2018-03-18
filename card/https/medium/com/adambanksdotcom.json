@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:adambanksdotcom"
+    ],
+    "numeric-id": [
+      "22988800"
+    ],
+    "name": [
+      "Adam Banks"
+    ],
+    "url": [
+      "https://medium.com/@adambanksdotcom",
+      "https://twitter.com/adambanksdotcom"
+    ],
+    "nickname": [
+      "adambanksdotcom"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/947291800556929024/0DlgzfhD.jpg"
+    ]
+  }
+}
