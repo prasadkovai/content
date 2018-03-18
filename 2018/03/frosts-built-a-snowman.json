@@ -13,7 +13,8 @@
       "geo:51.4,-0.6"
     ],
     "syndication": [
-      "https://www.instagram.com/p/Bgdf_qUlQRF/"
+      "https://www.instagram.com/p/Bgdf_qUlQRF/",
+      "https://twitter.com/barryf/status/975321903660503040"
     ],
     "place_name": [
       "Virginia Water"
@@ -29,6 +30,9 @@
     ],
     "entry-type": [
       "photo"
+    ],
+    "updated": [
+      "2018-03-18T10:45:27Z"
     ]
   }
 }
