@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "url": [
-      "https://twitter.com/losowsky"
+    "uid": [
+      "tag:twitter.com,2013:losowsky"
+    ],
+    "numeric-id": [
+      "115359136"
     ],
     "name": [
       "Andrew Losowsky"
     ],
+    "url": [
+      "https://twitter.com/losowsky"
+    ],
+    "nickname": [
+      "losowsky"
+    ],
     "photo": [
-      "http://pbs.twimg.com/profile_images/594911904889470976/SOf4G39z_normal.jpg"
+      "https://pbs.twimg.com/profile_images/594911904889470976/SOf4G39z.jpg"
     ]
   }
 }
