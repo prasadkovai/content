@@ -1,0 +1,31 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/kamranahmedse/driver.js"
+    ],
+    "name": [
+      "driver.js"
+    ],
+    "content": [
+      "> A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page"
+    ],
+    "category": [
+      "tour",
+      "onboarding",
+      "training",
+      "focus"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-03-19T11:57:27Z"
+    ]
+  }
+}
