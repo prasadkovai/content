@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-02-08T19:24:47+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a7ca3ffbd400967d362f69e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Pitch & Chip"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ea011335503cfb4767971bd"
+          ],
+          "latitude": [
+            51.39697576362287
+          ],
+          "longitude": [
+            -0.5656783227800802
+          ],
+          "locality": [
+            "Virginia Water"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ea011335503cfb4767971bd"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.39697576362287
+          ],
+          "longitude": [
+            -0.5656783227800802
+          ],
+          "locality": [
+            "Virginia Water"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
