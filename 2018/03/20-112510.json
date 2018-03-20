@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-05T12:17:46+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5a9d356a29551302d3082637"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Savill Gardens"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bbc8928afe1b713697a304b",
+            "http://www.windsorgreatpark.co.uk/en/experiences/the-savill-garden",
+            "https://twitter.com/windsorgtpark"
+          ],
+          "tel": [
+            "01753 847519"
+          ],
+          "latitude": [
+            51.426504996823375
+          ],
+          "longitude": [
+            -0.5970364320250642
+          ],
+          "street-address": [
+            "Wick Ln"
+          ],
+          "locality": [
+            "Englefield Green"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW20 0UU"
+          ]
+        },
+        "value": "https://foursquare.com/v/4bbc8928afe1b713697a304b"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.426504996823375
+          ],
+          "longitude": [
+            -0.5970364320250642
+          ],
+          "street-address": [
+            "Wick Ln"
+          ],
+          "locality": [
+            "Englefield Green"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW20 0UU"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
