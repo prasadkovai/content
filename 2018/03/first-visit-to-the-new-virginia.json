@@ -1,0 +1,80 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-20T10:11:26+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ab0de4e01235809404bd94b"
+    ],
+    "content": [
+      "First visit to the new Virginia Water Costa. Friendly staff and good coffee."
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Costa Coffee"
+          ],
+          "url": [
+            "https://foursquare.com/v/5aa790975c683844a2297ead"
+          ],
+          "latitude": [
+            51.401944
+          ],
+          "longitude": [
+            -0.562809
+          ],
+          "locality": [
+            "Virginia Water"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU25 4AA"
+          ]
+        },
+        "value": "https://foursquare.com/v/5aa790975c683844a2297ead"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.401944
+          ],
+          "longitude": [
+            -0.562809
+          ],
+          "locality": [
+            "Virginia Water"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU25 4AA"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
