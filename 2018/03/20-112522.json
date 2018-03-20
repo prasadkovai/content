@@ -1,0 +1,59 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-11T16:29:02+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5aa5594eb9ac382bf49faed4"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lyne"
+          ],
+          "url": [
+            "https://foursquare.com/v/521df11e11d2a814114bfa0c"
+          ],
+          "latitude": [
+            51.39279186572092
+          ],
+          "longitude": [
+            -0.5415467163421985
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/521df11e11d2a814114bfa0c"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.39279186572092
+          ],
+          "longitude": [
+            -0.5415467163421985
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
