@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-08T10:23:09+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5aa10f0dc365882d28be2cbd"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Hilliers"
+          ],
+          "url": [
+            "https://foursquare.com/v/4fb771e3e4b0363b11fd51cf"
+          ],
+          "latitude": [
+            51.3838001608947
+          ],
+          "longitude": [
+            -0.654812308769963
+          ],
+          "street-address": [
+            "London Road"
+          ],
+          "locality": [
+            "Sunningdale"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4fb771e3e4b0363b11fd51cf"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.3838001608947
+          ],
+          "longitude": [
+            -0.654812308769963
+          ],
+          "street-address": [
+            "London Road"
+          ],
+          "locality": [
+            "Sunningdale"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
