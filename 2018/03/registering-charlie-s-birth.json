@@ -1,0 +1,91 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-13T14:32:08+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5aa7e0e8b1ec1326f1a77262"
+    ],
+    "content": [
+      "Registering Charlie’s birth."
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Weybridge Register Office"
+          ],
+          "url": [
+            "https://foursquare.com/v/4db438a16a23c31a031284b8",
+            "http://www.surreycc.gov.uk",
+            "https://twitter.com/surreycouncil"
+          ],
+          "tel": [
+            "0300 200 1002"
+          ],
+          "latitude": [
+            51.37895116332939
+          ],
+          "longitude": [
+            -0.43312964282215544
+          ],
+          "street-address": [
+            "81 Oatlands Drive"
+          ],
+          "locality": [
+            "Weybridge"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "KT13 9LN"
+          ]
+        },
+        "value": "https://foursquare.com/v/4db438a16a23c31a031284b8"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.37895116332939
+          ],
+          "longitude": [
+            -0.43312964282215544
+          ],
+          "street-address": [
+            "81 Oatlands Drive"
+          ],
+          "locality": [
+            "Weybridge"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "KT13 9LN"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
