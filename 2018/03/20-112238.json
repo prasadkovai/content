@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-14T10:46:50+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5aa8fd9a92e7a929b8bb6c34"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Lyne Village Hall"
+          ],
+          "url": [
+            "https://foursquare.com/v/5aa8fd92d7627e1ec3995263"
+          ],
+          "latitude": [
+            51.387751
+          ],
+          "longitude": [
+            -0.545925
+          ],
+          "street-address": [
+            "Lyne Lane"
+          ],
+          "locality": [
+            "Chertsey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "K T16"
+          ]
+        },
+        "value": "https://foursquare.com/v/5aa8fd92d7627e1ec3995263"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.387751
+          ],
+          "longitude": [
+            -0.545925
+          ],
+          "street-address": [
+            "Lyne Lane"
+          ],
+          "locality": [
+            "Chertsey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "K T16"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
