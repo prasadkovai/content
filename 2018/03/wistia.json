@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://wistia.com/"
+    ],
+    "name": [
+      "Wistia"
+    ],
+    "content": [
+      "> Video Hosting for Business"
+    ],
+    "category": [
+      "video",
+      "hosting",
+      "business"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-03-21T14:19:59Z"
+    ]
+  }
+}
