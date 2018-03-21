@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-21T09:57:51+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ab22c9f916bc1555bdb4676"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Riverbourne Health Club"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b560d0ef964a520e6fd27e3",
+            "http://www.theriverbourneclub.co.uk",
+            "https://twitter.com/riverbourneclub"
+          ],
+          "tel": [
+            "01932 560560"
+          ],
+          "latitude": [
+            51.38927974341493
+          ],
+          "longitude": [
+            -0.5051822923713045
+          ],
+          "street-address": [
+            "Heriot Rd"
+          ],
+          "locality": [
+            "Chertsey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "KT16 9DR"
+          ]
+        },
+        "value": "https://foursquare.com/v/4b560d0ef964a520e6fd27e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.38927974341493
+          ],
+          "longitude": [
+            -0.5051822923713045
+          ],
+          "street-address": [
+            "Heriot Rd"
+          ],
+          "locality": [
+            "Chertsey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "KT16 9DR"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
