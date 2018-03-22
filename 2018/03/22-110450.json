@@ -1,0 +1,87 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-22T11:04:32+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ab38dc06c08d144d6a67646"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Caffè Nero"
+          ],
+          "url": [
+            "https://foursquare.com/v/4f2d5cd5e4b05a84d7c8f000",
+            "http://www.caffenero.co.uk"
+          ],
+          "tel": [
+            "01784 471463"
+          ],
+          "latitude": [
+            51.43386527996481
+          ],
+          "longitude": [
+            -0.5115884749728111
+          ],
+          "street-address": [
+            "59 High St"
+          ],
+          "locality": [
+            "Staines-upon-Thames"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW18 4QH"
+          ]
+        },
+        "value": "https://foursquare.com/v/4f2d5cd5e4b05a84d7c8f000"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.43386527996481
+          ],
+          "longitude": [
+            -0.5115884749728111
+          ],
+          "street-address": [
+            "59 High St"
+          ],
+          "locality": [
+            "Staines-upon-Thames"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW18 4QH"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
