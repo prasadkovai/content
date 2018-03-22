@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:dmitrigrabov"
+    ],
+    "numeric-id": [
+      "147705206"
+    ],
+    "name": [
+      "Dmitri Grabov ♠"
+    ],
+    "url": [
+      "https://twitter.com/dmitrigrabov"
+    ],
+    "nickname": [
+      "dmitrigrabov"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/936257831929511936/0-YPZxki.jpg"
+    ]
+  }
+}
