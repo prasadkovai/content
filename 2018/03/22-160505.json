@@ -1,0 +1,87 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-22T12:56:14+00:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ab3a7eeda2e007d86d93d62"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Artwork hair salon"
+          ],
+          "url": [
+            "https://foursquare.com/v/4cd2ef1b158c548113d3b1e4",
+            "http://www.artworkhair.co.uk"
+          ],
+          "tel": [
+            "01753 852035"
+          ],
+          "latitude": [
+            51.47966926153805
+          ],
+          "longitude": [
+            -0.6121453386647405
+          ],
+          "street-address": [
+            "16 st Leonards Road"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 3BU"
+          ]
+        },
+        "value": "https://foursquare.com/v/4cd2ef1b158c548113d3b1e4"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.47966926153805
+          ],
+          "longitude": [
+            -0.6121453386647405
+          ],
+          "street-address": [
+            "16 st Leonards Road"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 3BU"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
