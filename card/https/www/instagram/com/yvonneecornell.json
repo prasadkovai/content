@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:3579543013"
+    ],
     "name": [
       "yvonneecornell"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/yvonneecornell/",
       "https://www.instagram.com/3579543013/"
     ],
+    "nickname": [
+      "yvonneecornell"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/13715072_291007364586425_1665023895_a.jpg"
+      "https://scontent-ort2-2.cdninstagram.com/vp/ecbed51bbab70d5427682628097a586d/5B4349BE/t51.2885-19/s150x150/22582058_146945619382424_8904151135200215040_n.jpg"
     ]
   }
 }
