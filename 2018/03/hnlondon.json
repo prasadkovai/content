@@ -9,9 +9,6 @@
     "syndication": [
       "https://www.swarmapp.com/user/506725/checkin/5ab3f0568173cb2e95c9c669"
     ],
-    "content": [
-      "#HNLondon"
-    ],
     "category": [
       "HNLondon"
     ],
@@ -24,37 +21,13 @@
           "name": [
             "WeWork Moorgate"
           ],
-          "url": [
-            "https://foursquare.com/v/5593f6ba498e9fea7dd6434c",
-            "https://www.wework.com",
-            "https://twitter.com/weworkuk"
-          ],
-          "tel": [
-            "020 8004 1776"
-          ],
           "latitude": [
-            51.5179281
+            "51.5179281"
           ],
           "longitude": [
-            -0.0900918
-          ],
-          "street-address": [
-            "1 Fore Street"
-          ],
-          "locality": [
-            "London"
-          ],
-          "region": [
-            "Greater London"
-          ],
-          "country-name": [
-            "United Kingdom"
-          ],
-          "postal-code": [
-            "EC2Y 9DT"
+            "-0.0900918"
           ]
-        },
-        "value": "https://foursquare.com/v/5593f6ba498e9fea7dd6434c"
+        }
       }
     ],
     "location": [
@@ -89,6 +62,9 @@
     ],
     "entry-type": [
       "checkin"
+    ],
+    "updated": [
+      "2018-03-24T10:49:41Z"
     ]
   }
 }
