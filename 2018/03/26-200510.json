@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-03-26T11:31:17+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ab8cbf5a0215b002be632fe"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Venntro Media Group"
+          ],
+          "url": [
+            "https://foursquare.com/v/5a6f264c0a464d531a605be5"
+          ],
+          "latitude": [
+            51.485249
+          ],
+          "longitude": [
+            -0.607611
+          ],
+          "street-address": [
+            "59-60 Thames Street"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 1TX"
+          ]
+        },
+        "value": "https://foursquare.com/v/5a6f264c0a464d531a605be5"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.485249
+          ],
+          "longitude": [
+            -0.607611
+          ],
+          "street-address": [
+            "59-60 Thames Street"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 1TX"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
