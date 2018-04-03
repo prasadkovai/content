@@ -1,0 +1,59 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-04-03T15:45:06+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ac39372c62b49002b1d8c8e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Oakleigh Dental Surgery"
+          ],
+          "url": [
+            "https://foursquare.com/v/511b4f85e4b0c61f30f1848c"
+          ],
+          "latitude": [
+            51.479859053052564
+          ],
+          "longitude": [
+            -0.6159841935702315
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/511b4f85e4b0c61f30f1848c"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.479859053052564
+          ],
+          "longitude": [
+            -0.6159841935702315
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
