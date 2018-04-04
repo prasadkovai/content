@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:Tomtids"
+    ],
+    "numeric-id": [
+      "16350009"
+    ],
+    "name": [
+      "Tom Burr"
+    ],
+    "url": [
+      "https://twitter.com/Tomtids"
+    ],
+    "nickname": [
+      "Tomtids"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/3220610308/85d03529df671348ad0c6dc773684531.jpeg"
+    ]
+  }
+}
