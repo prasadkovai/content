@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-04-11T10:54:55+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5acddb6f47f876002cd1c601"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Chobham Adventure Farm"
+          ],
+          "url": [
+            "https://foursquare.com/v/583d4d86266c1177e7382192"
+          ],
+          "tel": [
+            "01276 919212"
+          ],
+          "latitude": [
+            51.345759387184046
+          ],
+          "longitude": [
+            -0.6081801652908325
+          ],
+          "street-address": [
+            "Bagshot Road"
+          ],
+          "locality": [
+            "Chobham"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU24 8DB"
+          ]
+        },
+        "value": "https://foursquare.com/v/583d4d86266c1177e7382192"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.345759387184046
+          ],
+          "longitude": [
+            -0.6081801652908325
+          ],
+          "street-address": [
+            "Bagshot Road"
+          ],
+          "locality": [
+            "Chobham"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "GU24 8DB"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
