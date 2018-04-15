@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/mhart/dynalite"
+    ],
+    "name": [
+      "dynalite"
+    ],
+    "content": [
+      "> An implementation of Amazon's DynamoDB built on LevelDB"
+    ],
+    "category": [
+      "aws",
+      "dynamodb",
+      "database"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-04-15T11:40:27Z"
+    ]
+  }
+}
