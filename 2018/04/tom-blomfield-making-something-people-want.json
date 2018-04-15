@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless"
+    ],
+    "name": [
+      "Tom Blomfield: Making something people want"
+    ],
+    "content": [
+      "> Most startups aren’t competing with other startups; they’re competing with no one giving a shit."
+    ],
+    "category": [
+      "startup",
+      "business",
+      "mvp"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-04-15T14:28:49Z"
+    ]
+  }
+}
