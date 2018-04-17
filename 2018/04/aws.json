@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I finally got round to trying some AWS basics:\r\n\r\n- Route 53 for DNS of barryf.co.uk\r\n- S3 for static web hosting\r\n- CloudFront in front of S3 for HTTP/2 and CDN \r\n- SSL certificate via ACM\r\n\r\nHate the UI but it was reassuringly easy. Next to try: Lambda and API Gateway."
+    ],
+    "category": [
+      "aws",
+      "s3",
+      "cloudfront",
+      "route53",
+      "amazon"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-04-17T18:32:18Z"
+    ]
+  }
+}
