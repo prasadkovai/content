@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "repost-of": [
+      "https://twitter.com/voxpelli/status/986617460202921986"
+    ],
+    "category": [
+      "like",
+      "boost"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/986618958051790858"
+    ],
+    "entry-type": [
+      "repost"
+    ],
+    "published": [
+      "2018-04-18T14:54:24Z"
+    ]
+  }
+}
