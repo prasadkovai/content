@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture"
+    ],
+    "name": [
+      "Best Practices for Building a Microservice Architecture"
+    ],
+    "content": [
+      "Collection of links and articles. "
+    ],
+    "category": [
+      "microservices",
+      "architecture"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-04-22T08:14:53Z"
+    ]
+  }
+}
