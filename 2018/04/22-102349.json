@@ -1,0 +1,59 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-04-22T11:23:32+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5adc62a40fe7a0002cd1213b"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Egham Station Park and Playground"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ece241bbe7b9eecdd60ad4d"
+          ],
+          "latitude": [
+            51.42901409026837
+          ],
+          "longitude": [
+            -0.5471615240379686
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ece241bbe7b9eecdd60ad4d"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.42901409026837
+          ],
+          "longitude": [
+            -0.5471615240379686
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
