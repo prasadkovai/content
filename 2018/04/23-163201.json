@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-04-23T17:31:44+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ade0a70b3c961002c0de53e"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Green Room"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d43210a7fb05481381d7279",
+            "http://www.greenroom.london",
+            "https://twitter.com/greenroomse1"
+          ],
+          "tel": [
+            "020 7452 3630"
+          ],
+          "latitude": [
+            51.5061068622855
+          ],
+          "longitude": [
+            -0.1140893883464966
+          ],
+          "street-address": [
+            "101 Upper Ground"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE1 9PP"
+          ]
+        },
+        "value": "https://foursquare.com/v/4d43210a7fb05481381d7279"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.5061068622855
+          ],
+          "longitude": [
+            -0.1140893883464966
+          ],
+          "street-address": [
+            "101 Upper Ground"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE1 9PP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
