@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:emilycmg"
+    ],
+    "numeric-id": [
+      "606441676"
+    ],
+    "name": [
+      "Emily Green"
+    ],
+    "url": [
+      "https://twitter.com/emilycmg"
+    ],
+    "nickname": [
+      "emilycmg"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/979314944243052545/53k9ZJ4N.jpg"
+    ]
+  }
+}
