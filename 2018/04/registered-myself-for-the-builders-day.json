@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Registered myself for the Builders’ Day at May’s AWS Summit London. I’m hoping to attend the Serverless sessions."
+    ],
+    "category": [
+      "aws"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/989243929072676864"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-04-25T20:45:06Z"
+    ]
+  }
+}
