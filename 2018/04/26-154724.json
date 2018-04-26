@@ -1,0 +1,81 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-04-26T16:47:07+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ae1f47b0d173f002c6581d5"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "London Street Brasserie"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b1baf50f964a520a6fc23e3",
+            "http://www.londonstbrasserie.co.uk"
+          ],
+          "tel": [
+            "0118 950 5036"
+          ],
+          "latitude": [
+            51.453815504811196
+          ],
+          "longitude": [
+            -0.9686797303404237
+          ],
+          "street-address": [
+            "2-4 London St"
+          ],
+          "locality": [
+            "Reading"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG1 4SE"
+          ]
+        },
+        "value": "https://foursquare.com/v/4b1baf50f964a520a6fc23e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.453815504811196
+          ],
+          "longitude": [
+            -0.9686797303404237
+          ],
+          "street-address": [
+            "2-4 London St"
+          ],
+          "locality": [
+            "Reading"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG1 4SE"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
