@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.expeditedssl.com/aws-in-plain-english"
+    ],
+    "name": [
+      "AWS in Plain English"
+    ],
+    "category": [
+      "aws",
+      "amazon",
+      "hosting"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-04-27T08:23:15Z"
+    ]
+  }
+}
