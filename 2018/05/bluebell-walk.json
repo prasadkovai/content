@@ -1,0 +1,94 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-01T14:48:42+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5ae8703af5e9d7002c4a96e6"
+    ],
+    "content": [
+      "Bluebell walk"
+    ],
+    "photo": [
+      "https://igx.4sqi.net/img/general/original/506725_nB_K7UP5MvKG2ciSqOep30OYDWHCbRtu8IdgyJ2fMhg.jpg"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Fernygrove Farm Coffee Shop"
+          ],
+          "url": [
+            "https://foursquare.com/v/53ef6f53498ee7207e3cfedd",
+            "http://www.fernygrovefarm.co.uk",
+            "https://twitter.com/fernygrovefarm"
+          ],
+          "tel": [
+            "01344 885987"
+          ],
+          "latitude": [
+            51.4582963692953
+          ],
+          "longitude": [
+            -0.7334673083513781
+          ],
+          "street-address": [
+            "Fernygrove Farm, Hawthorn Hill"
+          ],
+          "locality": [
+            "Warfield"
+          ],
+          "region": [
+            "Bracknell Forest"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG42 6HN"
+          ]
+        },
+        "value": "https://foursquare.com/v/53ef6f53498ee7207e3cfedd"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.4582963692953
+          ],
+          "longitude": [
+            -0.7334673083513781
+          ],
+          "street-address": [
+            "Fernygrove Farm, Hawthorn Hill"
+          ],
+          "locality": [
+            "Warfield"
+          ],
+          "region": [
+            "Bracknell Forest"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG42 6HN"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "photo"
+    ]
+  }
+}
