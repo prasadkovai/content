@@ -9,12 +9,6 @@
     "syndication": [
       "https://www.swarmapp.com/user/506725/checkin/5ae8703af5e9d7002c4a96e6"
     ],
-    "content": [
-      "Bluebell walk"
-    ],
-    "photo": [
-      "https://igx.4sqi.net/img/general/original/506725_nB_K7UP5MvKG2ciSqOep30OYDWHCbRtu8IdgyJ2fMhg.jpg"
-    ],
     "checkin": [
       {
         "type": [
@@ -88,7 +82,7 @@
       }
     ],
     "entry-type": [
-      "photo"
+      "checkin"
     ]
   }
 }
