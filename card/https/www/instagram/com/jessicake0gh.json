@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:264003236"
+    ],
     "name": [
       "jessicake0gh"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/jessicake0gh/",
       "https://www.instagram.com/264003236/"
     ],
+    "nickname": [
+      "jessicake0gh"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/15253208_145713785919102_6501215326493999104_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/be4b78aa3f5a9d96a0055f7004368a95/5B9747CD/t51.2885-19/s150x150/15253208_145713785919102_6501215326493999104_a.jpg"
     ]
   }
 }
