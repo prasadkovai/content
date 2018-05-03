@@ -3,6 +3,9 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:instagram.com,2013:2979058976"
+    ],
     "name": [
       "simonbingham"
     ],
@@ -10,8 +13,11 @@
       "https://www.instagram.com/simonbingham/",
       "https://www.instagram.com/2979058976/"
     ],
+    "nickname": [
+      "simonbingham"
+    ],
     "photo": [
-      "https://scontent-ort2-1.cdninstagram.com/t51.2885-19/s150x150/14716618_1816953028583773_3124941762741665792_a.jpg"
+      "https://scontent-ort2-1.cdninstagram.com/vp/96a65efc0a565e295568b35c1e43cf7b/5B8D0DF6/t51.2885-19/s150x150/31326344_2049107335377632_3838431878960906240_n.jpg"
     ]
   }
 }
