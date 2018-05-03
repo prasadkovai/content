@@ -3,14 +3,21 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "Tom"
+    "uid": [
+      "tag:instagram.com,2013:44947923"
     ],
-    "photo": [
-      "https://scontent.cdninstagram.com/t51.2885-19/11849273_1453387624988736_1675634182_a.jpg"
+    "name": [
+      "tomgiddings"
     ],
     "url": [
-      "https://www.instagram.com/tomgiddings/"
+      "https://www.instagram.com/tomgiddings/",
+      "https://www.instagram.com/44947923/"
+    ],
+    "nickname": [
+      "tomgiddings"
+    ],
+    "photo": [
+      "https://scontent-ort2-1.cdninstagram.com/vp/8fb885eaecd9abb5159bbaac647281eb/5B98B1EE/t51.2885-19/11849273_1453387624988736_1675634182_a.jpg"
     ]
   }
 }
