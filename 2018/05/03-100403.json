@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-03T11:03:45+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5aeade81598e640039f5cdc6"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Savill Building"
+          ],
+          "url": [
+            "https://foursquare.com/v/56684ed5498e691cf1f3315f",
+            "http://www.theroyallandscape.co.uk",
+            "https://twitter.com/windsorgtpark"
+          ],
+          "tel": [
+            "01753 860222"
+          ],
+          "latitude": [
+            51.426521
+          ],
+          "longitude": [
+            -0.5972130000000107
+          ],
+          "street-address": [
+            "Wick Ln"
+          ],
+          "locality": [
+            "Englefield Green"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW20 0UU"
+          ]
+        },
+        "value": "https://foursquare.com/v/56684ed5498e691cf1f3315f"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.426521
+          ],
+          "longitude": [
+            -0.5972130000000107
+          ],
+          "street-address": [
+            "Wick Ln"
+          ],
+          "locality": [
+            "Englefield Green"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "TW20 0UU"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
