@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://servers.lol/"
+    ],
+    "name": [
+      "Servers.LOL"
+    ],
+    "content": [
+      "Should/could your EC2 server be replaced with Lambda?"
+    ],
+    "category": [
+      "aws",
+      "serverless",
+      "server"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-05T14:45:25Z"
+    ]
+  }
+}
