@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-09T12:52:22+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5af2e0f65bf1b30024a9efb2"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "ExCeL London"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518f7f964a520a3af20e3",
+            "http://excel.london",
+            "https://twitter.com/excellondon"
+          ],
+          "tel": [
+            "020 7069 5000"
+          ],
+          "latitude": [
+            51.508355157735856
+          ],
+          "longitude": [
+            0.028731822967529293
+          ],
+          "street-address": [
+            "One Western Gateway"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E16 1XL"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ac518f7f964a520a3af20e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.508355157735856
+          ],
+          "longitude": [
+            0.028731822967529293
+          ],
+          "street-address": [
+            "One Western Gateway"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E16 1XL"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
