@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "Spent the afternoon at the AWS Builders’ Day in London learning about Serverless. Believing the hype."
+    ],
+    "category": [
+      "aws",
+      "london"
+    ],
+    "photo": [
+      {
+        "value": "https://barryfrost-media.s3.amazonaws.com/file/2018/05/09-aa956fa4153f4c721d9440c92371735f.jpeg",
+        "alt": "AWS stage"
+      }
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-05-09T18:36:37Z"
+    ]
+  }
+}
