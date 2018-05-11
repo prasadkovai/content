@@ -1,0 +1,59 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-11T19:40:30+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5af5e39eca18ea002c8b12c0"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Eric's Fish & Chips"
+          ],
+          "url": [
+            "https://foursquare.com/v/57ed3f42cd107f9a137ebb55"
+          ],
+          "latitude": [
+            52.96045
+          ],
+          "longitude": [
+            0.561714
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/57ed3f42cd107f9a137ebb55"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.96045
+          ],
+          "longitude": [
+            0.561714
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
