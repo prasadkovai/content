@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-11T14:00:30+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5af593ee9f8a9f002c97e7c6"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Priory Gardens"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c9de453d3c2b60c1467c5bc"
+          ],
+          "latitude": [
+            52.046931742476126
+          ],
+          "longitude": [
+            -0.02123469368178181
+          ],
+          "locality": [
+            "Hertfordshire"
+          ],
+          "region": [
+            "Hertfordshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4c9de453d3c2b60c1467c5bc"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.046931742476126
+          ],
+          "longitude": [
+            -0.02123469368178181
+          ],
+          "locality": [
+            "Hertfordshire"
+          ],
+          "region": [
+            "Hertfordshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
