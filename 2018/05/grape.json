@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/ruby-grape/grape"
+    ],
+    "name": [
+      "grape"
+    ],
+    "content": [
+      "Ruby framework for writing RESTful APIs"
+    ],
+    "category": [
+      "rest",
+      "api",
+      "ruby"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-13T17:20:16Z"
+    ]
+  }
+}
