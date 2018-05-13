@@ -1,0 +1,77 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-13T12:25:59+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5af820c73b8307002c11fa22"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Farmer Freds"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d3abd0e49cb236aadf3bc47"
+          ],
+          "latitude": [
+            52.90803515
+          ],
+          "longitude": [
+            0.50654352
+          ],
+          "street-address": [
+            "B1454"
+          ],
+          "locality": [
+            "Heacham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4d3abd0e49cb236aadf3bc47"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.90803515
+          ],
+          "longitude": [
+            0.50654352
+          ],
+          "street-address": [
+            "B1454"
+          ],
+          "locality": [
+            "Heacham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
