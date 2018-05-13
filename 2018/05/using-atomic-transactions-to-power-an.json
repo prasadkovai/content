@@ -1,0 +1,34 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://brandur.org/http-transactions"
+    ],
+    "name": [
+      "Using Atomic Transactions to Power an Idempotent API"
+    ],
+    "content": [
+      "Uses Ruby, Sequel, Postgres and Sidekiq in the examples"
+    ],
+    "category": [
+      "api",
+      "ruby",
+      "sequel",
+      "sidekiq",
+      "postgres",
+      "architecture",
+      "idempotency"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-13T17:06:46Z"
+    ]
+  }
+}
