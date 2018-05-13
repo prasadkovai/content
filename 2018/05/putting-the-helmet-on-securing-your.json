@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.twilio.com/blog/2017/11/securing-your-express-app.html"
+    ],
+    "name": [
+      "Putting the helmet on – Securing your Express app"
+    ],
+    "category": [
+      "security",
+      "node",
+      "express"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-13T17:35:42Z"
+    ]
+  }
+}
