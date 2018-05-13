@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://stripe.com/atlas/guides/starting-sales"
+    ],
+    "name": [
+      "Stripe Atlas: Getting Your First 10 Customers"
+    ],
+    "category": [
+      "acquisition",
+      "business",
+      "sales"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-13T17:28:29Z"
+    ]
+  }
+}
