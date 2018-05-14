@@ -1,0 +1,88 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-14T13:19:03+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5af97eb7112c6c002c7ef21d"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Dinosaur Adventure Park"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bd56f076798ef3b804a638d",
+            "http://dinosauradventure",
+            "https://twitter.com/dino_adventure"
+          ],
+          "tel": [
+            "01603 876310"
+          ],
+          "latitude": [
+            52.71266212101849
+          ],
+          "longitude": [
+            1.119514005431837
+          ],
+          "street-address": [
+            "Taverham"
+          ],
+          "locality": [
+            "Broadland"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NR9 5JW"
+          ]
+        },
+        "value": "https://foursquare.com/v/4bd56f076798ef3b804a638d"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.71266212101849
+          ],
+          "longitude": [
+            1.119514005431837
+          ],
+          "street-address": [
+            "Taverham"
+          ],
+          "locality": [
+            "Broadland"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NR9 5JW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
