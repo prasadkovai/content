@@ -1,0 +1,77 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-15T15:42:07+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5afaf1bf535d6f002cfc73be"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Sandringham Estate"
+          ],
+          "url": [
+            "https://foursquare.com/v/5676f416498ebf4cc431569e"
+          ],
+          "latitude": [
+            52.830076
+          ],
+          "longitude": [
+            0.514189
+          ],
+          "street-address": [
+            "Sandringham Park"
+          ],
+          "locality": [
+            "Sandringham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/5676f416498ebf4cc431569e"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.830076
+          ],
+          "longitude": [
+            0.514189
+          ],
+          "street-address": [
+            "Sandringham Park"
+          ],
+          "locality": [
+            "Sandringham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
