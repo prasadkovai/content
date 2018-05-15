@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-15T17:30:17+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5afb0b195ba046002ccc4b47"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Yurt Restaurant"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ca33bf81ee76dcbb23df7dd"
+          ],
+          "tel": [
+            "01485 525108"
+          ],
+          "latitude": [
+            52.959148
+          ],
+          "longitude": [
+            0.560943
+          ],
+          "street-address": [
+            "Drove Orchards"
+          ],
+          "locality": [
+            "Thornham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "PE36 6LS"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ca33bf81ee76dcbb23df7dd"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.959148
+          ],
+          "longitude": [
+            0.560943
+          ],
+          "street-address": [
+            "Drove Orchards"
+          ],
+          "locality": [
+            "Thornham"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "PE36 6LS"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
