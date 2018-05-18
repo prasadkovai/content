@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-17T11:55:18+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5afd5f96dff815002c27aad0"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Holkham Hall"
+          ],
+          "url": [
+            "https://foursquare.com/v/4c1cecadb489b713e67da9c7"
+          ],
+          "tel": [
+            "01328 710227"
+          ],
+          "latitude": [
+            52.950768249910794
+          ],
+          "longitude": [
+            0.8054552903373361
+          ],
+          "street-address": [
+            "Holkham"
+          ],
+          "locality": [
+            "Wells-next-the-Sea"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NR23 1AB"
+          ]
+        },
+        "value": "https://foursquare.com/v/4c1cecadb489b713e67da9c7"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            52.950768249910794
+          ],
+          "longitude": [
+            0.8054552903373361
+          ],
+          "street-address": [
+            "Holkham"
+          ],
+          "locality": [
+            "Wells-next-the-Sea"
+          ],
+          "region": [
+            "Norfolk"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "NR23 1AB"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
