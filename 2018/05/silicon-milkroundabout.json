@@ -1,0 +1,91 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-20T15:12:28+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b01824cba57b4002bf0869e"
+    ],
+    "content": [
+      "Silicon Milkroundabout"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Old Truman Brewery"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518f3f964a520aeae20e3",
+            "http://www.trumanbrewery.com",
+            "https://twitter.com/trumanbrewery"
+          ],
+          "tel": [
+            "020 7770 6008"
+          ],
+          "latitude": [
+            51.52060927697268
+          ],
+          "longitude": [
+            -0.07241088896641618
+          ],
+          "street-address": [
+            "91 Brick Ln"
+          ],
+          "locality": [
+            "Spitalfields"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E1 6QL"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ac518f3f964a520aeae20e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.52060927697268
+          ],
+          "longitude": [
+            -0.07241088896641618
+          ],
+          "street-address": [
+            "91 Brick Ln"
+          ],
+          "locality": [
+            "Spitalfields"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E1 6QL"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
