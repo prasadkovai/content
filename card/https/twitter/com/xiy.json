@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
-    "name": [
-      "xiy (@xiy)"
+    "uid": [
+      "tag:twitter.com,2013:xiy"
     ],
-    "photo": [
-      "http://pbs.twimg.com/profile_images/505526751595077632/4fB8_eRL_normal.jpeg"
+    "numeric-id": [
+      "16702093"
+    ],
+    "name": [
+      "xiy s32e05"
     ],
     "url": [
       "https://twitter.com/xiy"
+    ],
+    "nickname": [
+      "xiy"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/505526751595077632/4fB8_eRL.jpeg"
     ]
   }
 }
