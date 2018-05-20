@@ -1,0 +1,107 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-20T17:35:53+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b01a3e9c21cb1002c910294"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Shoreditch High Street London Overground Station"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bc891b32f94d13a09d8137f",
+            "http://www.tfl.gov.uk/livetravelnews"
+          ],
+          "tel": [
+            "0843 222 1234"
+          ],
+          "latitude": [
+            51.523389819799895
+          ],
+          "longitude": [
+            -0.07541367519888706
+          ],
+          "street-address": [
+            "Braithwaite St"
+          ],
+          "locality": [
+            "Shoreditch"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E1 6GJ"
+          ]
+        },
+        "value": "https://foursquare.com/v/4bc891b32f94d13a09d8137f"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.523389819799895
+          ],
+          "longitude": [
+            -0.07541367519888706
+          ],
+          "street-address": [
+            "Braithwaite St"
+          ],
+          "locality": [
+            "Shoreditch"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "E1 6GJ"
+          ]
+        }
+      }
+    ],
+    "checked-in-by": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "url": [
+            "https://calumryan.com/",
+            "https://foursquare.com/user/407869714"
+          ],
+          "name": [
+            "Calum"
+          ],
+          "photo": [
+            "https://igx.4sqi.net/img/user/300x300/407869714_H19z7X2P_J5qBrc6Ahd1fO9tx8x9FK9GHNsdMkT-sd0T_irGDdNKAyw1ZVVbpwzFwhEKc9Lq4.jpg"
+          ]
+        },
+        "value": "https://calumryan.com/"
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
