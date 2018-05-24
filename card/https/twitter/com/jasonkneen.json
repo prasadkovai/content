@@ -3,14 +3,23 @@
     "h-card"
   ],
   "properties": {
+    "uid": [
+      "tag:twitter.com,2013:jasonkneen"
+    ],
+    "numeric-id": [
+      "6392872"
+    ],
     "name": [
       "Jason Kneen"
     ],
-    "photo": [
-      "https://pbs.twimg.com/profile_images/579955845313785856/0Tdk9fF6.jpg"
-    ],
     "url": [
       "https://twitter.com/jasonkneen"
+    ],
+    "nickname": [
+      "jasonkneen"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/966433885876834305/fg1Y53Gq.jpg"
     ]
   }
 }
