@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides"
+    ],
+    "name": [
+      "A white-label slide deck"
+    ],
+    "category": [
+      "presentation",
+      "slides",
+      "template"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-26T08:20:03Z"
+    ]
+  }
+}
