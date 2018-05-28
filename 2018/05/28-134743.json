@@ -1,0 +1,80 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-28T14:47:25+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b0c086d6bdee6002c4368b2"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Look Out Discovery Centre"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b646cebf964a5202fb22ae3"
+          ],
+          "tel": [
+            "01344 354400"
+          ],
+          "latitude": [
+            51.38698783875057
+          ],
+          "longitude": [
+            -0.7408011082879321
+          ],
+          "street-address": [
+            "Nine Mile Ride"
+          ],
+          "locality": [
+            "Bracknell"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG12 7QW"
+          ]
+        },
+        "value": "https://foursquare.com/v/4b646cebf964a5202fb22ae3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.38698783875057
+          ],
+          "longitude": [
+            -0.7408011082879321
+          ],
+          "street-address": [
+            "Nine Mile Ride"
+          ],
+          "locality": [
+            "Bracknell"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG12 7QW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
