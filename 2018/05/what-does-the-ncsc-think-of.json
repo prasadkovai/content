@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers"
+    ],
+    "name": [
+      "What does the NCSC think of password managers?"
+    ],
+    "content": [
+      "Spoiler: use them"
+    ],
+    "category": [
+      "password",
+      "security",
+      "uk"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-05-29T11:42:32Z"
+    ]
+  }
+}
