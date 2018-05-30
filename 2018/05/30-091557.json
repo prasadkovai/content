@@ -1,0 +1,87 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-30T10:15:35+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b0e6bb723a2e6002c554088"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Record Hall"
+          ],
+          "url": [
+            "https://foursquare.com/v/5a1575964a1cc042f3757fc7",
+            "https://twitter.com/workspacegroup"
+          ],
+          "tel": [
+            "020 8108 5343"
+          ],
+          "latitude": [
+            51.520208
+          ],
+          "longitude": [
+            -0.110222
+          ],
+          "street-address": [
+            "16-16A Baldwin's Gardens"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "EC1N 7RJ"
+          ]
+        },
+        "value": "https://foursquare.com/v/5a1575964a1cc042f3757fc7"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.520208
+          ],
+          "longitude": [
+            -0.110222
+          ],
+          "street-address": [
+            "16-16A Baldwin's Gardens"
+          ],
+          "locality": [
+            "London"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "EC1N 7RJ"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
