@@ -1,0 +1,77 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-05-31T21:11:17+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b1056e5c84d180024417fc6"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Bar1 & Club1"
+          ],
+          "url": [
+            "https://foursquare.com/v/4bdd59096c1b9521b836ad0f"
+          ],
+          "latitude": [
+            51.41096401875235
+          ],
+          "longitude": [
+            -0.6756462669641284
+          ],
+          "street-address": [
+            "1 High St"
+          ],
+          "locality": [
+            "Ascot"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL5 7JF"
+          ]
+        },
+        "value": "https://foursquare.com/v/4bdd59096c1b9521b836ad0f"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.41096401875235
+          ],
+          "longitude": [
+            -0.6756462669641284
+          ],
+          "street-address": [
+            "1 High St"
+          ],
+          "locality": [
+            "Ascot"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL5 7JF"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
