@@ -1,0 +1,25 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:meta_alex"
+    ],
+    "numeric-id": [
+      "83130752"
+    ],
+    "name": [
+      "Alex Skinner"
+    ],
+    "url": [
+      "https://twitter.com/meta_alex"
+    ],
+    "nickname": [
+      "meta_alex"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/811574046437601280/vW3q7Whm.jpg"
+    ]
+  }
+}
