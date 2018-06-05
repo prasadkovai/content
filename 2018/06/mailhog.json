@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/mailhog/MailHog"
+    ],
+    "name": [
+      "MailHog"
+    ],
+    "content": [
+      "> Inspired by MailCatcher, easier to install."
+    ],
+    "category": [
+      "testing",
+      "email",
+      "golang"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-06-05T09:02:00Z"
+    ]
+  }
+}
