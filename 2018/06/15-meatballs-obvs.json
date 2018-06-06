@@ -1,0 +1,86 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-06T15:14:45+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b17ec55bd4009002c9b3055"
+    ],
+    "content": [
+      "15 meatballs, obvs."
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "IKEA"
+          ],
+          "url": [
+            "https://foursquare.com/v/5730349ecd10a8203d3d402a"
+          ],
+          "latitude": [
+            51.44152854017525
+          ],
+          "longitude": [
+            -1.0668380954320982
+          ],
+          "street-address": [
+            "Pincents Kiln"
+          ],
+          "locality": [
+            "Reading"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG31 7SD"
+          ]
+        },
+        "value": "https://foursquare.com/v/5730349ecd10a8203d3d402a"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.44152854017525
+          ],
+          "longitude": [
+            -1.0668380954320982
+          ],
+          "street-address": [
+            "Pincents Kiln"
+          ],
+          "locality": [
+            "Reading"
+          ],
+          "region": [
+            "Berkshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "RG31 7SD"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
