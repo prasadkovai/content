@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.transportapi.com/"
+    ],
+    "name": [
+      "Transport API "
+    ],
+    "content": [
+      "\"The most comprehensive transport data platform for the UK\" -- JSON API with a free tier. "
+    ],
+    "category": [
+      "transport",
+      "uk",
+      "api"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-06-08T11:08:20Z"
+    ]
+  }
+}
