@@ -7,7 +7,7 @@
       "https://martymcgui.re/2017/05/09/114850/"
     ],
     "name": [
-      "liked a post: Barry Frost post from May 9, 2017 Thanks, Marty! You’ve made my day seeing Micropublish being used productively! And that’s the same workflow I use if I want to hand-craft a tweet rather than rely on my site to trim the content. May 9, 2017 at 11:48am EDT • by Marty McGuire"
+      "★ Favorited https://barryfrost.com/2017/05/thanks-marty-you-ve-made-my"
     ],
     "published": [
       "2017-05-09T15:48:50Z"
@@ -15,8 +15,11 @@
     "author": [
       "https://martymcgui.re/"
     ],
-    "mention-of": [
+    "like-of": [
       "https://barryfrost.com/2017/05/thanks-marty-you-ve-made-my"
+    ],
+    "content": [
+      "★ Favorited https://barryfrost.com/2017/05/thanks-marty-you-ve-made-my"
     ]
   }
 }
