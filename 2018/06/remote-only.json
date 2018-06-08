@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://www.remoteonly.org/"
+    ],
+    "name": [
+      "Remote Only"
+    ],
+    "content": [
+      "GitLab’s one-page manifesto "
+    ],
+    "category": [
+      "remote",
+      "dev"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-06-08T18:51:30Z"
+    ]
+  }
+}
