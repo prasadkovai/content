@@ -1,0 +1,29 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://pinterest.github.io/gestalt/#/"
+    ],
+    "name": [
+      "Gestalt"
+    ],
+    "content": [
+      "Pinterest's React pattern library"
+    ],
+    "category": [
+      "react",
+      "pinterest"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-06-08T10:16:26Z"
+    ]
+  }
+}
