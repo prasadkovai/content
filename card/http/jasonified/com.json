@@ -1,0 +1,26 @@
+{
+  "type": [
+    "h-card"
+  ],
+  "properties": {
+    "uid": [
+      "tag:twitter.com,2013:jasonkneen"
+    ],
+    "numeric-id": [
+      "6392872"
+    ],
+    "name": [
+      "Jason Kneen"
+    ],
+    "url": [
+      "http://jasonified.com",
+      "https://twitter.com/jasonkneen"
+    ],
+    "nickname": [
+      "jasonkneen"
+    ],
+    "photo": [
+      "https://pbs.twimg.com/profile_images/966433885876834305/fg1Y53Gq.jpg"
+    ]
+  }
+}
