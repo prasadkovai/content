@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-13T20:44:39+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b217427b9ac38002c6113da"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Project Orange"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b0a7c49f964a520592423e3"
+          ],
+          "latitude": [
+            51.46295933609399
+          ],
+          "longitude": [
+            -0.1704645329180424
+          ],
+          "street-address": [
+            "43 St. John's Hill"
+          ],
+          "locality": [
+            "Clapham Junction"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SW11 1TT"
+          ]
+        },
+        "value": "https://foursquare.com/v/4b0a7c49f964a520592423e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.46295933609399
+          ],
+          "longitude": [
+            -0.1704645329180424
+          ],
+          "street-address": [
+            "43 St. John's Hill"
+          ],
+          "locality": [
+            "Clapham Junction"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SW11 1TT"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
