@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-13T14:29:39+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b211c430457b7002c4a89da"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Oval"
+          ],
+          "url": [
+            "https://foursquare.com/v/4ac518e8f964a520adab20e3"
+          ],
+          "latitude": [
+            51.4837364238246
+          ],
+          "longitude": [
+            -0.114956796169281
+          ],
+          "street-address": [
+            "Kennington Oval"
+          ],
+          "locality": [
+            "Kennington"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE11 5SS"
+          ]
+        },
+        "value": "https://foursquare.com/v/4ac518e8f964a520adab20e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.4837364238246
+          ],
+          "longitude": [
+            -0.114956796169281
+          ],
+          "street-address": [
+            "Kennington Oval"
+          ],
+          "locality": [
+            "Kennington"
+          ],
+          "region": [
+            "Greater London"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SE11 5SS"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
