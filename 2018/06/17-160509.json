@@ -1,0 +1,83 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-17T12:07:28+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b2640f083e380002cf5e388"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Palmer Arms"
+          ],
+          "url": [
+            "https://foursquare.com/v/4aeb6322f964a5209fc121e3"
+          ],
+          "latitude": [
+            51.50345116066434
+          ],
+          "longitude": [
+            -0.6612640877009004
+          ],
+          "street-address": [
+            "Village Rd"
+          ],
+          "locality": [
+            "Dorney"
+          ],
+          "region": [
+            "Buckinghamshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 6QW"
+          ]
+        },
+        "value": "https://foursquare.com/v/4aeb6322f964a5209fc121e3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.50345116066434
+          ],
+          "longitude": [
+            -0.6612640877009004
+          ],
+          "street-address": [
+            "Village Rd"
+          ],
+          "locality": [
+            "Dorney"
+          ],
+          "region": [
+            "Buckinghamshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 6QW"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
