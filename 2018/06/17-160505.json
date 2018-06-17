@@ -1,0 +1,77 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-17T13:41:37+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b265701fd9d73002c84b45c"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Dorney Lake"
+          ],
+          "url": [
+            "https://foursquare.com/v/4b65669ff964a52084ef2ae3"
+          ],
+          "latitude": [
+            51.4938623897609
+          ],
+          "longitude": [
+            -0.663524866104126
+          ],
+          "street-address": [
+            "Court Ln, Dorney"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 6QP"
+          ]
+        },
+        "value": "https://foursquare.com/v/4b65669ff964a52084ef2ae3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.4938623897609
+          ],
+          "longitude": [
+            -0.663524866104126
+          ],
+          "street-address": [
+            "Court Ln, Dorney"
+          ],
+          "locality": [
+            "Windsor"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ],
+          "postal-code": [
+            "SL4 6QP"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
