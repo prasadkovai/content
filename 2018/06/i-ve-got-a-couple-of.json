@@ -1,0 +1,27 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "content": [
+      "I’ve got a couple of people asking me for freelancer referrals for some light website development and SEO work. DM me and I’ll put you in touch."
+    ],
+    "category": [
+      "referral",
+      "seo",
+      "dev"
+    ],
+    "captures": [
+
+    ],
+    "syndication": [
+      "https://twitter.com/barryf/status/1010124972784848897"
+    ],
+    "entry-type": [
+      "note"
+    ],
+    "published": [
+      "2018-06-22T11:38:55Z"
+    ]
+  }
+}
