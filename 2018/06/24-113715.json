@@ -1,0 +1,77 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-24T12:36:58+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b2f825a4420d8002c27d195"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "The Bosun's Chair"
+          ],
+          "url": [
+            "https://foursquare.com/v/4da745b36e81162ae790aa07"
+          ],
+          "latitude": [
+            50.76072858514428
+          ],
+          "longitude": [
+            -1.5381457633537532
+          ],
+          "street-address": [
+            "Station Rd"
+          ],
+          "locality": [
+            "Lymington"
+          ],
+          "region": [
+            "Hampshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4da745b36e81162ae790aa07"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            50.76072858514428
+          ],
+          "longitude": [
+            -1.5381457633537532
+          ],
+          "street-address": [
+            "Station Rd"
+          ],
+          "locality": [
+            "Lymington"
+          ],
+          "region": [
+            "Hampshire"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
