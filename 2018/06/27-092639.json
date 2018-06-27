@@ -1,0 +1,59 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-27T10:26:22+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b33583e2619ee002c01e9fd"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Longdown Activity Farm"
+          ],
+          "url": [
+            "https://foursquare.com/v/4d9719b2c19fb60cdf5b8d65"
+          ],
+          "latitude": [
+            50.89460481374073
+          ],
+          "longitude": [
+            -1.50574964749075
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/4d9719b2c19fb60cdf5b8d65"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            50.89460481374073
+          ],
+          "longitude": [
+            -1.50574964749075
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
