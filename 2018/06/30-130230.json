@@ -1,0 +1,71 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "published": [
+      "2018-06-30T14:02:13+01:00"
+    ],
+    "syndication": [
+      "https://www.swarmapp.com/user/506725/checkin/5b377f558194fc002c4829e9"
+    ],
+    "checkin": [
+      {
+        "type": [
+          "h-card"
+        ],
+        "properties": {
+          "name": [
+            "Virginia Water"
+          ],
+          "url": [
+            "https://foursquare.com/v/5159f7b1e4b0cb5e0ddf18c3"
+          ],
+          "latitude": [
+            51.39660758414213
+          ],
+          "longitude": [
+            -0.5735153768851815
+          ],
+          "locality": [
+            "Surrey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        },
+        "value": "https://foursquare.com/v/5159f7b1e4b0cb5e0ddf18c3"
+      }
+    ],
+    "location": [
+      {
+        "type": [
+          "h-adr"
+        ],
+        "properties": {
+          "latitude": [
+            51.39660758414213
+          ],
+          "longitude": [
+            -0.5735153768851815
+          ],
+          "locality": [
+            "Surrey"
+          ],
+          "region": [
+            "Surrey"
+          ],
+          "country-name": [
+            "United Kingdom"
+          ]
+        }
+      }
+    ],
+    "entry-type": [
+      "checkin"
+    ]
+  }
+}
