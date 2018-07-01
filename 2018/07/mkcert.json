@@ -1,0 +1,30 @@
+{
+  "type": [
+    "h-entry"
+  ],
+  "properties": {
+    "bookmark-of": [
+      "https://github.com/FiloSottile/mkcert"
+    ],
+    "name": [
+      "mkcert"
+    ],
+    "content": [
+      "> A simple zero-config tool to make locally-trusted development certificates with any names you'd like."
+    ],
+    "category": [
+      "ssl",
+      "certificate",
+      "dev"
+    ],
+    "captures": [
+
+    ],
+    "entry-type": [
+      "bookmark"
+    ],
+    "published": [
+      "2018-07-01T07:49:33Z"
+    ]
+  }
+}
